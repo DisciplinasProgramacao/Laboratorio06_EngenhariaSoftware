@@ -6,15 +6,15 @@ Utilizamos o mesmo script da sprint 1, porém agora, para coletar as informaçõ
 
 --- Resultados das Análises ---
 
-RQ01: Mediana da idade dos repositórios (anos): 8.10
+* RQ01: Mediana da idade dos repositórios (anos): 8.10
 
-RQ02: Mediana do total de pull requests aceitas: 577.0
+* RQ02: Mediana do total de pull requests aceitas: 577.0
 
-RQ03: Mediana do total de releases: 30.0
+* RQ03: Mediana do total de releases: 30.0
 
-RQ04: Mediana do tempo desde a última atualização (dias): 0.0
+* RQ04: Mediana do tempo desde a última atualização (dias): 0.0
 
-RQ05: Linguagens mais comuns:
+* RQ05: Linguagens mais comuns:
 
 Python 163
 
@@ -106,4 +106,4 @@ Less 1
 
 Elixir 1
 
-RQ06: Mediana da razão de issues fechadas: 0.86
+* RQ06: Mediana da razão de issues fechadas: 0.86
