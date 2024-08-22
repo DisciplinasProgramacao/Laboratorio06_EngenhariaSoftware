@@ -7,6 +7,6 @@ Henrique Diniz
 
 Caio Araujo
 
-Ana Carolina
+Ana Carolina Corrêa
 
-Maria
+Maria Clara Santos
