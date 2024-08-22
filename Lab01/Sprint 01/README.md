@@ -7,15 +7,15 @@ Desenvolvemos a query e o script para coletar as informações dos 100 repositó
 
 --- Resultados das Análises ---
 
-RQ01: Mediana da idade dos repositórios (anos): 8.51
+* RQ01: Mediana da idade dos repositórios (anos): 8.51
 
-RQ02: Mediana do total de pull requests aceitas: 1521.0
+* RQ02: Mediana do total de pull requests aceitas: 1521.0
 
-RQ03: Mediana do total de releases: 16.0
+* RQ03: Mediana do total de releases: 16.0
 
-RQ04: Mediana do tempo desde a última atualização (dias): 0.0
+* RQ04: Mediana do tempo desde a última atualização (dias): 0.0
 
-RQ05: Linguagens mais comuns:
+* RQ05: Linguagens mais comuns:
 
 Unknown             17
 
@@ -63,4 +63,4 @@ Clojure              1
 
 Name: count, dtype: int64
 
-RQ06: Mediana da razão de issues fechadas: 0.87
+* RQ06: Mediana da razão de issues fechadas: 0.87
