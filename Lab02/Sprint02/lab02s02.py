@@ -1,16 +1,16 @@
 import csv
+import json
+import traceback
 import requests
 import subprocess
 import os
-import shutil
 from datetime import datetime
 
-TOKEN = "<ADICIONAR-TOKEN>"
+TOKEN = "ADICIONAR-TOKEN"
 HEADERS = {"Authorization": f"Bearer {TOKEN}"}
-# PASSAR PRA 1000
 QUERY = """
 query($cursor: String) {
-  search(query: "stars:>10000 language:Java", type: REPOSITORY, first: 5, after: $cursor) {
+  search(query: "stars:>3000 language:Java", type: REPOSITORY, first: 50, after: $cursor) {
     edges {
       node {
         ... on Repository {
@@ -34,11 +34,13 @@ query($cursor: String) {
 }
 """
 
+
 def run_query(query, variables):
     response = requests.post(
         "https://api.github.com/graphql",
         json={"query": query, "variables": variables},
-        headers=HEADERS
+        headers=HEADERS,
+        timeout=60
     )
     if response.status_code != 200:
         raise Exception(f"Query falhou com status code {response.status_code}. {response.text}")
@@ -47,28 +49,28 @@ def run_query(query, variables):
 def coletar_repositorios():
     repositorios = []
     cursor = None
-    # PASSAR PRA 1000
-    while len(repositorios) < 5:
+
+    while len(repositorios) < 1000:
         result = run_query(QUERY, {'cursor': cursor})
+
+        if 'data' not in result:
+            print("Resposta da API não contém 'data':", result)
+            break
+
         edges = result["data"]["search"]["edges"]
+        repositorios.extend({
+            "nome": edge["node"]["name"],
+            "url": edge["node"]["url"],
+            "estrelas": edge["node"]["stargazers"]["totalCount"],
+            "releases": edge["node"]["releases"]["totalCount"],
+            "idade": calcular_idade(edge["node"]["createdAt"])
+        } for edge in edges)
 
-        for edge in edges:
-            repo = edge["node"]
-            nome = repo["name"]
-            url = repo["url"]
-            estrelas = repo["stargazers"]["totalCount"]
-            releases = repo["releases"]["totalCount"]
-            idade = calcular_idade(repo["createdAt"])
+        page_info = result["data"]["search"]["pageInfo"]
+        if not page_info["hasNextPage"]:
+            break
 
-            repositorios.append({
-                "nome": nome,
-                "url": url,
-                "estrelas": estrelas,
-                "releases": releases,
-                "idade": idade
-            })
-
-        cursor = result["data"]["search"]["pageInfo"]["endCursor"]
+        cursor = page_info["endCursor"]
 
     return repositorios
 
@@ -84,9 +86,16 @@ def clonar_repositorio(url):
     if os.path.exists(caminho):
         print(f"Diretório {caminho} já existe.")
         return caminho
-
-    subprocess.run(["git", "clone", url, caminho], check=True)
-    return caminho
+    
+    try:
+        subprocess.run(["git", "clone", url, caminho], check=True)
+        print(f"Repositório {nome_repositorio} clonado com sucesso!")
+        return caminho
+    except subprocess.CalledProcessError as e:
+        mensagem = f"Falha ao clonar o repositório {url}. Erro: {e}"
+        print(mensagem)
+        log_erro(mensagem, e)
+        return None
 
 def executar_ck(caminho_repositorio):
     ck_jar = "../Sprint01/ck-0.7.0-jar-with-dependencies.jar"
@@ -104,7 +113,7 @@ def executar_ck(caminho_repositorio):
         metrics_file = "class.csv"
         
         try:
-            with open(metrics_file, newline='') as csvfile:
+            with open(metrics_file, newline='', encoding='utf-8') as csvfile:
                 reader = csv.DictReader(csvfile)
 
                 total_cbo = 0
@@ -140,30 +149,46 @@ def executar_ck(caminho_repositorio):
         print("Falha ao coletar métricas.")
         return {"CBO": None, "DIT": None, "LCOM": None, "LOC": None}
 
-def deletar_repositorio(caminho_repositorio):
+def deletar_repositorio():
+    caminho_repositorio = "./repositorios"
     if os.path.exists(caminho_repositorio):
         try:
-            shutil.rmtree(caminho_repositorio)
-            print(f"Repositório {caminho_repositorio} excluído com sucesso.")
-        except PermissionError as e:
-            print(f"Permissão negada ao excluir {caminho_repositorio}: {e}")
+            os.system(f'rmdir /S /Q "{caminho_repositorio}"')
+            print(f"{caminho_repositorio} excluído com sucesso.")
         except Exception as e:
             print(f"Erro ao excluir o repositório {caminho_repositorio}: {e}")
 
-def salvar_csv(repositorios, nome_arquivo="repositorios_metricas.csv"):
-    with open(nome_arquivo, mode='w', newline='') as file:
+def salvar_csv(repo, nome_arquivo="repositorios_metricas.csv"):
+    with open(nome_arquivo, mode='a', newline='') as file:
         fieldnames = ["nome", "url", "estrelas", "releases", "idade", "CBO", "DIT", "LCOM", "LOC"]
         writer = csv.DictWriter(file, fieldnames=fieldnames)
-        writer.writeheader()
+        writer.writerow(repo)
 
-        for repo in repositorios:
-            writer.writerow(repo)
+def salvar_repositorios(repositorios, arquivo):
+    with open(arquivo, 'w') as f:
+        json.dump(repositorios, f, indent=4)
+
+def carregar_repositorios(arquivo):
+    with open(arquivo, 'r') as f:
+        return json.load(f)
+    
+def log_erro(mensagem, exception=None):
+    with open('erros.log', 'a') as log_file:
+        log_file.write(mensagem + "\n")
+        if exception:
+            log_file.write(traceback.format_exc() + "\n")
+        log_file.write("\n")
 
 def main():
-    print("Coletando os 1.000 repositórios Java mais populares...")
-    repositorios = coletar_repositorios()
-    
-    resultados = []
+    arquivo_repositorios = 'repositorios.json'
+
+    if os.path.exists(arquivo_repositorios):
+        print("Carregando repositórios do arquivo...")
+        repositorios = carregar_repositorios(arquivo_repositorios)
+    else:
+        print("Coletando repositórios do GitHub...")
+        repositorios = coletar_repositorios()
+        salvar_repositorios(repositorios, arquivo_repositorios)
     
     for repo in repositorios:
         print(f"Nome: {repo['nome']}, URL: {repo['url']}")
@@ -171,18 +196,17 @@ def main():
         print(f"\nClonando o repositório: {repo['nome']}...")
         caminho_repositorio = clonar_repositorio(repo["url"])
         
-        print("Executando CK no repositório...")
-        metricas_ck = executar_ck(caminho_repositorio)
+        if(caminho_repositorio):
+            print("Executando CK no repositório...")
+            metricas_ck = executar_ck(caminho_repositorio)
         
         print("Deletando o repositório...")
-        deletar_repositorio(caminho_repositorio)
+        deletar_repositorio()
 
         repo.update(metricas_ck)
+        print("Salvando resultados em CSV...")
+        salvar_csv(repo)
 
-        resultados.append(repo)
-    
-    print("Salvando resultados em CSV...")
-    salvar_csv(resultados)
 
 if __name__ == "__main__":
     main()

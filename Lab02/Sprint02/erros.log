@@ -1,0 +1,1620 @@
+Falha ao clonar o repositório https://github.com/spring-projects/spring-boot. Erro: Command '['git', 'clone', 'https://github.com/spring-projects/spring-boot', 'repositorios\\spring-boot']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-projects/spring-boot', 'repositorios\\spring-boot']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/elastic/elasticsearch. Erro: Command '['git', 'clone', 'https://github.com/elastic/elasticsearch', 'repositorios\\elasticsearch']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/elastic/elasticsearch', 'repositorios\\elasticsearch']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-projects/spring-framework. Erro: Command '['git', 'clone', 'https://github.com/spring-projects/spring-framework', 'repositorios\\spring-framework']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-projects/spring-framework', 'repositorios\\spring-framework']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/NationalSecurityAgency/ghidra. Erro: Command '['git', 'clone', 'https://github.com/NationalSecurityAgency/ghidra', 'repositorios\\ghidra']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/NationalSecurityAgency/ghidra', 'repositorios\\ghidra']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/ReactiveX/RxJava. Erro: Command '['git', 'clone', 'https://github.com/ReactiveX/RxJava', 'repositorios\\RxJava']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/ReactiveX/RxJava', 'repositorios\\RxJava']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/dubbo. Erro: Command '['git', 'clone', 'https://github.com/apache/dubbo', 'repositorios\\dubbo']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/dubbo', 'repositorios\\dubbo']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/jeecgboot/JeecgBoot. Erro: Command '['git', 'clone', 'https://github.com/jeecgboot/JeecgBoot', 'repositorios\\JeecgBoot']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/jeecgboot/JeecgBoot', 'repositorios\\JeecgBoot']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/dbeaver/dbeaver. Erro: Command '['git', 'clone', 'https://github.com/dbeaver/dbeaver', 'repositorios\\dbeaver']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/dbeaver/dbeaver', 'repositorios\\dbeaver']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/eugenp/tutorials. Erro: Command '['git', 'clone', 'https://github.com/eugenp/tutorials', 'repositorios\\tutorials']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/eugenp/tutorials', 'repositorios\\tutorials']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/alibaba/arthas. Erro: Command '['git', 'clone', 'https://github.com/alibaba/arthas', 'repositorios\\arthas']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/alibaba/arthas', 'repositorios\\arthas']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/bumptech/glide. Erro: Command '['git', 'clone', 'https://github.com/bumptech/glide', 'repositorios\\glide']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/bumptech/glide', 'repositorios\\glide']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/kafka. Erro: Command '['git', 'clone', 'https://github.com/apache/kafka', 'repositorios\\kafka']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/kafka', 'repositorios\\kafka']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/alibaba/spring-cloud-alibaba. Erro: Command '['git', 'clone', 'https://github.com/alibaba/spring-cloud-alibaba', 'repositorios\\spring-cloud-alibaba']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/alibaba/spring-cloud-alibaba', 'repositorios\\spring-cloud-alibaba']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/YunaiV/ruoyi-vue-pro. Erro: Command '['git', 'clone', 'https://github.com/YunaiV/ruoyi-vue-pro', 'repositorios\\ruoyi-vue-pro']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/YunaiV/ruoyi-vue-pro', 'repositorios\\ruoyi-vue-pro']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/incubator-seata. Erro: Command '['git', 'clone', 'https://github.com/apache/incubator-seata', 'repositorios\\incubator-seata']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/incubator-seata', 'repositorios\\incubator-seata']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/Netflix/Hystrix. Erro: Command '['git', 'clone', 'https://github.com/Netflix/Hystrix', 'repositorios\\Hystrix']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/Netflix/Hystrix', 'repositorios\\Hystrix']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/flink. Erro: Command '['git', 'clone', 'https://github.com/apache/flink', 'repositorios\\flink']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/flink', 'repositorios\\flink']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/skywalking. Erro: Command '['git', 'clone', 'https://github.com/apache/skywalking', 'repositorios\\skywalking']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/skywalking', 'repositorios\\skywalking']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/libgdx/libgdx. Erro: Command '['git', 'clone', 'https://github.com/libgdx/libgdx', 'repositorios\\libgdx']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/libgdx/libgdx', 'repositorios\\libgdx']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/bazelbuild/bazel. Erro: Command '['git', 'clone', 'https://github.com/bazelbuild/bazel', 'repositorios\\bazel']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/bazelbuild/bazel', 'repositorios\\bazel']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/keycloak/keycloak. Erro: Command '['git', 'clone', 'https://github.com/keycloak/keycloak', 'repositorios\\keycloak']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/keycloak/keycloak', 'repositorios\\keycloak']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/alibaba/Sentinel. Erro: Command '['git', 'clone', 'https://github.com/alibaba/Sentinel', 'repositorios\\Sentinel']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/alibaba/Sentinel', 'repositorios\\Sentinel']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/OpenAPITools/openapi-generator. Erro: Command '['git', 'clone', 'https://github.com/OpenAPITools/openapi-generator', 'repositorios\\openapi-generator']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/OpenAPITools/openapi-generator', 'repositorios\\openapi-generator']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition. Erro: Command '['git', 'clone', 'https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition', 'repositorios\\FizzBuzzEnterpriseEdition']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition', 'repositorios\\FizzBuzzEnterpriseEdition']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/oracle/graal. Erro: Command '['git', 'clone', 'https://github.com/oracle/graal', 'repositorios\\graal']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/oracle/graal', 'repositorios\\graal']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/iBotPeaches/Apktool. Erro: Command '['git', 'clone', 'https://github.com/iBotPeaches/Apktool', 'repositorios\\Apktool']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/iBotPeaches/Apktool', 'repositorios\\Apktool']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/shardingsphere. Erro: Command '['git', 'clone', 'https://github.com/apache/shardingsphere', 'repositorios\\shardingsphere']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/shardingsphere', 'repositorios\\shardingsphere']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/yudaocode/SpringBoot-Labs. Erro: Command '['git', 'clone', 'https://github.com/yudaocode/SpringBoot-Labs', 'repositorios\\SpringBoot-Labs']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/yudaocode/SpringBoot-Labs', 'repositorios\\SpringBoot-Labs']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/thingsboard/thingsboard. Erro: Command '['git', 'clone', 'https://github.com/thingsboard/thingsboard', 'repositorios\\thingsboard']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/thingsboard/thingsboard', 'repositorios\\thingsboard']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/JetBrains/intellij-community. Erro: Command '['git', 'clone', 'https://github.com/JetBrains/intellij-community', 'repositorios\\intellij-community']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/JetBrains/intellij-community', 'repositorios\\intellij-community']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/baomidou/mybatis-plus. Erro: Command '['git', 'clone', 'https://github.com/baomidou/mybatis-plus', 'repositorios\\mybatis-plus']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/baomidou/mybatis-plus', 'repositorios\\mybatis-plus']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/YunaiV/yudao-cloud. Erro: Command '['git', 'clone', 'https://github.com/YunaiV/yudao-cloud', 'repositorios\\yudao-cloud']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/YunaiV/yudao-cloud', 'repositorios\\yudao-cloud']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/conductor-oss/conductor. Erro: Command '['git', 'clone', 'https://github.com/conductor-oss/conductor', 'repositorios\\conductor']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/conductor-oss/conductor', 'repositorios\\conductor']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/prestodb/presto. Erro: Command '['git', 'clone', 'https://github.com/prestodb/presto', 'repositorios\\presto']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/prestodb/presto', 'repositorios\\presto']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/CodePhiliaX/Chat2DB. Erro: Command '['git', 'clone', 'https://github.com/CodePhiliaX/Chat2DB', 'repositorios\\Chat2DB']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/CodePhiliaX/Chat2DB', 'repositorios\\Chat2DB']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/hadoop. Erro: Command '['git', 'clone', 'https://github.com/apache/hadoop', 'repositorios\\hadoop']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/hadoop', 'repositorios\\hadoop']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/zhisheng17/flink-learning. Erro: Command '['git', 'clone', 'https://github.com/zhisheng17/flink-learning', 'repositorios\\flink-learning']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/zhisheng17/flink-learning', 'repositorios\\flink-learning']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/pulsar. Erro: Command '['git', 'clone', 'https://github.com/apache/pulsar', 'repositorios\\pulsar']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/pulsar', 'repositorios\\pulsar']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/deeplearning4j/deeplearning4j. Erro: Command '['git', 'clone', 'https://github.com/deeplearning4j/deeplearning4j', 'repositorios\\deeplearning4j']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/deeplearning4j/deeplearning4j', 'repositorios\\deeplearning4j']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/GoogleContainerTools/jib. Erro: Command '['git', 'clone', 'https://github.com/GoogleContainerTools/jib', 'repositorios\\jib']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/GoogleContainerTools/jib', 'repositorios\\jib']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/quarkusio/quarkus. Erro: Command '['git', 'clone', 'https://github.com/quarkusio/quarkus', 'repositorios\\quarkus']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/quarkusio/quarkus', 'repositorios\\quarkus']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/druid. Erro: Command '['git', 'clone', 'https://github.com/apache/druid', 'repositorios\\druid']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/druid', 'repositorios\\druid']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/pinpoint-apm/pinpoint. Erro: Command '['git', 'clone', 'https://github.com/pinpoint-apm/pinpoint', 'repositorios\\pinpoint']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/pinpoint-apm/pinpoint', 'repositorios\\pinpoint']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/neo4j/neo4j. Erro: Command '['git', 'clone', 'https://github.com/neo4j/neo4j', 'repositorios\\neo4j']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/neo4j/neo4j', 'repositorios\\neo4j']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/dolphinscheduler. Erro: Command '['git', 'clone', 'https://github.com/apache/dolphinscheduler', 'repositorios\\dolphinscheduler']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/dolphinscheduler', 'repositorios\\dolphinscheduler']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/codecentric/spring-boot-admin. Erro: Command '['git', 'clone', 'https://github.com/codecentric/spring-boot-admin', 'repositorios\\spring-boot-admin']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/codecentric/spring-boot-admin', 'repositorios\\spring-boot-admin']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/doris. Erro: Command '['git', 'clone', 'https://github.com/apache/doris', 'repositorios\\doris']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/doris', 'repositorios\\doris']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/languagetool-org/languagetool. Erro: Command '['git', 'clone', 'https://github.com/languagetool-org/languagetool', 'repositorios\\languagetool']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/languagetool-org/languagetool', 'repositorios\\languagetool']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/alibaba/COLA. Erro: Command '['git', 'clone', 'https://github.com/alibaba/COLA', 'repositorios\\COLA']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/alibaba/COLA', 'repositorios\\COLA']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/Tencent/matrix. Erro: Command '['git', 'clone', 'https://github.com/Tencent/matrix', 'repositorios\\matrix']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/Tencent/matrix', 'repositorios\\matrix']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/frank-lam/fullstack-tutorial. Erro: Command '['git', 'clone', 'https://github.com/frank-lam/fullstack-tutorial', 'repositorios\\fullstack-tutorial']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/frank-lam/fullstack-tutorial', 'repositorios\\fullstack-tutorial']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/androidannotations/androidannotations. Erro: Command '['git', 'clone', 'https://github.com/androidannotations/androidannotations', 'repositorios\\androidannotations']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/androidannotations/androidannotations', 'repositorios\\androidannotations']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/daniulive/SmarterStreaming. Erro: Command '['git', 'clone', 'https://github.com/daniulive/SmarterStreaming', 'repositorios\\SmarterStreaming']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/daniulive/SmarterStreaming', 'repositorios\\SmarterStreaming']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apereo/cas. Erro: Command '['git', 'clone', 'https://github.com/apereo/cas', 'repositorios\\cas']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apereo/cas', 'repositorios\\cas']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/aosp-mirror/platform_frameworks_base. Erro: Command '['git', 'clone', 'https://github.com/aosp-mirror/platform_frameworks_base', 'repositorios\\platform_frameworks_base']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/aosp-mirror/platform_frameworks_base', 'repositorios\\platform_frameworks_base']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/kekingcn/kkFileView. Erro: Command '['git', 'clone', 'https://github.com/kekingcn/kkFileView', 'repositorios\\kkFileView']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/kekingcn/kkFileView', 'repositorios\\kkFileView']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/debezium/debezium. Erro: Command '['git', 'clone', 'https://github.com/debezium/debezium', 'repositorios\\debezium']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/debezium/debezium', 'repositorios\\debezium']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/trinodb/trino. Erro: Command '['git', 'clone', 'https://github.com/trinodb/trino', 'repositorios\\trino']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/trinodb/trino', 'repositorios\\trino']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/Activiti/Activiti. Erro: Command '['git', 'clone', 'https://github.com/Activiti/Activiti', 'repositorios\\Activiti']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/Activiti/Activiti', 'repositorios\\Activiti']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/datahub-project/datahub. Erro: Command '['git', 'clone', 'https://github.com/datahub-project/datahub', 'repositorios\\datahub']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/datahub-project/datahub', 'repositorios\\datahub']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/resilience4j/resilience4j. Erro: Command '['git', 'clone', 'https://github.com/resilience4j/resilience4j', 'repositorios\\resilience4j']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/resilience4j/resilience4j', 'repositorios\\resilience4j']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/opensearch-project/OpenSearch. Erro: Command '['git', 'clone', 'https://github.com/opensearch-project/OpenSearch', 'repositorios\\OpenSearch']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/opensearch-project/OpenSearch', 'repositorios\\OpenSearch']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/awsdocs/aws-doc-sdk-examples. Erro: Command '['git', 'clone', 'https://github.com/awsdocs/aws-doc-sdk-examples', 'repositorios\\aws-doc-sdk-examples']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/awsdocs/aws-doc-sdk-examples', 'repositorios\\aws-doc-sdk-examples']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/android/testing-samples. Erro: Command '['git', 'clone', 'https://github.com/android/testing-samples', 'repositorios\\testing-samples']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/android/testing-samples', 'repositorios\\testing-samples']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/SonarSource/sonarqube. Erro: Command '['git', 'clone', 'https://github.com/SonarSource/sonarqube', 'repositorios\\sonarqube']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/SonarSource/sonarqube', 'repositorios\\sonarqube']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-projects/spring-security. Erro: Command '['git', 'clone', 'https://github.com/spring-projects/spring-security', 'repositorios\\spring-security']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-projects/spring-security', 'repositorios\\spring-security']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/StarRocks/starrocks. Erro: Command '['git', 'clone', 'https://github.com/StarRocks/starrocks', 'repositorios\\starrocks']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/StarRocks/starrocks', 'repositorios\\starrocks']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/facebook/buck. Erro: Command '['git', 'clone', 'https://github.com/facebook/buck', 'repositorios\\buck']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/facebook/buck', 'repositorios\\buck']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/shenyu. Erro: Command '['git', 'clone', 'https://github.com/apache/shenyu', 'repositorios\\shenyu']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/shenyu', 'repositorios\\shenyu']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/hs-web/hsweb-framework. Erro: Command '['git', 'clone', 'https://github.com/hs-web/hsweb-framework', 'repositorios\\hsweb-framework']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/hs-web/hsweb-framework', 'repositorios\\hsweb-framework']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/checkstyle/checkstyle. Erro: Command '['git', 'clone', 'https://github.com/checkstyle/checkstyle', 'repositorios\\checkstyle']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/checkstyle/checkstyle', 'repositorios\\checkstyle']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/microg/GmsCore. Erro: Command '['git', 'clone', 'https://github.com/microg/GmsCore', 'repositorios\\GmsCore']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/microg/GmsCore', 'repositorios\\GmsCore']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/shardingsphere-elasticjob. Erro: Command '['git', 'clone', 'https://github.com/apache/shardingsphere-elasticjob', 'repositorios\\shardingsphere-elasticjob']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/shardingsphere-elasticjob', 'repositorios\\shardingsphere-elasticjob']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/xuchengsheng/spring-reading. Erro: Command '['git', 'clone', 'https://github.com/xuchengsheng/spring-reading', 'repositorios\\spring-reading']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/xuchengsheng/spring-reading', 'repositorios\\spring-reading']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/flowable/flowable-engine. Erro: Command '['git', 'clone', 'https://github.com/flowable/flowable-engine', 'repositorios\\flowable-engine']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/flowable/flowable-engine', 'repositorios\\flowable-engine']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/seatunnel. Erro: Command '['git', 'clone', 'https://github.com/apache/seatunnel', 'repositorios\\seatunnel']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/seatunnel', 'repositorios\\seatunnel']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/beam. Erro: Command '['git', 'clone', 'https://github.com/apache/beam', 'repositorios\\beam']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/beam', 'repositorios\\beam']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/pentaho/pentaho-kettle. Erro: Command '['git', 'clone', 'https://github.com/pentaho/pentaho-kettle', 'repositorios\\pentaho-kettle']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/pentaho/pentaho-kettle', 'repositorios\\pentaho-kettle']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/alibaba/transmittable-thread-local. Erro: Command '['git', 'clone', 'https://github.com/alibaba/transmittable-thread-local', 'repositorios\\transmittable-thread-local']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/alibaba/transmittable-thread-local', 'repositorios\\transmittable-thread-local']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/TechEmpower/FrameworkBenchmarks. Erro: Command '['git', 'clone', 'https://github.com/TechEmpower/FrameworkBenchmarks', 'repositorios\\FrameworkBenchmarks']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/TechEmpower/FrameworkBenchmarks', 'repositorios\\FrameworkBenchmarks']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/Tencent/Shadow. Erro: Command '['git', 'clone', 'https://github.com/Tencent/Shadow', 'repositorios\\Shadow']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/Tencent/Shadow', 'repositorios\\Shadow']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/dyc87112/SpringCloud-Learning. Erro: Command '['git', 'clone', 'https://github.com/dyc87112/SpringCloud-Learning', 'repositorios\\SpringCloud-Learning']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/dyc87112/SpringCloud-Learning', 'repositorios\\SpringCloud-Learning']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/Graylog2/graylog2-server. Erro: Command '['git', 'clone', 'https://github.com/Graylog2/graylog2-server', 'repositorios\\graylog2-server']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/Graylog2/graylog2-server', 'repositorios\\graylog2-server']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/cymcsg/UltimateRecyclerView. Erro: Command '['git', 'clone', 'https://github.com/cymcsg/UltimateRecyclerView', 'repositorios\\UltimateRecyclerView']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/cymcsg/UltimateRecyclerView', 'repositorios\\UltimateRecyclerView']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/gocd/gocd. Erro: Command '['git', 'clone', 'https://github.com/gocd/gocd', 'repositorios\\gocd']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/gocd/gocd', 'repositorios\\gocd']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/mapstruct/mapstruct. Erro: Command '['git', 'clone', 'https://github.com/mapstruct/mapstruct', 'repositorios\\mapstruct']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/mapstruct/mapstruct', 'repositorios\\mapstruct']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/rest-assured/rest-assured. Erro: Command '['git', 'clone', 'https://github.com/rest-assured/rest-assured', 'repositorios\\rest-assured']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/rest-assured/rest-assured', 'repositorios\\rest-assured']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/junit-team/junit5. Erro: Command '['git', 'clone', 'https://github.com/junit-team/junit5', 'repositorios\\junit5']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/junit-team/junit5', 'repositorios\\junit5']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/joelittlejohn/jsonschema2pojo. Erro: Command '['git', 'clone', 'https://github.com/joelittlejohn/jsonschema2pojo', 'repositorios\\jsonschema2pojo']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/joelittlejohn/jsonschema2pojo', 'repositorios\\jsonschema2pojo']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/raphw/byte-buddy. Erro: Command '['git', 'clone', 'https://github.com/raphw/byte-buddy', 'repositorios\\byte-buddy']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/raphw/byte-buddy', 'repositorios\\byte-buddy']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/micronaut-projects/micronaut-core. Erro: Command '['git', 'clone', 'https://github.com/micronaut-projects/micronaut-core', 'repositorios\\micronaut-core']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/micronaut-projects/micronaut-core', 'repositorios\\micronaut-core']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/google/j2objc. Erro: Command '['git', 'clone', 'https://github.com/google/j2objc', 'repositorios\\j2objc']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/google/j2objc', 'repositorios\\j2objc']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/krahets/LeetCode-Book. Erro: Command '['git', 'clone', 'https://github.com/krahets/LeetCode-Book', 'repositorios\\LeetCode-Book']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/krahets/LeetCode-Book', 'repositorios\\LeetCode-Book']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/hibernate/hibernate-orm. Erro: Command '['git', 'clone', 'https://github.com/hibernate/hibernate-orm', 'repositorios\\hibernate-orm']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/hibernate/hibernate-orm', 'repositorios\\hibernate-orm']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/weibocom/motan. Erro: Command '['git', 'clone', 'https://github.com/weibocom/motan', 'repositorios\\motan']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/weibocom/motan', 'repositorios\\motan']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/incubator-kie-drools. Erro: Command '['git', 'clone', 'https://github.com/apache/incubator-kie-drools', 'repositorios\\incubator-kie-drools']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/incubator-kie-drools', 'repositorios\\incubator-kie-drools']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/changmingxie/tcc-transaction. Erro: Command '['git', 'clone', 'https://github.com/changmingxie/tcc-transaction', 'repositorios\\tcc-transaction']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/changmingxie/tcc-transaction', 'repositorios\\tcc-transaction']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/flink-cdc. Erro: Command '['git', 'clone', 'https://github.com/apache/flink-cdc', 'repositorios\\flink-cdc']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/flink-cdc', 'repositorios\\flink-cdc']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/Nepxion/Discovery. Erro: Command '['git', 'clone', 'https://github.com/Nepxion/Discovery', 'repositorios\\Discovery']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/Nepxion/Discovery', 'repositorios\\Discovery']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/jetlinks/jetlinks-community. Erro: Command '['git', 'clone', 'https://github.com/jetlinks/jetlinks-community', 'repositorios\\jetlinks-community']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/jetlinks/jetlinks-community', 'repositorios\\jetlinks-community']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/iotdb. Erro: Command '['git', 'clone', 'https://github.com/apache/iotdb', 'repositorios\\iotdb']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/iotdb', 'repositorios\\iotdb']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/camel. Erro: Command '['git', 'clone', 'https://github.com/apache/camel', 'repositorios\\camel']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/camel', 'repositorios\\camel']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/sockeqwe/mosby. Erro: Command '['git', 'clone', 'https://github.com/sockeqwe/mosby', 'repositorios\\mosby']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/sockeqwe/mosby', 'repositorios\\mosby']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/opengoofy/hippo4j. Erro: Command '['git', 'clone', 'https://github.com/opengoofy/hippo4j', 'repositorios\\hippo4j']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/opengoofy/hippo4j', 'repositorios\\hippo4j']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/dubbo-spring-boot-project. Erro: Command '['git', 'clone', 'https://github.com/apache/dubbo-spring-boot-project', 'repositorios\\dubbo-spring-boot-project']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/dubbo-spring-boot-project', 'repositorios\\dubbo-spring-boot-project']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/pinot. Erro: Command '['git', 'clone', 'https://github.com/apache/pinot', 'repositorios\\pinot']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/pinot', 'repositorios\\pinot']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/javaparser/javaparser. Erro: Command '['git', 'clone', 'https://github.com/javaparser/javaparser', 'repositorios\\javaparser']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/javaparser/javaparser', 'repositorios\\javaparser']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/ZHENFENG13/spring-boot-projects. Erro: Command '['git', 'clone', 'https://github.com/ZHENFENG13/spring-boot-projects', 'repositorios\\spring-boot-projects']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/ZHENFENG13/spring-boot-projects', 'repositorios\\spring-boot-projects']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/h6ah4i/android-advancedrecyclerview. Erro: Command '['git', 'clone', 'https://github.com/h6ah4i/android-advancedrecyclerview', 'repositorios\\android-advancedrecyclerview']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/h6ah4i/android-advancedrecyclerview', 'repositorios\\android-advancedrecyclerview']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/mybatis/generator. Erro: Command '['git', 'clone', 'https://github.com/mybatis/generator', 'repositorios\\generator']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/mybatis/generator', 'repositorios\\generator']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/CodingDocs/springboot-guide. Erro: Command '['git', 'clone', 'https://github.com/CodingDocs/springboot-guide', 'repositorios\\springboot-guide']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/CodingDocs/springboot-guide', 'repositorios\\springboot-guide']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/jeequan/jeepay. Erro: Command '['git', 'clone', 'https://github.com/jeequan/jeepay', 'repositorios\\jeepay']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/jeequan/jeepay', 'repositorios\\jeepay']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/android/views-widgets-samples. Erro: Command '['git', 'clone', 'https://github.com/android/views-widgets-samples', 'repositorios\\views-widgets-samples']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/android/views-widgets-samples', 'repositorios\\views-widgets-samples']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/sofastack/sofa-boot. Erro: Command '['git', 'clone', 'https://github.com/sofastack/sofa-boot', 'repositorios\\sofa-boot']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/sofastack/sofa-boot', 'repositorios\\sofa-boot']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-cloud/spring-cloud-netflix. Erro: Command '['git', 'clone', 'https://github.com/spring-cloud/spring-cloud-netflix', 'repositorios\\spring-cloud-netflix']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-cloud/spring-cloud-netflix', 'repositorios\\spring-cloud-netflix']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-projects/spring-authorization-server. Erro: Command '['git', 'clone', 'https://github.com/spring-projects/spring-authorization-server', 'repositorios\\spring-authorization-server']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-projects/spring-authorization-server', 'repositorios\\spring-authorization-server']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/pmd/pmd. Erro: Command '['git', 'clone', 'https://github.com/pmd/pmd', 'repositorios\\pmd']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/pmd/pmd', 'repositorios\\pmd']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/claritylab/lucida. Erro: Command '['git', 'clone', 'https://github.com/claritylab/lucida', 'repositorios\\lucida']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/claritylab/lucida', 'repositorios\\lucida']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/line/armeria. Erro: Command '['git', 'clone', 'https://github.com/line/armeria', 'repositorios\\armeria']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/line/armeria', 'repositorios\\armeria']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/ignite. Erro: Command '['git', 'clone', 'https://github.com/apache/ignite', 'repositorios\\ignite']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/ignite', 'repositorios\\ignite']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/strimzi/strimzi-kafka-operator. Erro: Command '['git', 'clone', 'https://github.com/strimzi/strimzi-kafka-operator', 'repositorios\\strimzi-kafka-operator']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/strimzi/strimzi-kafka-operator', 'repositorios\\strimzi-kafka-operator']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/nifi. Erro: Command '['git', 'clone', 'https://github.com/apache/nifi', 'repositorios\\nifi']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/nifi', 'repositorios\\nifi']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/orientechnologies/orientdb. Erro: Command '['git', 'clone', 'https://github.com/orientechnologies/orientdb', 'repositorios\\orientdb']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/orientechnologies/orientdb', 'repositorios\\orientdb']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-attic/spring-security-oauth. Erro: Command '['git', 'clone', 'https://github.com/spring-attic/spring-security-oauth', 'repositorios\\spring-security-oauth']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-attic/spring-security-oauth', 'repositorios\\spring-security-oauth']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/rubenlagus/TelegramBots. Erro: Command '['git', 'clone', 'https://github.com/rubenlagus/TelegramBots', 'repositorios\\TelegramBots']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/rubenlagus/TelegramBots', 'repositorios\\TelegramBots']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/baomidou/dynamic-datasource. Erro: Command '['git', 'clone', 'https://github.com/baomidou/dynamic-datasource', 'repositorios\\dynamic-datasource']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/baomidou/dynamic-datasource', 'repositorios\\dynamic-datasource']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/rstudio/rstudio. Erro: Command '['git', 'clone', 'https://github.com/rstudio/rstudio', 'repositorios\\rstudio']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/rstudio/rstudio', 'repositorios\\rstudio']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/mock-server/mockserver. Erro: Command '['git', 'clone', 'https://github.com/mock-server/mockserver', 'repositorios\\mockserver']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/mock-server/mockserver', 'repositorios\\mockserver']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/rocketmq-externals. Erro: Command '['git', 'clone', 'https://github.com/apache/rocketmq-externals', 'repositorios\\rocketmq-externals']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/rocketmq-externals', 'repositorios\\rocketmq-externals']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/zlt2000/microservices-platform. Erro: Command '['git', 'clone', 'https://github.com/zlt2000/microservices-platform', 'repositorios\\microservices-platform']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/zlt2000/microservices-platform', 'repositorios\\microservices-platform']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-cloud/spring-cloud-gateway. Erro: Command '['git', 'clone', 'https://github.com/spring-cloud/spring-cloud-gateway', 'repositorios\\spring-cloud-gateway']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-cloud/spring-cloud-gateway', 'repositorios\\spring-cloud-gateway']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/zq2599/blog_demos. Erro: Command '['git', 'clone', 'https://github.com/zq2599/blog_demos', 'repositorios\\blog_demos']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/zq2599/blog_demos', 'repositorios\\blog_demos']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/langchain4j/langchain4j. Erro: Command '['git', 'clone', 'https://github.com/langchain4j/langchain4j', 'repositorios\\langchain4j']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/langchain4j/langchain4j', 'repositorios\\langchain4j']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/dunwu/db-tutorial. Erro: Command '['git', 'clone', 'https://github.com/dunwu/db-tutorial', 'repositorios\\db-tutorial']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/dunwu/db-tutorial', 'repositorios\\db-tutorial']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/981011512/--. Erro: Command '['git', 'clone', 'https://github.com/981011512/--', 'repositorios\\--']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/981011512/--', 'repositorios\\--']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/maven. Erro: Command '['git', 'clone', 'https://github.com/apache/maven', 'repositorios\\maven']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/maven', 'repositorios\\maven']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/aporter/coursera-android. Erro: Command '['git', 'clone', 'https://github.com/aporter/coursera-android', 'repositorios\\coursera-android']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/aporter/coursera-android', 'repositorios\\coursera-android']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/Freeyourgadget/Gadgetbridge. Erro: Command '['git', 'clone', 'https://github.com/Freeyourgadget/Gadgetbridge', 'repositorios\\Gadgetbridge']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/Freeyourgadget/Gadgetbridge', 'repositorios\\Gadgetbridge']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/bjmashibing/InternetArchitect. Erro: Command '['git', 'clone', 'https://github.com/bjmashibing/InternetArchitect', 'repositorios\\InternetArchitect']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/bjmashibing/InternetArchitect', 'repositorios\\InternetArchitect']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/powermock/powermock. Erro: Command '['git', 'clone', 'https://github.com/powermock/powermock', 'repositorios\\powermock']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/powermock/powermock', 'repositorios\\powermock']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/microsoft/typespec. Erro: Command '['git', 'clone', 'https://github.com/microsoft/typespec', 'repositorios\\typespec']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/microsoft/typespec', 'repositorios\\typespec']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/jitsi/jitsi. Erro: Command '['git', 'clone', 'https://github.com/jitsi/jitsi', 'repositorios\\jitsi']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/jitsi/jitsi', 'repositorios\\jitsi']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/mybatis/spring-boot-starter. Erro: Command '['git', 'clone', 'https://github.com/mybatis/spring-boot-starter', 'repositorios\\spring-boot-starter']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/mybatis/spring-boot-starter', 'repositorios\\spring-boot-starter']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/aws/aws-sdk-java. Erro: Command '['git', 'clone', 'https://github.com/aws/aws-sdk-java', 'repositorios\\aws-sdk-java']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/aws/aws-sdk-java', 'repositorios\\aws-sdk-java']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/dromara/hmily. Erro: Command '['git', 'clone', 'https://github.com/dromara/hmily', 'repositorios\\hmily']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/dromara/hmily', 'repositorios\\hmily']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/camunda/camunda-bpm-platform. Erro: Command '['git', 'clone', 'https://github.com/camunda/camunda-bpm-platform', 'repositorios\\camunda-bpm-platform']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/camunda/camunda-bpm-platform', 'repositorios\\camunda-bpm-platform']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/deepjavalibrary/djl. Erro: Command '['git', 'clone', 'https://github.com/deepjavalibrary/djl', 'repositorios\\djl']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/deepjavalibrary/djl', 'repositorios\\djl']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/DTStack/chunjun. Erro: Command '['git', 'clone', 'https://github.com/DTStack/chunjun', 'repositorios\\chunjun']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/DTStack/chunjun', 'repositorios\\chunjun']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/mercyblitz/tech-weekly. Erro: Command '['git', 'clone', 'https://github.com/mercyblitz/tech-weekly', 'repositorios\\tech-weekly']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/mercyblitz/tech-weekly', 'repositorios\\tech-weekly']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/NotFound9/interviewGuide. Erro: Command '['git', 'clone', 'https://github.com/NotFound9/interviewGuide', 'repositorios\\interviewGuide']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/NotFound9/interviewGuide', 'repositorios\\interviewGuide']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/incubator-streampark. Erro: Command '['git', 'clone', 'https://github.com/apache/incubator-streampark', 'repositorios\\incubator-streampark']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/incubator-streampark', 'repositorios\\incubator-streampark']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/knowm/XChange. Erro: Command '['git', 'clone', 'https://github.com/knowm/XChange', 'repositorios\\XChange']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/knowm/XChange', 'repositorios\\XChange']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/jetty/jetty.project. Erro: Command '['git', 'clone', 'https://github.com/jetty/jetty.project', 'repositorios\\jetty.project']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/jetty/jetty.project', 'repositorios\\jetty.project']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/geoserver/geoserver. Erro: Command '['git', 'clone', 'https://github.com/geoserver/geoserver', 'repositorios\\geoserver']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/geoserver/geoserver', 'repositorios\\geoserver']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/dromara/dynamic-tp. Erro: Command '['git', 'clone', 'https://github.com/dromara/dynamic-tp', 'repositorios\\dynamic-tp']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/dromara/dynamic-tp', 'repositorios\\dynamic-tp']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/zongzibinbin/MallChat. Erro: Command '['git', 'clone', 'https://github.com/zongzibinbin/MallChat', 'repositorios\\MallChat']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/zongzibinbin/MallChat', 'repositorios\\MallChat']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/AutoMQ/automq. Erro: Command '['git', 'clone', 'https://github.com/AutoMQ/automq', 'repositorios\\automq']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/AutoMQ/automq', 'repositorios\\automq']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/incubator-heron. Erro: Command '['git', 'clone', 'https://github.com/apache/incubator-heron', 'repositorios\\incubator-heron']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/incubator-heron', 'repositorios\\incubator-heron']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/kylin. Erro: Command '['git', 'clone', 'https://github.com/apache/kylin', 'repositorios\\kylin']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/kylin', 'repositorios\\kylin']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/linkedin/databus. Erro: Command '['git', 'clone', 'https://github.com/linkedin/databus', 'repositorios\\databus']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/linkedin/databus', 'repositorios\\databus']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/lukas-krecan/ShedLock. Erro: Command '['git', 'clone', 'https://github.com/lukas-krecan/ShedLock', 'repositorios\\ShedLock']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/lukas-krecan/ShedLock', 'repositorios\\ShedLock']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/dtinit/data-transfer-project. Erro: Command '['git', 'clone', 'https://github.com/dtinit/data-transfer-project', 'repositorios\\data-transfer-project']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/dtinit/data-transfer-project', 'repositorios\\data-transfer-project']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/alibaba/Alink. Erro: Command '['git', 'clone', 'https://github.com/alibaba/Alink', 'repositorios\\Alink']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/alibaba/Alink', 'repositorios\\Alink']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spockframework/spock. Erro: Command '['git', 'clone', 'https://github.com/spockframework/spock', 'repositorios\\spock']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spockframework/spock', 'repositorios\\spock']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/kubernetes-client/java. Erro: Command '['git', 'clone', 'https://github.com/kubernetes-client/java', 'repositorios\\java']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/kubernetes-client/java', 'repositorios\\java']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/LibrePDF/OpenPDF. Erro: Command '['git', 'clone', 'https://github.com/LibrePDF/OpenPDF', 'repositorios\\OpenPDF']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/LibrePDF/OpenPDF', 'repositorios\\OpenPDF']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/helidon-io/helidon. Erro: Command '['git', 'clone', 'https://github.com/helidon-io/helidon', 'repositorios\\helidon']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/helidon-io/helidon', 'repositorios\\helidon']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-cloud/spring-cloud-kubernetes. Erro: Command '['git', 'clone', 'https://github.com/spring-cloud/spring-cloud-kubernetes', 'repositorios\\spring-cloud-kubernetes']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-cloud/spring-cloud-kubernetes', 'repositorios\\spring-cloud-kubernetes']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/kermitt2/grobid. Erro: Command '['git', 'clone', 'https://github.com/kermitt2/grobid', 'repositorios\\grobid']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/kermitt2/grobid', 'repositorios\\grobid']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/spring-io/initializr. Erro: Command '['git', 'clone', 'https://github.com/spring-io/initializr', 'repositorios\\initializr']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/spring-io/initializr', 'repositorios\\initializr']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/openhab/openhab1-addons. Erro: Command '['git', 'clone', 'https://github.com/openhab/openhab1-addons', 'repositorios\\openhab1-addons']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/openhab/openhab1-addons', 'repositorios\\openhab1-addons']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/microservices-patterns/ftgo-application. Erro: Command '['git', 'clone', 'https://github.com/microservices-patterns/ftgo-application', 'repositorios\\ftgo-application']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/microservices-patterns/ftgo-application', 'repositorios\\ftgo-application']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/fabric8io/kubernetes-client. Erro: Command '['git', 'clone', 'https://github.com/fabric8io/kubernetes-client', 'repositorios\\kubernetes-client']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/fabric8io/kubernetes-client', 'repositorios\\kubernetes-client']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/logging-log4j2. Erro: Command '['git', 'clone', 'https://github.com/apache/logging-log4j2', 'repositorios\\logging-log4j2']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/logging-log4j2', 'repositorios\\logging-log4j2']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/incubator-kie-optaplanner. Erro: Command '['git', 'clone', 'https://github.com/apache/incubator-kie-optaplanner', 'repositorios\\incubator-kie-optaplanner']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/incubator-kie-optaplanner', 'repositorios\\incubator-kie-optaplanner']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/AxonFramework/AxonFramework. Erro: Command '['git', 'clone', 'https://github.com/AxonFramework/AxonFramework', 'repositorios\\AxonFramework']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/AxonFramework/AxonFramework', 'repositorios\\AxonFramework']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/apache/linkis. Erro: Command '['git', 'clone', 'https://github.com/apache/linkis', 'repositorios\\linkis']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/apache/linkis', 'repositorios\\linkis']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/springdoc/springdoc-openapi. Erro: Command '['git', 'clone', 'https://github.com/springdoc/springdoc-openapi', 'repositorios\\springdoc-openapi']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/springdoc/springdoc-openapi', 'repositorios\\springdoc-openapi']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/wix/react-native-notifications. Erro: Command '['git', 'clone', 'https://github.com/wix/react-native-notifications', 'repositorios\\react-native-notifications']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/wix/react-native-notifications', 'repositorios\\react-native-notifications']' returned non-zero exit status 128.
+
+
+Falha ao clonar o repositório https://github.com/camunda/camunda. Erro: Command '['git', 'clone', 'https://github.com/camunda/camunda', 'repositorios\\camunda']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "C:\Users\maria\Desktop\puc\2024-2\Laboratorio06_EngenhariaSoftware\Lab02\Sprint02\lab02s02.py", line 92, in clonar_repositorio
+    subprocess.run(["git", "clone", url, caminho], check=True)
+  File "C:\Users\maria\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['git', 'clone', 'https://github.com/camunda/camunda', 'repositorios\\camunda']' returned non-zero exit status 128.
+
+

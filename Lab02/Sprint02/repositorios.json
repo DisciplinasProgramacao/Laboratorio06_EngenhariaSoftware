@@ -1,0 +1,7002 @@
+[
+    {
+        "nome": "JavaGuide",
+        "url": "https://github.com/Snailclimb/JavaGuide",
+        "estrelas": 145991,
+        "releases": 0,
+        "idade": 6.3709787816564
+    },
+    {
+        "nome": "GitHub-Chinese-Top-Charts",
+        "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+        "estrelas": 98863,
+        "releases": 0,
+        "idade": 5.040383299110198
+    },
+    {
+        "nome": "hello-algo",
+        "url": "https://github.com/krahets/hello-algo",
+        "estrelas": 95613,
+        "releases": 8,
+        "idade": 1.8754277891854894
+    },
+    {
+        "nome": "java-design-patterns",
+        "url": "https://github.com/iluwatar/java-design-patterns",
+        "estrelas": 89383,
+        "releases": 0,
+        "idade": 10.11088295687885
+    },
+    {
+        "nome": "mall",
+        "url": "https://github.com/macrozheng/mall",
+        "estrelas": 77342,
+        "releases": 3,
+        "idade": 6.461327857631759
+    },
+    {
+        "nome": "advanced-java",
+        "url": "https://github.com/doocs/advanced-java",
+        "estrelas": 75725,
+        "releases": 1,
+        "idade": 5.95482546201232
+    },
+    {
+        "nome": "LeetCodeAnimation",
+        "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+        "estrelas": 75322,
+        "releases": 0,
+        "idade": 5.7878165639972625
+    },
+    {
+        "nome": "spring-boot",
+        "url": "https://github.com/spring-projects/spring-boot",
+        "estrelas": 74547,
+        "releases": 286,
+        "idade": 11.915126625598905
+    },
+    {
+        "nome": "elasticsearch",
+        "url": "https://github.com/elastic/elasticsearch",
+        "estrelas": 69570,
+        "releases": 155,
+        "idade": 14.611909650924025
+    },
+    {
+        "nome": "interviews",
+        "url": "https://github.com/kdn251/interviews",
+        "estrelas": 63369,
+        "releases": 0,
+        "idade": 7.592060232717317
+    },
+    {
+        "nome": "Java",
+        "url": "https://github.com/TheAlgorithms/Java",
+        "estrelas": 58683,
+        "releases": 0,
+        "idade": 8.177960301163587
+    },
+    {
+        "nome": "spring-framework",
+        "url": "https://github.com/spring-projects/spring-framework",
+        "estrelas": 56233,
+        "releases": 312,
+        "idade": 13.782340862422998
+    },
+    {
+        "nome": "ghidra",
+        "url": "https://github.com/NationalSecurityAgency/ghidra",
+        "estrelas": 50631,
+        "releases": 38,
+        "idade": 5.555099247091033
+    },
+    {
+        "nome": "guava",
+        "url": "https://github.com/google/guava",
+        "estrelas": 50025,
+        "releases": 46,
+        "idade": 10.30800821355236
+    },
+    {
+        "nome": "RxJava",
+        "url": "https://github.com/ReactiveX/RxJava",
+        "estrelas": 47839,
+        "releases": 234,
+        "idade": 11.693360711841205
+    },
+    {
+        "nome": "Stirling-PDF",
+        "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+        "estrelas": 42295,
+        "releases": 85,
+        "idade": 1.6427104722792607
+    },
+    {
+        "nome": "jadx",
+        "url": "https://github.com/skylot/jadx",
+        "estrelas": 41021,
+        "releases": 29,
+        "idade": 11.50444900752909
+    },
+    {
+        "nome": "dubbo",
+        "url": "https://github.com/apache/dubbo",
+        "estrelas": 40350,
+        "releases": 104,
+        "idade": 12.251882272416154
+    },
+    {
+        "nome": "JeecgBoot",
+        "url": "https://github.com/jeecgboot/JeecgBoot",
+        "estrelas": 40092,
+        "releases": 48,
+        "idade": 5.815195071868583
+    },
+    {
+        "nome": "dbeaver",
+        "url": "https://github.com/dbeaver/dbeaver",
+        "estrelas": 39321,
+        "releases": 207,
+        "idade": 8.914442162902121
+    },
+    {
+        "nome": "MPAndroidChart",
+        "url": "https://github.com/PhilJay/MPAndroidChart",
+        "estrelas": 37542,
+        "releases": 44,
+        "idade": 10.401095140314853
+    },
+    {
+        "nome": "tutorials",
+        "url": "https://github.com/eugenp/tutorials",
+        "estrelas": 36509,
+        "releases": 0,
+        "idade": 11.38945927446954
+    },
+    {
+        "nome": "arthas",
+        "url": "https://github.com/alibaba/arthas",
+        "estrelas": 35389,
+        "releases": 55,
+        "idade": 6.056125941136208
+    },
+    {
+        "nome": "hello-algorithm",
+        "url": "https://github.com/geekxh/hello-algorithm",
+        "estrelas": 35174,
+        "releases": 0,
+        "idade": 4.309377138945927
+    },
+    {
+        "nome": "lottie-android",
+        "url": "https://github.com/airbnb/lottie-android",
+        "estrelas": 34967,
+        "releases": 52,
+        "idade": 7.950718685831622
+    },
+    {
+        "nome": "termux-app",
+        "url": "https://github.com/termux/termux-app",
+        "estrelas": 34846,
+        "releases": 91,
+        "idade": 8.908966461327857
+    },
+    {
+        "nome": "glide",
+        "url": "https://github.com/bumptech/glide",
+        "estrelas": 34589,
+        "releases": 47,
+        "idade": 11.197809719370294
+    },
+    {
+        "nome": "netty",
+        "url": "https://github.com/netty/netty",
+        "estrelas": 33291,
+        "releases": 0,
+        "idade": 13.86173853524983
+    },
+    {
+        "nome": "halo",
+        "url": "https://github.com/halo-dev/halo",
+        "estrelas": 33286,
+        "releases": 190,
+        "idade": 6.499657768651608
+    },
+    {
+        "nome": "AndroidUtilCode",
+        "url": "https://github.com/Blankj/AndroidUtilCode",
+        "estrelas": 33239,
+        "releases": 117,
+        "idade": 8.136892539356605
+    },
+    {
+        "nome": "spring-boot-demo",
+        "url": "https://github.com/xkcoding/spring-boot-demo",
+        "estrelas": 32882,
+        "releases": 0,
+        "idade": 6.8583162217659135
+    },
+    {
+        "nome": "zxing",
+        "url": "https://github.com/zxing/zxing",
+        "estrelas": 32666,
+        "releases": 31,
+        "idade": 12.936344969199178
+    },
+    {
+        "nome": "easyexcel",
+        "url": "https://github.com/alibaba/easyexcel",
+        "estrelas": 32010,
+        "releases": 14,
+        "idade": 6.617385352498289
+    },
+    {
+        "nome": "NewPipe",
+        "url": "https://github.com/TeamNewPipe/NewPipe",
+        "estrelas": 31077,
+        "releases": 131,
+        "idade": 9.043121149897331
+    },
+    {
+        "nome": "leetcode",
+        "url": "https://github.com/doocs/leetcode",
+        "estrelas": 30931,
+        "releases": 20,
+        "idade": 6.006844626967831
+    },
+    {
+        "nome": "selenium",
+        "url": "https://github.com/SeleniumHQ/selenium",
+        "estrelas": 30215,
+        "releases": 97,
+        "idade": 11.676933607118412
+    },
+    {
+        "nome": "spring-boot-examples",
+        "url": "https://github.com/ityouknow/spring-boot-examples",
+        "estrelas": 30166,
+        "releases": 0,
+        "idade": 7.871321013004791
+    },
+    {
+        "nome": "nacos",
+        "url": "https://github.com/alibaba/nacos",
+        "estrelas": 30045,
+        "releases": 70,
+        "idade": 6.264202600958248
+    },
+    {
+        "nome": "apollo",
+        "url": "https://github.com/apolloconfig/apollo",
+        "estrelas": 29060,
+        "releases": 40,
+        "idade": 8.544832306639288
+    },
+    {
+        "nome": "hutool",
+        "url": "https://github.com/dromara/hutool",
+        "estrelas": 28941,
+        "releases": 145,
+        "idade": 10.43668720054757
+    },
+    {
+        "nome": "kafka",
+        "url": "https://github.com/apache/kafka",
+        "estrelas": 28395,
+        "releases": 0,
+        "idade": 13.095140314852841
+    },
+    {
+        "nome": "canal",
+        "url": "https://github.com/alibaba/canal",
+        "estrelas": 28353,
+        "releases": 31,
+        "idade": 11.682409308692677
+    },
+    {
+        "nome": "SpringAll",
+        "url": "https://github.com/wuyouzhuguli/SpringAll",
+        "estrelas": 28229,
+        "releases": 0,
+        "idade": 6.38466803559206
+    },
+    {
+        "nome": "druid",
+        "url": "https://github.com/alibaba/druid",
+        "estrelas": 27896,
+        "releases": 51,
+        "idade": 12.878850102669405
+    },
+    {
+        "nome": "spring-cloud-alibaba",
+        "url": "https://github.com/alibaba/spring-cloud-alibaba",
+        "estrelas": 27807,
+        "releases": 42,
+        "idade": 6.798083504449007
+    },
+    {
+        "nome": "xxl-job",
+        "url": "https://github.com/xuxueli/xxl-job",
+        "estrelas": 27385,
+        "releases": 33,
+        "idade": 8.810403832991103
+    },
+    {
+        "nome": "vhr",
+        "url": "https://github.com/lenve/vhr",
+        "estrelas": 27291,
+        "releases": 0,
+        "idade": 6.707734428473648
+    },
+    {
+        "nome": "JCSprout",
+        "url": "https://github.com/crossoverJie/JCSprout",
+        "estrelas": 27069,
+        "releases": 0,
+        "idade": 6.757015742642026
+    },
+    {
+        "nome": "ruoyi-vue-pro",
+        "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+        "estrelas": 26761,
+        "releases": 28,
+        "idade": 3.652292950034223
+    },
+    {
+        "nome": "miaosha",
+        "url": "https://github.com/qiurunze123/miaosha",
+        "estrelas": 26189,
+        "releases": 0,
+        "idade": 6.015058179329227
+    },
+    {
+        "nome": "fastjson",
+        "url": "https://github.com/alibaba/fastjson",
+        "estrelas": 25722,
+        "releases": 84,
+        "idade": 12.878850102669405
+    },
+    {
+        "nome": "butterknife",
+        "url": "https://github.com/JakeWharton/butterknife",
+        "estrelas": 25563,
+        "releases": 0,
+        "idade": 11.542778918548938
+    },
+    {
+        "nome": "toBeTopJavaer",
+        "url": "https://github.com/hollischuang/toBeTopJavaer",
+        "estrelas": 25296,
+        "releases": 0,
+        "idade": 5.90280629705681
+    },
+    {
+        "nome": "incubator-seata",
+        "url": "https://github.com/apache/incubator-seata",
+        "estrelas": 25220,
+        "releases": 40,
+        "idade": 5.727583846680356
+    },
+    {
+        "nome": "proxyee-down",
+        "url": "https://github.com/proxyee-down-org/proxyee-down",
+        "estrelas": 24936,
+        "releases": 49,
+        "idade": 6.9021218343600275
+    },
+    {
+        "nome": "SmartRefreshLayout",
+        "url": "https://github.com/scwang90/SmartRefreshLayout",
+        "estrelas": 24892,
+        "releases": 12,
+        "idade": 7.299110198494182
+    },
+    {
+        "nome": "Telegram",
+        "url": "https://github.com/DrKLO/Telegram",
+        "estrelas": 24776,
+        "releases": 94,
+        "idade": 10.899383983572895
+    },
+    {
+        "nome": "EventBus",
+        "url": "https://github.com/greenrobot/EventBus",
+        "estrelas": 24666,
+        "releases": 7,
+        "idade": 12.175222450376454
+    },
+    {
+        "nome": "Hystrix",
+        "url": "https://github.com/Netflix/Hystrix",
+        "estrelas": 24069,
+        "releases": 79,
+        "idade": 11.83025325119781
+    },
+    {
+        "nome": "flink",
+        "url": "https://github.com/apache/flink",
+        "estrelas": 23851,
+        "releases": 0,
+        "idade": 10.286105407255304
+    },
+    {
+        "nome": "skywalking",
+        "url": "https://github.com/apache/skywalking",
+        "estrelas": 23714,
+        "releases": 60,
+        "idade": 8.867898699520875
+    },
+    {
+        "nome": "gson",
+        "url": "https://github.com/google/gson",
+        "estrelas": 23266,
+        "releases": 7,
+        "idade": 9.503080082135524
+    },
+    {
+        "nome": "redisson",
+        "url": "https://github.com/redisson/redisson",
+        "estrelas": 23208,
+        "releases": 154,
+        "idade": 10.685831622176591
+    },
+    {
+        "nome": "libgdx",
+        "url": "https://github.com/libgdx/libgdx",
+        "estrelas": 23157,
+        "releases": 11,
+        "idade": 12.106776180698152
+    },
+    {
+        "nome": "jenkins",
+        "url": "https://github.com/jenkinsci/jenkins",
+        "estrelas": 22989,
+        "releases": 367,
+        "idade": 13.82340862422998
+    },
+    {
+        "nome": "bazel",
+        "url": "https://github.com/bazelbuild/bazel",
+        "estrelas": 22986,
+        "releases": 153,
+        "idade": 10.269678302532512
+    },
+    {
+        "nome": "keycloak",
+        "url": "https://github.com/keycloak/keycloak",
+        "estrelas": 22332,
+        "releases": 62,
+        "idade": 11.21697467488022
+    },
+    {
+        "nome": "Sentinel",
+        "url": "https://github.com/alibaba/Sentinel",
+        "estrelas": 22316,
+        "releases": 25,
+        "idade": 6.461327857631759
+    },
+    {
+        "nome": "Mindustry",
+        "url": "https://github.com/Anuken/Mindustry",
+        "estrelas": 22139,
+        "releases": 160,
+        "idade": 7.389459274469542
+    },
+    {
+        "nome": "source-code-hunter",
+        "url": "https://github.com/doocs/source-code-hunter",
+        "estrelas": 21993,
+        "releases": 0,
+        "idade": 4.895277207392197
+    },
+    {
+        "nome": "ExoPlayer",
+        "url": "https://github.com/google/ExoPlayer",
+        "estrelas": 21703,
+        "releases": 28,
+        "idade": 10.26694045174538
+    },
+    {
+        "nome": "openapi-generator",
+        "url": "https://github.com/OpenAPITools/openapi-generator",
+        "estrelas": 21331,
+        "releases": 66,
+        "idade": 6.357289527720739
+    },
+    {
+        "nome": "FizzBuzzEnterpriseEdition",
+        "url": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
+        "estrelas": 21230,
+        "releases": 0,
+        "idade": 11.819301848049282
+    },
+    {
+        "nome": "eladmin",
+        "url": "https://github.com/elunez/eladmin",
+        "estrelas": 21204,
+        "releases": 1,
+        "idade": 5.765913757700205
+    },
+    {
+        "nome": "rocketmq",
+        "url": "https://github.com/apache/rocketmq",
+        "estrelas": 21079,
+        "releases": 19,
+        "idade": 7.8028747433264884
+    },
+    {
+        "nome": "graal",
+        "url": "https://github.com/oracle/graal",
+        "estrelas": 20245,
+        "releases": 32,
+        "idade": 8.678986995208762
+    },
+    {
+        "nome": "GSYVideoPlayer",
+        "url": "https://github.com/CarGuo/GSYVideoPlayer",
+        "estrelas": 20097,
+        "releases": 47,
+        "idade": 7.8494182067077345
+    },
+    {
+        "nome": "DoKit",
+        "url": "https://github.com/didi/DoKit",
+        "estrelas": 20087,
+        "releases": 10,
+        "idade": 6.099931553730322
+    },
+    {
+        "nome": "RxAndroid",
+        "url": "https://github.com/ReactiveX/RxAndroid",
+        "estrelas": 19887,
+        "releases": 20,
+        "idade": 10.08624229979466
+    },
+    {
+        "nome": "HikariCP",
+        "url": "https://github.com/brettwooldridge/HikariCP",
+        "estrelas": 19867,
+        "releases": 0,
+        "idade": 10.948665297741274
+    },
+    {
+        "nome": "Apktool",
+        "url": "https://github.com/iBotPeaches/Apktool",
+        "estrelas": 19854,
+        "releases": 23,
+        "idade": 12.501026694045175
+    },
+    {
+        "nome": "shardingsphere",
+        "url": "https://github.com/apache/shardingsphere",
+        "estrelas": 19784,
+        "releases": 56,
+        "idade": 8.670773442847365
+    },
+    {
+        "nome": "mybatis-3",
+        "url": "https://github.com/mybatis/mybatis-3",
+        "estrelas": 19697,
+        "releases": 43,
+        "idade": 11.592060232717317
+    },
+    {
+        "nome": "jdk",
+        "url": "https://github.com/openjdk/jdk",
+        "estrelas": 19424,
+        "releases": 0,
+        "idade": 6.006844626967831
+    },
+    {
+        "nome": "litemall",
+        "url": "https://github.com/linlinjava/litemall",
+        "estrelas": 19120,
+        "releases": 8,
+        "idade": 6.494182067077344
+    },
+    {
+        "nome": "SpringBoot-Labs",
+        "url": "https://github.com/yudaocode/SpringBoot-Labs",
+        "estrelas": 18973,
+        "releases": 0,
+        "idade": 6.017796030116359
+    },
+    {
+        "nome": "PhotoView",
+        "url": "https://github.com/Baseflow/PhotoView",
+        "estrelas": 18770,
+        "releases": 5,
+        "idade": 12.172484599589323
+    },
+    {
+        "nome": "SmartTube",
+        "url": "https://github.com/yuliskov/SmartTube",
+        "estrelas": 18664,
+        "releases": 492,
+        "idade": 4.145106091718001
+    },
+    {
+        "nome": "cat",
+        "url": "https://github.com/dianping/cat",
+        "estrelas": 18634,
+        "releases": 3,
+        "idade": 11.789185489390828
+    },
+    {
+        "nome": "SpringCloudLearning",
+        "url": "https://github.com/forezp/SpringCloudLearning",
+        "estrelas": 17847,
+        "releases": 0,
+        "idade": 7.449691991786447
+    },
+    {
+        "nome": "dataease",
+        "url": "https://github.com/dataease/dataease",
+        "estrelas": 17397,
+        "releases": 82,
+        "idade": 3.6276522929500343
+    },
+    {
+        "nome": "disruptor",
+        "url": "https://github.com/LMAX-Exchange/disruptor",
+        "estrelas": 17362,
+        "releases": 14,
+        "idade": 11.991786447638603
+    },
+    {
+        "nome": "awesome-system-design-resources",
+        "url": "https://github.com/ashishps1/awesome-system-design-resources",
+        "estrelas": 17267,
+        "releases": 0,
+        "idade": 0.9034907597535934
+    },
+    {
+        "nome": "thingsboard",
+        "url": "https://github.com/thingsboard/thingsboard",
+        "estrelas": 17236,
+        "releases": 61,
+        "idade": 7.800136892539356
+    },
+    {
+        "nome": "LSPosed",
+        "url": "https://github.com/LSPosed/LSPosed",
+        "estrelas": 17200,
+        "releases": 39,
+        "idade": 3.7700205338809036
+    },
+    {
+        "nome": "tinker",
+        "url": "https://github.com/Tencent/tinker",
+        "estrelas": 17137,
+        "releases": 57,
+        "idade": 8.035592060232718
+    },
+    {
+        "nome": "Algorithms",
+        "url": "https://github.com/williamfiset/Algorithms",
+        "estrelas": 17115,
+        "releases": 0,
+        "idade": 7.507186858316222
+    },
+    {
+        "nome": "APIJSON",
+        "url": "https://github.com/Tencent/APIJSON",
+        "estrelas": 17093,
+        "releases": 100,
+        "idade": 7.827515400410678
+    },
+    {
+        "nome": "intellij-community",
+        "url": "https://github.com/JetBrains/intellij-community",
+        "estrelas": 17089,
+        "releases": 0,
+        "idade": 12.971937029431896
+    },
+    {
+        "nome": "fresco",
+        "url": "https://github.com/facebook/fresco",
+        "estrelas": 17073,
+        "releases": 51,
+        "idade": 9.552361396303901
+    },
+    {
+        "nome": "antlr4",
+        "url": "https://github.com/antlr/antlr4",
+        "estrelas": 16988,
+        "releases": 31,
+        "idade": 14.622861054072553
+    },
+    {
+        "nome": "zipkin",
+        "url": "https://github.com/openzipkin/zipkin",
+        "estrelas": 16935,
+        "releases": 92,
+        "idade": 12.284736481861739
+    },
+    {
+        "nome": "DSA-Bootcamp-Java",
+        "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+        "estrelas": 16907,
+        "releases": 0,
+        "idade": 3.14031485284052
+    },
+    {
+        "nome": "Android-Universal-Image-Loader",
+        "url": "https://github.com/nostra13/Android-Universal-Image-Loader",
+        "estrelas": 16785,
+        "releases": 0,
+        "idade": 12.810403832991103
+    },
+    {
+        "nome": "java8-tutorial",
+        "url": "https://github.com/winterbe/java8-tutorial",
+        "estrelas": 16726,
+        "releases": 0,
+        "idade": 10.510609171800137
+    },
+    {
+        "nome": "zheng",
+        "url": "https://github.com/shuzheng/zheng",
+        "estrelas": 16663,
+        "releases": 0,
+        "idade": 7.958932238193018
+    },
+    {
+        "nome": "analysis-ik",
+        "url": "https://github.com/infinilabs/analysis-ik",
+        "estrelas": 16487,
+        "releases": 208,
+        "idade": 12.761122518822724
+    },
+    {
+        "nome": "JustAuth",
+        "url": "https://github.com/justauth/JustAuth",
+        "estrelas": 16402,
+        "releases": 45,
+        "idade": 5.634496919917864
+    },
+    {
+        "nome": "mybatis-plus",
+        "url": "https://github.com/baomidou/mybatis-plus",
+        "estrelas": 16293,
+        "releases": 31,
+        "idade": 8.087611225188228
+    },
+    {
+        "nome": "material-components-android",
+        "url": "https://github.com/material-components/material-components-android",
+        "estrelas": 16269,
+        "releases": 97,
+        "idade": 7.786447638603696
+    },
+    {
+        "nome": "springboot-learning-example",
+        "url": "https://github.com/JeffLi1993/springboot-learning-example",
+        "estrelas": 16228,
+        "releases": 0,
+        "idade": 7.616700889801506
+    },
+    {
+        "nome": "Sa-Token",
+        "url": "https://github.com/dromara/Sa-Token",
+        "estrelas": 16161,
+        "releases": 33,
+        "idade": 4.6269678302532515
+    },
+    {
+        "nome": "Grasscutter",
+        "url": "https://github.com/Grasscutters/Grasscutter",
+        "estrelas": 16161,
+        "releases": 20,
+        "idade": 2.425735797399042
+    },
+    {
+        "nome": "yudao-cloud",
+        "url": "https://github.com/YunaiV/yudao-cloud",
+        "estrelas": 16084,
+        "releases": 14,
+        "idade": 5.382614647501711
+    },
+    {
+        "nome": "conductor",
+        "url": "https://github.com/conductor-oss/conductor",
+        "estrelas": 15977,
+        "releases": 11,
+        "idade": 0.783025325119781
+    },
+    {
+        "nome": "presto",
+        "url": "https://github.com/prestodb/presto",
+        "estrelas": 15921,
+        "releases": 0,
+        "idade": 12.112251882272416
+    },
+    {
+        "nome": "DataX",
+        "url": "https://github.com/alibaba/DataX",
+        "estrelas": 15772,
+        "releases": 7,
+        "idade": 6.669404517453799
+    },
+    {
+        "nome": "BigData-Notes",
+        "url": "https://github.com/heibaiying/BigData-Notes",
+        "estrelas": 15743,
+        "releases": 0,
+        "idade": 5.530458590006845
+    },
+    {
+        "nome": "caffeine",
+        "url": "https://github.com/ben-manes/caffeine",
+        "estrelas": 15726,
+        "releases": 68,
+        "idade": 9.768651608487337
+    },
+    {
+        "nome": "SpringBoot-Learning",
+        "url": "https://github.com/dyc87112/SpringBoot-Learning",
+        "estrelas": 15696,
+        "releases": 0,
+        "idade": 8.07939767282683
+    },
+    {
+        "nome": "Android-CleanArchitecture",
+        "url": "https://github.com/android10/Android-CleanArchitecture",
+        "estrelas": 15514,
+        "releases": 0,
+        "idade": 10.08350444900753
+    },
+    {
+        "nome": "VirtualXposed",
+        "url": "https://github.com/android-hacker/VirtualXposed",
+        "estrelas": 15366,
+        "releases": 50,
+        "idade": 6.80082135523614
+    },
+    {
+        "nome": "Chat2DB",
+        "url": "https://github.com/CodePhiliaX/Chat2DB",
+        "estrelas": 14869,
+        "releases": 38,
+        "idade": 1.2484599589322383
+    },
+    {
+        "nome": "mockito",
+        "url": "https://github.com/mockito/mockito",
+        "estrelas": 14819,
+        "releases": 211,
+        "idade": 11.931553730321697
+    },
+    {
+        "nome": "hadoop",
+        "url": "https://github.com/apache/hadoop",
+        "estrelas": 14649,
+        "releases": 0,
+        "idade": 10.061601642710473
+    },
+    {
+        "nome": "bytecode-viewer",
+        "url": "https://github.com/Konloch/bytecode-viewer",
+        "estrelas": 14604,
+        "releases": 59,
+        "idade": 9.932922655715263
+    },
+    {
+        "nome": "CircleImageView",
+        "url": "https://github.com/hdodenhof/CircleImageView",
+        "estrelas": 14553,
+        "releases": 0,
+        "idade": 10.669404517453799
+    },
+    {
+        "nome": "flink-learning",
+        "url": "https://github.com/zhisheng17/flink-learning",
+        "estrelas": 14490,
+        "releases": 0,
+        "idade": 5.716632443531828
+    },
+    {
+        "nome": "ARouter",
+        "url": "https://github.com/alibaba/ARouter",
+        "estrelas": 14444,
+        "releases": 16,
+        "idade": 7.7645448323066395
+    },
+    {
+        "nome": "QMUI_Android",
+        "url": "https://github.com/Tencent/QMUI_Android",
+        "estrelas": 14420,
+        "releases": 35,
+        "idade": 7.41409993155373
+    },
+    {
+        "nome": "tech-interview-for-developer",
+        "url": "https://github.com/gyoogle/tech-interview-for-developer",
+        "estrelas": 14384,
+        "releases": 0,
+        "idade": 5.281314168377824
+    },
+    {
+        "nome": "questdb",
+        "url": "https://github.com/questdb/questdb",
+        "estrelas": 14346,
+        "releases": 85,
+        "idade": 10.392881587953456
+    },
+    {
+        "nome": "vert.x",
+        "url": "https://github.com/eclipse-vertx/vert.x",
+        "estrelas": 14254,
+        "releases": 0,
+        "idade": 13.256673511293634
+    },
+    {
+        "nome": "pulsar",
+        "url": "https://github.com/apache/pulsar",
+        "estrelas": 14129,
+        "releases": 90,
+        "idade": 8.227241615331964
+    },
+    {
+        "nome": "Arduino",
+        "url": "https://github.com/arduino/Arduino",
+        "estrelas": 14118,
+        "releases": 37,
+        "idade": 14.004106776180699
+    },
+    {
+        "nome": "jd-gui",
+        "url": "https://github.com/java-decompiler/jd-gui",
+        "estrelas": 13940,
+        "releases": 18,
+        "idade": 9.489390828199863
+    },
+    {
+        "nome": "logger",
+        "url": "https://github.com/orhanobut/logger",
+        "estrelas": 13815,
+        "releases": 16,
+        "idade": 9.500342231348391
+    },
+    {
+        "nome": "deeplearning4j",
+        "url": "https://github.com/deeplearning4j/deeplearning4j",
+        "estrelas": 13607,
+        "releases": 0,
+        "idade": 10.811772758384668
+    },
+    {
+        "nome": "jib",
+        "url": "https://github.com/GoogleContainerTools/jib",
+        "estrelas": 13606,
+        "releases": 161,
+        "idade": 6.655715263518139
+    },
+    {
+        "nome": "quarkus",
+        "url": "https://github.com/quarkusio/quarkus",
+        "estrelas": 13574,
+        "releases": 334,
+        "idade": 6.206707734428473
+    },
+    {
+        "nome": "Luban",
+        "url": "https://github.com/Curzibn/Luban",
+        "estrelas": 13557,
+        "releases": 6,
+        "idade": 8.15605749486653
+    },
+    {
+        "nome": "Material-Animations",
+        "url": "https://github.com/lgvalle/Material-Animations",
+        "estrelas": 13529,
+        "releases": 0,
+        "idade": 9.533196440793978
+    },
+    {
+        "nome": "spring-analysis",
+        "url": "https://github.com/seaswalker/spring-analysis",
+        "estrelas": 13510,
+        "releases": 0,
+        "idade": 8.02737850787132
+    },
+    {
+        "nome": "tink",
+        "url": "https://github.com/tink-crypto/tink",
+        "estrelas": 13472,
+        "releases": 21,
+        "idade": 10.286105407255304
+    },
+    {
+        "nome": "AndroidAutoSize",
+        "url": "https://github.com/JessYanCoding/AndroidAutoSize",
+        "estrelas": 13458,
+        "releases": 14,
+        "idade": 6.091718001368926
+    },
+    {
+        "nome": "zuul",
+        "url": "https://github.com/Netflix/zuul",
+        "estrelas": 13447,
+        "releases": 9,
+        "idade": 11.51813826146475
+    },
+    {
+        "nome": "Android-PickerView",
+        "url": "https://github.com/Bigkoo/Android-PickerView",
+        "estrelas": 13444,
+        "releases": 0,
+        "idade": 9.727583846680355
+    },
+    {
+        "nome": "druid",
+        "url": "https://github.com/apache/druid",
+        "estrelas": 13408,
+        "releases": 61,
+        "idade": 11.904175222450377
+    },
+    {
+        "nome": "pinpoint",
+        "url": "https://github.com/pinpoint-apm/pinpoint",
+        "estrelas": 13380,
+        "releases": 58,
+        "idade": 9.91649555099247
+    },
+    {
+        "nome": "PictureSelector",
+        "url": "https://github.com/LuckSiege/PictureSelector",
+        "estrelas": 13254,
+        "releases": 116,
+        "idade": 7.707049965776865
+    },
+    {
+        "nome": "Ehviewer_CN_SXJ",
+        "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
+        "estrelas": 13192,
+        "releases": 87,
+        "idade": 3.8603696098562628
+    },
+    {
+        "nome": "onedev",
+        "url": "https://github.com/theonedev/onedev",
+        "estrelas": 13186,
+        "releases": 355,
+        "idade": 5.8699520876112254
+    },
+    {
+        "nome": "piggymetrics",
+        "url": "https://github.com/sqshq/piggymetrics",
+        "estrelas": 13176,
+        "releases": 2,
+        "idade": 9.475701574264203
+    },
+    {
+        "nome": "neo4j",
+        "url": "https://github.com/neo4j/neo4j",
+        "estrelas": 13138,
+        "releases": 72,
+        "idade": 11.852156057494867
+    },
+    {
+        "nome": "mall-learning",
+        "url": "https://github.com/macrozheng/mall-learning",
+        "estrelas": 12928,
+        "releases": 0,
+        "idade": 5.4401095140314855
+    },
+    {
+        "nome": "banner",
+        "url": "https://github.com/youth5201314/banner",
+        "estrelas": 12863,
+        "releases": 0,
+        "idade": 8.410677618069816
+    },
+    {
+        "nome": "conductor",
+        "url": "https://github.com/Netflix/conductor",
+        "estrelas": 12828,
+        "releases": 319,
+        "idade": 7.780971937029432
+    },
+    {
+        "nome": "lombok",
+        "url": "https://github.com/projectlombok/lombok",
+        "estrelas": 12827,
+        "releases": 0,
+        "idade": 15.279945242984258
+    },
+    {
+        "nome": "mit-deep-learning-book-pdf",
+        "url": "https://github.com/janishar/mit-deep-learning-book-pdf",
+        "estrelas": 12730,
+        "releases": 3,
+        "idade": 7.452429842573579
+    },
+    {
+        "nome": "Java",
+        "url": "https://github.com/DuGuQiuBai/Java",
+        "estrelas": 12710,
+        "releases": 0,
+        "idade": 8.818617385352498
+    },
+    {
+        "nome": "supertokens-core",
+        "url": "https://github.com/supertokens/supertokens-core",
+        "estrelas": 12688,
+        "releases": 76,
+        "idade": 4.706365503080082
+    },
+    {
+        "nome": "dolphinscheduler",
+        "url": "https://github.com/apache/dolphinscheduler",
+        "estrelas": 12688,
+        "releases": 52,
+        "idade": 5.552361396303901
+    },
+    {
+        "nome": "stetho",
+        "url": "https://github.com/facebook/stetho",
+        "estrelas": 12667,
+        "releases": 13,
+        "idade": 9.656399726214921
+    },
+    {
+        "nome": "greenDAO",
+        "url": "https://github.com/greenrobot/greenDAO",
+        "estrelas": 12626,
+        "releases": 8,
+        "idade": 12.908966461327857
+    },
+    {
+        "nome": "Matisse",
+        "url": "https://github.com/zhihu/Matisse",
+        "estrelas": 12520,
+        "releases": 15,
+        "idade": 7.436002737850787
+    },
+    {
+        "nome": "zaproxy",
+        "url": "https://github.com/zaproxy/zaproxy",
+        "estrelas": 12507,
+        "releases": 10,
+        "idade": 9.295003422313483
+    },
+    {
+        "nome": "guice",
+        "url": "https://github.com/google/guice",
+        "estrelas": 12465,
+        "releases": 19,
+        "idade": 10.310746064339494
+    },
+    {
+        "nome": "AndroidViewAnimations",
+        "url": "https://github.com/daimajia/AndroidViewAnimations",
+        "estrelas": 12421,
+        "releases": 9,
+        "idade": 10.242299794661191
+    },
+    {
+        "nome": "AndroidSwipeLayout",
+        "url": "https://github.com/daimajia/AndroidSwipeLayout",
+        "estrelas": 12369,
+        "releases": 18,
+        "idade": 10.069815195071868
+    },
+    {
+        "nome": "eureka",
+        "url": "https://github.com/Netflix/eureka",
+        "estrelas": 12367,
+        "releases": 149,
+        "idade": 12.147843942505133
+    },
+    {
+        "nome": "spring-boot-admin",
+        "url": "https://github.com/codecentric/spring-boot-admin",
+        "estrelas": 12330,
+        "releases": 122,
+        "idade": 10.154688569472963
+    },
+    {
+        "nome": "doris",
+        "url": "https://github.com/apache/doris",
+        "estrelas": 12328,
+        "releases": 56,
+        "idade": 7.110198494182067
+    },
+    {
+        "nome": "dex2jar",
+        "url": "https://github.com/pxb1988/dex2jar",
+        "estrelas": 12221,
+        "releases": 8,
+        "idade": 9.514031485284052
+    },
+    {
+        "nome": "languagetool",
+        "url": "https://github.com/languagetool-org/languagetool",
+        "estrelas": 12200,
+        "releases": 0,
+        "idade": 11.1129363449692
+    },
+    {
+        "nome": "Mybatis-PageHelper",
+        "url": "https://github.com/pagehelper/Mybatis-PageHelper",
+        "estrelas": 12178,
+        "releases": 14,
+        "idade": 10.277891854893909
+    },
+    {
+        "nome": "zookeeper",
+        "url": "https://github.com/apache/zookeeper",
+        "estrelas": 12148,
+        "releases": 0,
+        "idade": 15.4798083504449
+    },
+    {
+        "nome": "COLA",
+        "url": "https://github.com/alibaba/COLA",
+        "estrelas": 11877,
+        "releases": 11,
+        "idade": 6.614647501711157
+    },
+    {
+        "nome": "uCrop",
+        "url": "https://github.com/Yalantis/uCrop",
+        "estrelas": 11853,
+        "releases": 17,
+        "idade": 8.70362765229295
+    },
+    {
+        "nome": "VasSonic",
+        "url": "https://github.com/Tencent/VasSonic",
+        "estrelas": 11814,
+        "releases": 10,
+        "idade": 7.134839151266256
+    },
+    {
+        "nome": "jedis",
+        "url": "https://github.com/redis/jedis",
+        "estrelas": 11793,
+        "releases": 107,
+        "idade": 14.275154004106776
+    },
+    {
+        "nome": "mall-swarm",
+        "url": "https://github.com/macrozheng/mall-swarm",
+        "estrelas": 11687,
+        "releases": 3,
+        "idade": 4.818617385352498
+    },
+    {
+        "nome": "matrix",
+        "url": "https://github.com/Tencent/matrix",
+        "estrelas": 11572,
+        "releases": 16,
+        "idade": 5.774127310061601
+    },
+    {
+        "nome": "fullstack-tutorial",
+        "url": "https://github.com/frank-lam/fullstack-tutorial",
+        "estrelas": 11546,
+        "releases": 0,
+        "idade": 6.436687200547571
+    },
+    {
+        "nome": "metersphere",
+        "url": "https://github.com/metersphere/metersphere",
+        "estrelas": 11490,
+        "releases": 166,
+        "idade": 4.6269678302532515
+    },
+    {
+        "nome": "cryptomator",
+        "url": "https://github.com/cryptomator/cryptomator",
+        "estrelas": 11472,
+        "releases": 178,
+        "idade": 10.628336755646817
+    },
+    {
+        "nome": "realm-java",
+        "url": "https://github.com/realm/realm-java",
+        "estrelas": 11450,
+        "releases": 0,
+        "idade": 12.41615331964408
+    },
+    {
+        "nome": "webmagic",
+        "url": "https://github.com/code4craft/webmagic",
+        "estrelas": 11378,
+        "releases": 26,
+        "idade": 11.408624229979466
+    },
+    {
+        "nome": "grpc-java",
+        "url": "https://github.com/grpc/grpc-java",
+        "estrelas": 11364,
+        "releases": 167,
+        "idade": 9.779603011635865
+    },
+    {
+        "nome": "CtCI-6th-Edition",
+        "url": "https://github.com/careercup/CtCI-6th-Edition",
+        "estrelas": 11290,
+        "releases": 0,
+        "idade": 9.218343600273785
+    },
+    {
+        "nome": "ImmersionBar",
+        "url": "https://github.com/gyf-dev/ImmersionBar",
+        "estrelas": 11265,
+        "releases": 0,
+        "idade": 7.4195756331279945
+    },
+    {
+        "nome": "android-interview-questions",
+        "url": "https://github.com/amitshekhariitbhu/android-interview-questions",
+        "estrelas": 11259,
+        "releases": 0,
+        "idade": 7.195071868583162
+    },
+    {
+        "nome": "PermissionsDispatcher",
+        "url": "https://github.com/permissions-dispatcher/PermissionsDispatcher",
+        "estrelas": 11221,
+        "releases": 40,
+        "idade": 9.095140314852841
+    },
+    {
+        "nome": "interview",
+        "url": "https://github.com/mission-peace/interview",
+        "estrelas": 11079,
+        "releases": 0,
+        "idade": 10.165639972621491
+    },
+    {
+        "nome": "SlidingMenu",
+        "url": "https://github.com/jfeinstein10/SlidingMenu",
+        "estrelas": 11079,
+        "releases": 0,
+        "idade": 12.2217659137577
+    },
+    {
+        "nome": "androidannotations",
+        "url": "https://github.com/androidannotations/androidannotations",
+        "estrelas": 11064,
+        "releases": 0,
+        "idade": 12.70362765229295
+    },
+    {
+        "nome": "FlycoTabLayout",
+        "url": "https://github.com/H07000223/FlycoTabLayout",
+        "estrelas": 11048,
+        "releases": 4,
+        "idade": 8.862422997946611
+    },
+    {
+        "nome": "newbee-mall",
+        "url": "https://github.com/newbee-ltd/newbee-mall",
+        "estrelas": 11031,
+        "releases": 0,
+        "idade": 4.996577686516085
+    },
+    {
+        "nome": "FileDownloader",
+        "url": "https://github.com/lingochamp/FileDownloader",
+        "estrelas": 11015,
+        "releases": 65,
+        "idade": 8.744695414099931
+    },
+    {
+        "nome": "SmarterStreaming",
+        "url": "https://github.com/daniulive/SmarterStreaming",
+        "estrelas": 10920,
+        "releases": 0,
+        "idade": 8.48186173853525
+    },
+    {
+        "nome": "jsoup",
+        "url": "https://github.com/jhy/jsoup",
+        "estrelas": 10882,
+        "releases": 14,
+        "idade": 14.751540041067761
+    },
+    {
+        "nome": "cas",
+        "url": "https://github.com/apereo/cas",
+        "estrelas": 10864,
+        "releases": 276,
+        "idade": 13.02943189596167
+    },
+    {
+        "nome": "javapoet",
+        "url": "https://github.com/square/javapoet",
+        "estrelas": 10808,
+        "releases": 0,
+        "idade": 11.627652292950033
+    },
+    {
+        "nome": "vlayout",
+        "url": "https://github.com/alibaba/vlayout",
+        "estrelas": 10802,
+        "releases": 34,
+        "idade": 7.559206023271732
+    },
+    {
+        "nome": "OpenRefine",
+        "url": "https://github.com/OpenRefine/OpenRefine",
+        "estrelas": 10790,
+        "releases": 60,
+        "idade": 11.928815879534566
+    },
+    {
+        "nome": "platform_frameworks_base",
+        "url": "https://github.com/aosp-mirror/platform_frameworks_base",
+        "estrelas": 10631,
+        "releases": 0,
+        "idade": 15.90965092402464
+    },
+    {
+        "nome": "android-async-http",
+        "url": "https://github.com/android-async-http/android-async-http",
+        "estrelas": 10631,
+        "releases": 3,
+        "idade": 13.579739904175222
+    },
+    {
+        "nome": "okhttp-OkGo",
+        "url": "https://github.com/jeasonlzy/okhttp-OkGo",
+        "estrelas": 10594,
+        "releases": 14,
+        "idade": 8.678986995208762
+    },
+    {
+        "nome": "kkFileView",
+        "url": "https://github.com/kekingcn/kkFileView",
+        "estrelas": 10536,
+        "releases": 15,
+        "idade": 6.770704996577686
+    },
+    {
+        "nome": "RxPermissions",
+        "url": "https://github.com/tbruyelle/RxPermissions",
+        "estrelas": 10481,
+        "releases": 11,
+        "idade": 8.971937029431896
+    },
+    {
+        "nome": "Java-WebSocket",
+        "url": "https://github.com/TooTallNate/Java-WebSocket",
+        "estrelas": 10470,
+        "releases": 18,
+        "idade": 14.661190965092402
+    },
+    {
+        "nome": "JiaoZiVideoPlayer",
+        "url": "https://github.com/lipangit/JiaoZiVideoPlayer",
+        "estrelas": 10467,
+        "releases": 78,
+        "idade": 8.618754277891854
+    },
+    {
+        "nome": "debezium",
+        "url": "https://github.com/debezium/debezium",
+        "estrelas": 10451,
+        "releases": 0,
+        "idade": 8.657084188911705
+    },
+    {
+        "nome": "clojure",
+        "url": "https://github.com/clojure/clojure",
+        "estrelas": 10440,
+        "releases": 0,
+        "idade": 14.223134839151266
+    },
+    {
+        "nome": "auto",
+        "url": "https://github.com/google/auto",
+        "estrelas": 10414,
+        "releases": 66,
+        "idade": 11.326488706365502
+    },
+    {
+        "nome": "jvm",
+        "url": "https://github.com/doocs/jvm",
+        "estrelas": 10410,
+        "releases": 0,
+        "idade": 6.242299794661191
+    },
+    {
+        "nome": "plantuml",
+        "url": "https://github.com/plantuml/plantuml",
+        "estrelas": 10326,
+        "releases": 45,
+        "idade": 13.872689938398358
+    },
+    {
+        "nome": "MVPArms",
+        "url": "https://github.com/JessYanCoding/MVPArms",
+        "estrelas": 10276,
+        "releases": 25,
+        "idade": 8.120465434633813
+    },
+    {
+        "nome": "trino",
+        "url": "https://github.com/trinodb/trino",
+        "estrelas": 10205,
+        "releases": 0,
+        "idade": 5.66735112936345
+    },
+    {
+        "nome": "jjwt",
+        "url": "https://github.com/jwtk/jjwt",
+        "estrelas": 10202,
+        "releases": 7,
+        "idade": 10.017796030116358
+    },
+    {
+        "nome": "VirtualApp",
+        "url": "https://github.com/asLody/VirtualApp",
+        "estrelas": 10156,
+        "releases": 0,
+        "idade": 8.205338809034908
+    },
+    {
+        "nome": "ViewPagerIndicator",
+        "url": "https://github.com/JakeWharton/ViewPagerIndicator",
+        "estrelas": 10137,
+        "releases": 0,
+        "idade": 13.125256673511293
+    },
+    {
+        "nome": "pkl",
+        "url": "https://github.com/apple/pkl",
+        "estrelas": 10130,
+        "releases": 8,
+        "idade": 0.6652977412731006
+    },
+    {
+        "nome": "Activiti",
+        "url": "https://github.com/Activiti/Activiti",
+        "estrelas": 10076,
+        "releases": 967,
+        "idade": 12.016427104722792
+    },
+    {
+        "nome": "glide-transformations",
+        "url": "https://github.com/wasabeef/glide-transformations",
+        "estrelas": 9900,
+        "releases": 0,
+        "idade": 9.69472963723477
+    },
+    {
+        "nome": "easypermissions",
+        "url": "https://github.com/googlesamples/easypermissions",
+        "estrelas": 9860,
+        "releases": 12,
+        "idade": 8.7419575633128
+    },
+    {
+        "nome": "paascloud-master",
+        "url": "https://github.com/paascloud/paascloud-master",
+        "estrelas": 9832,
+        "releases": 0,
+        "idade": 6.510609171800137
+    },
+    {
+        "nome": "AVLoadingIndicatorView",
+        "url": "https://github.com/HarlonWang/AVLoadingIndicatorView",
+        "estrelas": 9746,
+        "releases": 1,
+        "idade": 8.903490759753593
+    },
+    {
+        "nome": "JsBridge",
+        "url": "https://github.com/uknownothingsnow/JsBridge",
+        "estrelas": 9734,
+        "releases": 0,
+        "idade": 9.56331279945243
+    },
+    {
+        "nome": "Fragmentation",
+        "url": "https://github.com/YoKeyword/Fragmentation",
+        "estrelas": 9719,
+        "releases": 30,
+        "idade": 8.572210814510608
+    },
+    {
+        "nome": "MagicIndicator",
+        "url": "https://github.com/hackware1993/MagicIndicator",
+        "estrelas": 9714,
+        "releases": 12,
+        "idade": 8.232717316906228
+    },
+    {
+        "nome": "Paper",
+        "url": "https://github.com/PaperMC/Paper",
+        "estrelas": 9696,
+        "releases": 1,
+        "idade": 8.659822039698836
+    },
+    {
+        "nome": "datahub",
+        "url": "https://github.com/datahub-project/datahub",
+        "estrelas": 9684,
+        "releases": 88,
+        "idade": 8.837782340862423
+    },
+    {
+        "nome": "resilience4j",
+        "url": "https://github.com/resilience4j/resilience4j",
+        "estrelas": 9676,
+        "releases": 34,
+        "idade": 9.297741273100616
+    },
+    {
+        "nome": "Android-ObservableScrollView",
+        "url": "https://github.com/ksoichiro/Android-ObservableScrollView",
+        "estrelas": 9651,
+        "releases": 0,
+        "idade": 9.86173853524983
+    },
+    {
+        "nome": "xManager",
+        "url": "https://github.com/Team-xManager/xManager",
+        "estrelas": 9648,
+        "releases": 49,
+        "idade": 3.6112251882272415
+    },
+    {
+        "nome": "CoreNLP",
+        "url": "https://github.com/stanfordnlp/CoreNLP",
+        "estrelas": 9644,
+        "releases": 16,
+        "idade": 11.227926078028748
+    },
+    {
+        "nome": "spark",
+        "url": "https://github.com/perwendel/spark",
+        "estrelas": 9635,
+        "releases": 0,
+        "idade": 13.377138945927447
+    },
+    {
+        "nome": "react-native-camera",
+        "url": "https://github.com/react-native-camera/react-native-camera",
+        "estrelas": 9634,
+        "releases": 144,
+        "idade": 9.470225872689939
+    },
+    {
+        "nome": "android-Ultra-Pull-To-Refresh",
+        "url": "https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh",
+        "estrelas": 9585,
+        "releases": 8,
+        "idade": 9.850787132101301
+    },
+    {
+        "nome": "spring-boot-api-project-seed",
+        "url": "https://github.com/lihengming/spring-boot-api-project-seed",
+        "estrelas": 9579,
+        "releases": 4,
+        "idade": 7.241615331964408
+    },
+    {
+        "nome": "DanmakuFlameMaster",
+        "url": "https://github.com/bilibili/DanmakuFlameMaster",
+        "estrelas": 9541,
+        "releases": 5,
+        "idade": 11.107460643394935
+    },
+    {
+        "nome": "android-gif-drawable",
+        "url": "https://github.com/koral--/android-gif-drawable",
+        "estrelas": 9536,
+        "releases": 61,
+        "idade": 11.63586584531143
+    },
+    {
+        "nome": "OpenSearch",
+        "url": "https://github.com/opensearch-project/OpenSearch",
+        "estrelas": 9518,
+        "releases": 48,
+        "idade": 3.6358658453114305
+    },
+    {
+        "nome": "kafka-ui",
+        "url": "https://github.com/provectus/kafka-ui",
+        "estrelas": 9499,
+        "releases": 25,
+        "idade": 4.813141683778234
+    },
+    {
+        "nome": "spider-flow",
+        "url": "https://github.com/ssssssss-team/spider-flow",
+        "estrelas": 9498,
+        "releases": 2,
+        "idade": 4.48186173853525
+    },
+    {
+        "nome": "AndroidSlidingUpPanel",
+        "url": "https://github.com/umano/AndroidSlidingUpPanel",
+        "estrelas": 9496,
+        "releases": 8,
+        "idade": 11.301848049281315
+    },
+    {
+        "nome": "Mycat-Server",
+        "url": "https://github.com/MyCATApache/Mycat-Server",
+        "estrelas": 9493,
+        "releases": 7,
+        "idade": 9.793292265571527
+    },
+    {
+        "nome": "feign",
+        "url": "https://github.com/OpenFeign/feign",
+        "estrelas": 9431,
+        "releases": 37,
+        "idade": 11.23066392881588
+    },
+    {
+        "nome": "zfile",
+        "url": "https://github.com/zfile-dev/zfile",
+        "estrelas": 9423,
+        "releases": 61,
+        "idade": 5.084188911704312
+    },
+    {
+        "nome": "aws-doc-sdk-examples",
+        "url": "https://github.com/awsdocs/aws-doc-sdk-examples",
+        "estrelas": 9413,
+        "releases": 0,
+        "idade": 8.084873374401095
+    },
+    {
+        "nome": "PocketHub",
+        "url": "https://github.com/pockethub/PocketHub",
+        "estrelas": 9391,
+        "releases": 1,
+        "idade": 13.02943189596167
+    },
+    {
+        "nome": "AgentWeb",
+        "url": "https://github.com/Justson/AgentWeb",
+        "estrelas": 9234,
+        "releases": 21,
+        "idade": 7.356605065023956
+    },
+    {
+        "nome": "cim",
+        "url": "https://github.com/crossoverJie/cim",
+        "estrelas": 9224,
+        "releases": 7,
+        "idade": 6.33264887063655
+    },
+    {
+        "nome": "lawnchair",
+        "url": "https://github.com/LawnchairLauncher/lawnchair",
+        "estrelas": 9194,
+        "releases": 29,
+        "idade": 7.5482546201232035
+    },
+    {
+        "nome": "testing-samples",
+        "url": "https://github.com/android/testing-samples",
+        "estrelas": 9183,
+        "releases": 0,
+        "idade": 9.94113620807666
+    },
+    {
+        "nome": "AndroidNote",
+        "url": "https://github.com/GcsSloop/AndroidNote",
+        "estrelas": 9150,
+        "releases": 0,
+        "idade": 8.706365503080082
+    },
+    {
+        "nome": "Signal-Server",
+        "url": "https://github.com/signalapp/Signal-Server",
+        "estrelas": 9128,
+        "releases": 0,
+        "idade": 10.778918548939084
+    },
+    {
+        "nome": "CalendarView",
+        "url": "https://github.com/huanghaibin-dev/CalendarView",
+        "estrelas": 9100,
+        "releases": 0,
+        "idade": 7.526351813826146
+    },
+    {
+        "nome": "MaterialDesignLibrary",
+        "url": "https://github.com/navasmdc/MaterialDesignLibrary",
+        "estrelas": 8991,
+        "releases": 3,
+        "idade": 9.971252566735114
+    },
+    {
+        "nome": "VirtualAPK",
+        "url": "https://github.com/didi/VirtualAPK",
+        "estrelas": 8978,
+        "releases": 4,
+        "idade": 7.225188227241615
+    },
+    {
+        "nome": "android-gpuimage",
+        "url": "https://github.com/cats-oss/android-gpuimage",
+        "estrelas": 8973,
+        "releases": 0,
+        "idade": 11.958932238193018
+    },
+    {
+        "nome": "sonarqube",
+        "url": "https://github.com/SonarSource/sonarqube",
+        "estrelas": 8937,
+        "releases": 52,
+        "idade": 13.705681040383299
+    },
+    {
+        "nome": "JsonPath",
+        "url": "https://github.com/json-path/JsonPath",
+        "estrelas": 8863,
+        "releases": 10,
+        "idade": 13.653661875427789
+    },
+    {
+        "nome": "Aegis",
+        "url": "https://github.com/beemdevelopment/Aegis",
+        "estrelas": 8858,
+        "releases": 63,
+        "idade": 8.093086926762492
+    },
+    {
+        "nome": "storm",
+        "url": "https://github.com/nathanmarz/storm",
+        "estrelas": 8839,
+        "releases": 0,
+        "idade": 13.007529089664613
+    },
+    {
+        "nome": "Jetpack-MVVM-Best-Practice",
+        "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+        "estrelas": 8827,
+        "releases": 0,
+        "idade": 4.887063655030801
+    },
+    {
+        "nome": "StatusBarUtil",
+        "url": "https://github.com/laobie/StatusBarUtil",
+        "estrelas": 8814,
+        "releases": 0,
+        "idade": 8.594113620807667
+    },
+    {
+        "nome": "Android_Data",
+        "url": "https://github.com/Freelander/Android_Data",
+        "estrelas": 8724,
+        "releases": 0,
+        "idade": 9.462012320328542
+    },
+    {
+        "nome": "EhViewer",
+        "url": "https://github.com/seven332/EhViewer",
+        "estrelas": 8722,
+        "releases": 97,
+        "idade": 10.351813826146476
+    },
+    {
+        "nome": "spring-security",
+        "url": "https://github.com/spring-projects/spring-security",
+        "estrelas": 8721,
+        "releases": 193,
+        "idade": 12.68993839835729
+    },
+    {
+        "nome": "cassandra",
+        "url": "https://github.com/apache/cassandra",
+        "estrelas": 8711,
+        "releases": 0,
+        "idade": 15.331964407939767
+    },
+    {
+        "nome": "Android-PullToRefresh",
+        "url": "https://github.com/chrisbanes/Android-PullToRefresh",
+        "estrelas": 8704,
+        "releases": 0,
+        "idade": 12.80766598220397
+    },
+    {
+        "nome": "awesome-java-leetcode",
+        "url": "https://github.com/Blankj/awesome-java-leetcode",
+        "estrelas": 8694,
+        "releases": 0,
+        "idade": 7.422313483915127
+    },
+    {
+        "nome": "SpringCloud",
+        "url": "https://github.com/zhoutaoo/SpringCloud",
+        "estrelas": 8678,
+        "releases": 0,
+        "idade": 7.156741957563312
+    },
+    {
+        "nome": "starrocks",
+        "url": "https://github.com/StarRocks/starrocks",
+        "estrelas": 8671,
+        "releases": 118,
+        "idade": 3.0417522245037647
+    },
+    {
+        "nome": "Android-SpinKit",
+        "url": "https://github.com/ybq/Android-SpinKit",
+        "estrelas": 8616,
+        "releases": 0,
+        "idade": 8.501026694045175
+    },
+    {
+        "nome": "Calligraphy",
+        "url": "https://github.com/chrisjenx/Calligraphy",
+        "estrelas": 8589,
+        "releases": 4,
+        "idade": 10.74880219028063
+    },
+    {
+        "nome": "buck",
+        "url": "https://github.com/facebook/buck",
+        "estrelas": 8557,
+        "releases": 57,
+        "idade": 11.422313483915127
+    },
+    {
+        "nome": "AndResGuard",
+        "url": "https://github.com/shwenzhang/AndResGuard",
+        "estrelas": 8527,
+        "releases": 4,
+        "idade": 8.941820670773442
+    },
+    {
+        "nome": "junit4",
+        "url": "https://github.com/junit-team/junit4",
+        "estrelas": 8515,
+        "releases": 13,
+        "idade": 15.682409308692677
+    },
+    {
+        "nome": "epoxy",
+        "url": "https://github.com/airbnb/epoxy",
+        "estrelas": 8502,
+        "releases": 76,
+        "idade": 8.112251882272416
+    },
+    {
+        "nome": "dropwizard",
+        "url": "https://github.com/dropwizard/dropwizard",
+        "estrelas": 8498,
+        "releases": 164,
+        "idade": 13.664613278576317
+    },
+    {
+        "nome": "jna",
+        "url": "https://github.com/java-native-access/jna",
+        "estrelas": 8466,
+        "releases": 0,
+        "idade": 13.39356605065024
+    },
+    {
+        "nome": "react-native-image-picker",
+        "url": "https://github.com/react-native-image-picker/react-native-image-picker",
+        "estrelas": 8446,
+        "releases": 131,
+        "idade": 9.281314168377824
+    },
+    {
+        "nome": "BottomBar",
+        "url": "https://github.com/roughike/BottomBar",
+        "estrelas": 8418,
+        "releases": 4,
+        "idade": 8.511978097193703
+    },
+    {
+        "nome": "shenyu",
+        "url": "https://github.com/apache/shenyu",
+        "estrelas": 8414,
+        "releases": 10,
+        "idade": 6.193018480492813
+    },
+    {
+        "nome": "Android-Debug-Database",
+        "url": "https://github.com/amitshekhariitbhu/Android-Debug-Database",
+        "estrelas": 8393,
+        "releases": 14,
+        "idade": 7.838466803559206
+    },
+    {
+        "nome": "hsweb-framework",
+        "url": "https://github.com/hs-web/hsweb-framework",
+        "estrelas": 8313,
+        "releases": 28,
+        "idade": 8.670773442847365
+    },
+    {
+        "nome": "checkstyle",
+        "url": "https://github.com/checkstyle/checkstyle",
+        "estrelas": 8295,
+        "releases": 149,
+        "idade": 11.052703627652292
+    },
+    {
+        "nome": "GmsCore",
+        "url": "https://github.com/microg/GmsCore",
+        "estrelas": 8274,
+        "releases": 34,
+        "idade": 10.406570841889117
+    },
+    {
+        "nome": "jmeter",
+        "url": "https://github.com/apache/jmeter",
+        "estrelas": 8263,
+        "releases": 10,
+        "idade": 14.316221765913758
+    },
+    {
+        "nome": "tsunami-security-scanner",
+        "url": "https://github.com/google/tsunami-security-scanner",
+        "estrelas": 8204,
+        "releases": 23,
+        "idade": 4.292950034223135
+    },
+    {
+        "nome": "MaterialViewPager",
+        "url": "https://github.com/florent37/MaterialViewPager",
+        "estrelas": 8136,
+        "releases": 11,
+        "idade": 9.404517453798768
+    },
+    {
+        "nome": "atlas",
+        "url": "https://github.com/alibaba/atlas",
+        "estrelas": 8125,
+        "releases": 7,
+        "idade": 7.5564681724846
+    },
+    {
+        "nome": "AndroidPdfViewer",
+        "url": "https://github.com/DImuthuUpe/AndroidPdfViewer",
+        "estrelas": 8118,
+        "releases": 0,
+        "idade": 8.295687885010267
+    },
+    {
+        "nome": "shardingsphere-elasticjob",
+        "url": "https://github.com/apache/shardingsphere-elasticjob",
+        "estrelas": 8117,
+        "releases": 30,
+        "idade": 9.023956194387406
+    },
+    {
+        "nome": "flyway",
+        "url": "https://github.com/flyway/flyway",
+        "estrelas": 8117,
+        "releases": 226,
+        "idade": 11.761806981519507
+    },
+    {
+        "nome": "LitePal",
+        "url": "https://github.com/guolindev/LitePal",
+        "estrelas": 8099,
+        "releases": 0,
+        "idade": 11.578370978781656
+    },
+    {
+        "nome": "karate",
+        "url": "https://github.com/karatelabs/karate",
+        "estrelas": 8086,
+        "releases": 53,
+        "idade": 7.611225188227242
+    },
+    {
+        "nome": "otter",
+        "url": "https://github.com/alibaba/otter",
+        "estrelas": 8049,
+        "releases": 10,
+        "idade": 11.1129363449692
+    },
+    {
+        "nome": "spring-reading",
+        "url": "https://github.com/xuchengsheng/spring-reading",
+        "estrelas": 7990,
+        "releases": 0,
+        "idade": 1.0130047912388775
+    },
+    {
+        "nome": "testcontainers-java",
+        "url": "https://github.com/testcontainers/testcontainers-java",
+        "estrelas": 7972,
+        "releases": 76,
+        "idade": 9.440109514031485
+    },
+    {
+        "nome": "SimianArmy",
+        "url": "https://github.com/Netflix/SimianArmy",
+        "estrelas": 7971,
+        "releases": 4,
+        "idade": 12.202600958247775
+    },
+    {
+        "nome": "hugo",
+        "url": "https://github.com/JakeWharton/hugo",
+        "estrelas": 7917,
+        "releases": 0,
+        "idade": 10.817248459958932
+    },
+    {
+        "nome": "subsampling-scale-image-view",
+        "url": "https://github.com/davemorrissey/subsampling-scale-image-view",
+        "estrelas": 7866,
+        "releases": 21,
+        "idade": 11.063655030800822
+    },
+    {
+        "nome": "HomeMirror",
+        "url": "https://github.com/HannahMitt/HomeMirror",
+        "estrelas": 7862,
+        "releases": 0,
+        "idade": 9.075975359342916
+    },
+    {
+        "nome": "im-server",
+        "url": "https://github.com/wildfirechat/im-server",
+        "estrelas": 7843,
+        "releases": 98,
+        "idade": 5.653661875427789
+    },
+    {
+        "nome": "UltimateAndroidReference",
+        "url": "https://github.com/aritraroy/UltimateAndroidReference",
+        "estrelas": 7843,
+        "releases": 0,
+        "idade": 7.444216290212183
+    },
+    {
+        "nome": "material-theme-jetbrains",
+        "url": "https://github.com/ChrisRM/material-theme-jetbrains",
+        "estrelas": 7833,
+        "releases": 17,
+        "idade": 8.991101984941821
+    },
+    {
+        "nome": "metrics",
+        "url": "https://github.com/dropwizard/metrics",
+        "estrelas": 7826,
+        "releases": 118,
+        "idade": 14.559890485968515
+    },
+    {
+        "nome": "flowable-engine",
+        "url": "https://github.com/flowable/flowable-engine",
+        "estrelas": 7823,
+        "releases": 26,
+        "idade": 7.9342915811088295
+    },
+    {
+        "nome": "seatunnel",
+        "url": "https://github.com/apache/seatunnel",
+        "estrelas": 7819,
+        "releases": 47,
+        "idade": 7.123887748117728
+    },
+    {
+        "nome": "beam",
+        "url": "https://github.com/apache/beam",
+        "estrelas": 7779,
+        "releases": 44,
+        "idade": 8.629705681040383
+    },
+    {
+        "nome": "RxLifecycle",
+        "url": "https://github.com/trello-archive/RxLifecycle",
+        "estrelas": 7715,
+        "releases": 22,
+        "idade": 9.169062286105408
+    },
+    {
+        "nome": "XPopup",
+        "url": "https://github.com/junixapp/XPopup",
+        "estrelas": 7712,
+        "releases": 221,
+        "idade": 5.7850787132101305
+    },
+    {
+        "nome": "kestra",
+        "url": "https://github.com/kestra-io/kestra",
+        "estrelas": 7665,
+        "releases": 121,
+        "idade": 5.070499657768652
+    },
+    {
+        "nome": "ysoserial",
+        "url": "https://github.com/frohoff/ysoserial",
+        "estrelas": 7651,
+        "releases": 1,
+        "idade": 9.64271047227926
+    },
+    {
+        "nome": "pentaho-kettle",
+        "url": "https://github.com/pentaho/pentaho-kettle",
+        "estrelas": 7636,
+        "releases": 1,
+        "idade": 10.94592744695414
+    },
+    {
+        "nome": "vjtools",
+        "url": "https://github.com/vipshop/vjtools",
+        "estrelas": 7631,
+        "releases": 9,
+        "idade": 6.310746064339494
+    },
+    {
+        "nome": "transmittable-thread-local",
+        "url": "https://github.com/alibaba/transmittable-thread-local",
+        "estrelas": 7595,
+        "releases": 58,
+        "idade": 10.934976043805612
+    },
+    {
+        "nome": "MVVMHabit",
+        "url": "https://github.com/goldze/MVVMHabit",
+        "estrelas": 7582,
+        "releases": 3,
+        "idade": 7.1649555099247095
+    },
+    {
+        "nome": "FrameworkBenchmarks",
+        "url": "https://github.com/TechEmpower/FrameworkBenchmarks",
+        "estrelas": 7561,
+        "releases": 17,
+        "idade": 11.493497604380561
+    },
+    {
+        "nome": "MyBookshelf",
+        "url": "https://github.com/gedoor/MyBookshelf",
+        "estrelas": 7561,
+        "releases": 165,
+        "idade": 6.272416153319644
+    },
+    {
+        "nome": "RxJava-Android-Samples",
+        "url": "https://github.com/kaushikgopal/RxJava-Android-Samples",
+        "estrelas": 7548,
+        "releases": 0,
+        "idade": 10.160164271047227
+    },
+    {
+        "nome": "AndroidAsync",
+        "url": "https://github.com/koush/AndroidAsync",
+        "estrelas": 7522,
+        "releases": 0,
+        "idade": 12.071184120465434
+    },
+    {
+        "nome": "javacv",
+        "url": "https://github.com/bytedeco/javacv",
+        "estrelas": 7520,
+        "releases": 11,
+        "idade": 10.412046543463381
+    },
+    {
+        "nome": "android-classyshark",
+        "url": "https://github.com/google/android-classyshark",
+        "estrelas": 7511,
+        "releases": 17,
+        "idade": 8.936344969199178
+    },
+    {
+        "nome": "tomcat",
+        "url": "https://github.com/apache/tomcat",
+        "estrelas": 7493,
+        "releases": 0,
+        "idade": 12.969199178644764
+    },
+    {
+        "nome": "hellocharts-android",
+        "url": "https://github.com/lecho/hellocharts-android",
+        "estrelas": 7435,
+        "releases": 14,
+        "idade": 9.938398357289527
+    },
+    {
+        "nome": "react-native-svg",
+        "url": "https://github.com/software-mansion/react-native-svg",
+        "estrelas": 7430,
+        "releases": 113,
+        "idade": 8.670773442847365
+    },
+    {
+        "nome": "Shadow",
+        "url": "https://github.com/Tencent/Shadow",
+        "estrelas": 7423,
+        "releases": 5,
+        "idade": 5.270362765229295
+    },
+    {
+        "nome": "algs4",
+        "url": "https://github.com/kevin-wayne/algs4",
+        "estrelas": 7412,
+        "releases": 0,
+        "idade": 9.05407255304586
+    },
+    {
+        "nome": "swagger-core",
+        "url": "https://github.com/swagger-api/swagger-core",
+        "estrelas": 7374,
+        "releases": 105,
+        "idade": 13.207392197125257
+    },
+    {
+        "nome": "closure-compiler",
+        "url": "https://github.com/google/closure-compiler",
+        "estrelas": 7365,
+        "releases": 0,
+        "idade": 10.425735797399042
+    },
+    {
+        "nome": "SpringCloud-Learning",
+        "url": "https://github.com/dyc87112/SpringCloud-Learning",
+        "estrelas": 7356,
+        "releases": 0,
+        "idade": 8.07939767282683
+    },
+    {
+        "nome": "LeetCode",
+        "url": "https://github.com/yuanguangxin/LeetCode",
+        "estrelas": 7348,
+        "releases": 0,
+        "idade": 4.689938398357289
+    },
+    {
+        "nome": "ShortcutBadger",
+        "url": "https://github.com/leolin310148/ShortcutBadger",
+        "estrelas": 7347,
+        "releases": 0,
+        "idade": 10.844626967830253
+    },
+    {
+        "nome": "graylog2-server",
+        "url": "https://github.com/Graylog2/graylog2-server",
+        "estrelas": 7329,
+        "releases": 0,
+        "idade": 14.340862422997947
+    },
+    {
+        "nome": "aeron",
+        "url": "https://github.com/real-logic/aeron",
+        "estrelas": 7328,
+        "releases": 101,
+        "idade": 10.611909650924025
+    },
+    {
+        "nome": "Mapper",
+        "url": "https://github.com/abel533/Mapper",
+        "estrelas": 7321,
+        "releases": 7,
+        "idade": 9.828884325804244
+    },
+    {
+        "nome": "dagger",
+        "url": "https://github.com/square/dagger",
+        "estrelas": 7306,
+        "releases": 0,
+        "idade": 12.128678986995208
+    },
+    {
+        "nome": "Android-Bootstrap",
+        "url": "https://github.com/Bearded-Hen/Android-Bootstrap",
+        "estrelas": 7285,
+        "releases": 5,
+        "idade": 10.880219028062971
+    },
+    {
+        "nome": "sweet-alert-dialog",
+        "url": "https://github.com/pedant/sweet-alert-dialog",
+        "estrelas": 7268,
+        "releases": 2,
+        "idade": 9.919233401779604
+    },
+    {
+        "nome": "VBlog",
+        "url": "https://github.com/lenve/VBlog",
+        "estrelas": 7263,
+        "releases": 0,
+        "idade": 6.7323750855578375
+    },
+    {
+        "nome": "RePlugin",
+        "url": "https://github.com/Qihoo360/RePlugin",
+        "estrelas": 7252,
+        "releases": 19,
+        "idade": 7.282683093771389
+    },
+    {
+        "nome": "TakePhoto",
+        "url": "https://github.com/crazycodeboy/TakePhoto",
+        "estrelas": 7244,
+        "releases": 15,
+        "idade": 9.127994524298426
+    },
+    {
+        "nome": "UltimateRecyclerView",
+        "url": "https://github.com/cymcsg/UltimateRecyclerView",
+        "estrelas": 7223,
+        "releases": 9,
+        "idade": 9.64271047227926
+    },
+    {
+        "nome": "SDE-Interview-Questions",
+        "url": "https://github.com/twowaits/SDE-Interview-Questions",
+        "estrelas": 7215,
+        "releases": 1,
+        "idade": 6.9021218343600275
+    },
+    {
+        "nome": "agera",
+        "url": "https://github.com/google/agera",
+        "estrelas": 7198,
+        "releases": 16,
+        "idade": 8.758384668035593
+    },
+    {
+        "nome": "WeChatLuckyMoney",
+        "url": "https://github.com/geeeeeeeeek/WeChatLuckyMoney",
+        "estrelas": 7189,
+        "releases": 20,
+        "idade": 8.969199178644764
+    },
+    {
+        "nome": "xmall",
+        "url": "https://github.com/Exrick/xmall",
+        "estrelas": 7146,
+        "releases": 0,
+        "idade": 7.145790554414784
+    },
+    {
+        "nome": "baritone",
+        "url": "https://github.com/cabaletta/baritone",
+        "estrelas": 7129,
+        "releases": 77,
+        "idade": 6.132785763175907
+    },
+    {
+        "nome": "ActionBarSherlock",
+        "url": "https://github.com/JakeWharton/ActionBarSherlock",
+        "estrelas": 7100,
+        "releases": 32,
+        "idade": 13.535934291581109
+    },
+    {
+        "nome": "gocd",
+        "url": "https://github.com/gocd/gocd",
+        "estrelas": 7098,
+        "releases": 81,
+        "idade": 10.767967145790555
+    },
+    {
+        "nome": "SmartTabLayout",
+        "url": "https://github.com/ogaclejapan/SmartTabLayout",
+        "estrelas": 7088,
+        "releases": 0,
+        "idade": 9.596167008898014
+    },
+    {
+        "nome": "mapstruct",
+        "url": "https://github.com/mapstruct/mapstruct",
+        "estrelas": 7048,
+        "releases": 34,
+        "idade": 12.31211498973306
+    },
+    {
+        "nome": "awesome-low-level-design",
+        "url": "https://github.com/ashishps1/awesome-low-level-design",
+        "estrelas": 7027,
+        "releases": 0,
+        "idade": 0.840520191649555
+    },
+    {
+        "nome": "Timber",
+        "url": "https://github.com/naman14/Timber",
+        "estrelas": 6993,
+        "releases": 5,
+        "idade": 9.270362765229295
+    },
+    {
+        "nome": "elasticsearch-sql",
+        "url": "https://github.com/NLPchina/elasticsearch-sql",
+        "estrelas": 6990,
+        "releases": 246,
+        "idade": 10.069815195071868
+    },
+    {
+        "nome": "nanohttpd",
+        "url": "https://github.com/NanoHttpd/nanohttpd",
+        "estrelas": 6936,
+        "releases": 3,
+        "idade": 12.106776180698152
+    },
+    {
+        "nome": "KnowStreaming",
+        "url": "https://github.com/didi/KnowStreaming",
+        "estrelas": 6914,
+        "releases": 23,
+        "idade": 4.503764544832307
+    },
+    {
+        "nome": "DroidPlugin",
+        "url": "https://github.com/DroidPluginTeam/DroidPlugin",
+        "estrelas": 6893,
+        "releases": 2,
+        "idade": 9.065023956194388
+    },
+    {
+        "nome": "MinecraftForge",
+        "url": "https://github.com/MinecraftForge/MinecraftForge",
+        "estrelas": 6885,
+        "releases": 0,
+        "idade": 12.63791923340178
+    },
+    {
+        "nome": "okhttputils",
+        "url": "https://github.com/hongyangAndroid/okhttputils",
+        "estrelas": 6879,
+        "releases": 0,
+        "idade": 9.089664613278575
+    },
+    {
+        "nome": "error-prone",
+        "url": "https://github.com/google/error-prone",
+        "estrelas": 6819,
+        "releases": 47,
+        "idade": 10.078028747433265
+    },
+    {
+        "nome": "rest-assured",
+        "url": "https://github.com/rest-assured/rest-assured",
+        "estrelas": 6809,
+        "releases": 0,
+        "idade": 13.91375770020534
+    },
+    {
+        "nome": "alluxio",
+        "url": "https://github.com/Alluxio/alluxio",
+        "estrelas": 6806,
+        "releases": 61,
+        "idade": 11.742642026009582
+    },
+    {
+        "nome": "HMCL",
+        "url": "https://github.com/HMCL-dev/HMCL",
+        "estrelas": 6805,
+        "releases": 214,
+        "idade": 9.245722108145106
+    },
+    {
+        "nome": "LSPatch",
+        "url": "https://github.com/LSPosed/LSPatch",
+        "estrelas": 6791,
+        "releases": 9,
+        "idade": 3.5509924709103355
+    },
+    {
+        "nome": "netty-socketio",
+        "url": "https://github.com/mrniko/netty-socketio",
+        "estrelas": 6770,
+        "releases": 17,
+        "idade": 12.687200547570157
+    },
+    {
+        "nome": "PowerJob",
+        "url": "https://github.com/PowerJob/PowerJob",
+        "estrelas": 6766,
+        "releases": 49,
+        "idade": 4.511978097193703
+    },
+    {
+        "nome": "jvm-sandbox",
+        "url": "https://github.com/alibaba/jvm-sandbox",
+        "estrelas": 6761,
+        "releases": 13,
+        "idade": 7.129363449691992
+    },
+    {
+        "nome": "walle",
+        "url": "https://github.com/Meituan-Dianping/walle",
+        "estrelas": 6755,
+        "releases": 1,
+        "idade": 7.690622861054073
+    },
+    {
+        "nome": "react-native-push-notification",
+        "url": "https://github.com/zo0r/react-native-push-notification",
+        "estrelas": 6751,
+        "releases": 35,
+        "idade": 8.763860369609857
+    },
+    {
+        "nome": "angel",
+        "url": "https://github.com/Angel-ML/angel",
+        "estrelas": 6727,
+        "releases": 19,
+        "idade": 7.403148528405202
+    },
+    {
+        "nome": "AndroidAutoLayout",
+        "url": "https://github.com/hongyangAndroid/AndroidAutoLayout",
+        "estrelas": 6675,
+        "releases": 0,
+        "idade": 8.83504449007529
+    },
+    {
+        "nome": "JavaTutorial",
+        "url": "https://github.com/h2pl/JavaTutorial",
+        "estrelas": 6667,
+        "releases": 1,
+        "idade": 6.38466803559206
+    },
+    {
+        "nome": "AndroidPerformanceMonitor",
+        "url": "https://github.com/markzhai/AndroidPerformanceMonitor",
+        "estrelas": 6659,
+        "releases": 0,
+        "idade": 8.673511293634498
+    },
+    {
+        "nome": "mybatis-generator-gui",
+        "url": "https://github.com/zouzg/mybatis-generator-gui",
+        "estrelas": 6658,
+        "releases": 16,
+        "idade": 8.36413415468857
+    },
+    {
+        "nome": "rabbitmq-tutorials",
+        "url": "https://github.com/rabbitmq/rabbitmq-tutorials",
+        "estrelas": 6631,
+        "releases": 0,
+        "idade": 13.995893223819301
+    },
+    {
+        "nome": "AndPermission",
+        "url": "https://github.com/yanzhenjie/AndPermission",
+        "estrelas": 6625,
+        "releases": 0,
+        "idade": 8.021902806297057
+    },
+    {
+        "nome": "haven",
+        "url": "https://github.com/guardianproject/haven",
+        "estrelas": 6614,
+        "releases": 37,
+        "idade": 7.553730321697468
+    },
+    {
+        "nome": "storm",
+        "url": "https://github.com/apache/storm",
+        "estrelas": 6590,
+        "releases": 0,
+        "idade": 10.872005475701574
+    },
+    {
+        "nome": "PojavLauncher",
+        "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
+        "estrelas": 6582,
+        "releases": 125,
+        "idade": 4.525667351129363
+    },
+    {
+        "nome": "BookReader",
+        "url": "https://github.com/smuyyh/BookReader",
+        "estrelas": 6568,
+        "releases": 0,
+        "idade": 8.128678986995208
+    },
+    {
+        "nome": "Toasty",
+        "url": "https://github.com/GrenderG/Toasty",
+        "estrelas": 6567,
+        "releases": 19,
+        "idade": 7.665982203969883
+    },
+    {
+        "nome": "springBoot",
+        "url": "https://github.com/527515025/springBoot",
+        "estrelas": 6510,
+        "releases": 0,
+        "idade": 7.865845311430527
+    },
+    {
+        "nome": "ansj_seg",
+        "url": "https://github.com/NLPchina/ansj_seg",
+        "estrelas": 6478,
+        "releases": 3,
+        "idade": 12.038329911019849
+    },
+    {
+        "nome": "processing",
+        "url": "https://github.com/processing/processing",
+        "estrelas": 6468,
+        "releases": 48,
+        "idade": 11.649555099247092
+    },
+    {
+        "nome": "AndroidPicker",
+        "url": "https://github.com/gzu-liyujiang/AndroidPicker",
+        "estrelas": 6458,
+        "releases": 56,
+        "idade": 8.91170431211499
+    },
+    {
+        "nome": "RoundedImageView",
+        "url": "https://github.com/vinc3m1/RoundedImageView",
+        "estrelas": 6441,
+        "releases": 19,
+        "idade": 11.572895277207392
+    },
+    {
+        "nome": "Leaf",
+        "url": "https://github.com/Meituan-Dianping/Leaf",
+        "estrelas": 6422,
+        "releases": 0,
+        "idade": 5.774127310061601
+    },
+    {
+        "nome": "itstack-demo-design",
+        "url": "https://github.com/fuzhengwei/itstack-demo-design",
+        "estrelas": 6409,
+        "releases": 0,
+        "idade": 4.331279945242985
+    },
+    {
+        "nome": "AndroidProject",
+        "url": "https://github.com/getActivity/AndroidProject",
+        "estrelas": 6407,
+        "releases": 17,
+        "idade": 5.908281998631074
+    },
+    {
+        "nome": "Android-Image-Cropper",
+        "url": "https://github.com/ArthurHub/Android-Image-Cropper",
+        "estrelas": 6389,
+        "releases": 32,
+        "idade": 9.678302532511978
+    },
+    {
+        "nome": "Android-skin-support",
+        "url": "https://github.com/ximsfei/Android-skin-support",
+        "estrelas": 6387,
+        "releases": 0,
+        "idade": 7.682409308692677
+    },
+    {
+        "nome": "zeppelin",
+        "url": "https://github.com/apache/zeppelin",
+        "estrelas": 6378,
+        "releases": 0,
+        "idade": 9.489390828199863
+    },
+    {
+        "nome": "android-floating-action-button",
+        "url": "https://github.com/zendesk/android-floating-action-button",
+        "estrelas": 6375,
+        "releases": 0,
+        "idade": 10.001368925393566
+    },
+    {
+        "nome": "Spring-Cloud-Platform",
+        "url": "https://github.com/wxiaoqi/Spring-Cloud-Platform",
+        "estrelas": 6351,
+        "releases": 3,
+        "idade": 7.321013004791239
+    },
+    {
+        "nome": "springcloud-learning",
+        "url": "https://github.com/macrozheng/springcloud-learning",
+        "estrelas": 6350,
+        "releases": 0,
+        "idade": 5.034907597535934
+    },
+    {
+        "nome": "JimuReport",
+        "url": "https://github.com/jeecgboot/JimuReport",
+        "estrelas": 6341,
+        "releases": 21,
+        "idade": 4.791238877481177
+    },
+    {
+        "nome": "WukongCRM-11.0-JAVA",
+        "url": "https://github.com/WuKongOpenSource/WukongCRM-11.0-JAVA",
+        "estrelas": 6335,
+        "releases": 0,
+        "idade": 3.455167693360712
+    },
+    {
+        "nome": "junit5",
+        "url": "https://github.com/junit-team/junit5",
+        "estrelas": 6322,
+        "releases": 71,
+        "idade": 9.686516084873375
+    },
+    {
+        "nome": "DependencyCheck",
+        "url": "https://github.com/jeremylong/DependencyCheck",
+        "estrelas": 6311,
+        "releases": 75,
+        "idade": 12.041067761806982
+    },
+    {
+        "nome": "ion",
+        "url": "https://github.com/koush/ion",
+        "estrelas": 6295,
+        "releases": 0,
+        "idade": 11.329226557152635
+    },
+    {
+        "nome": "smali",
+        "url": "https://github.com/JesusFreke/smali",
+        "estrelas": 6294,
+        "releases": 0,
+        "idade": 11.986310746064339
+    },
+    {
+        "nome": "JFoenix",
+        "url": "https://github.com/sshahine/JFoenix",
+        "estrelas": 6286,
+        "releases": 0,
+        "idade": 9.02943189596167
+    },
+    {
+        "nome": "wiremock",
+        "url": "https://github.com/wiremock/wiremock",
+        "estrelas": 6284,
+        "releases": 44,
+        "idade": 12.944558521560575
+    },
+    {
+        "nome": "remusic",
+        "url": "https://github.com/aa112901/remusic",
+        "estrelas": 6279,
+        "releases": 0,
+        "idade": 8.490075290896646
+    },
+    {
+        "nome": "AntennaPod",
+        "url": "https://github.com/AntennaPod/AntennaPod",
+        "estrelas": 6273,
+        "releases": 56,
+        "idade": 12.136892539356605
+    },
+    {
+        "nome": "async-http-client",
+        "url": "https://github.com/AsyncHttpClient/async-http-client",
+        "estrelas": 6270,
+        "releases": 3,
+        "idade": 13.535934291581109
+    },
+    {
+        "nome": "gnirehtet",
+        "url": "https://github.com/Genymobile/gnirehtet",
+        "estrelas": 6255,
+        "releases": 12,
+        "idade": 7.605749486652978
+    },
+    {
+        "nome": "quartz",
+        "url": "https://github.com/quartz-scheduler/quartz",
+        "estrelas": 6239,
+        "releases": 4,
+        "idade": 8.53388090349076
+    },
+    {
+        "nome": "richeditor-android",
+        "url": "https://github.com/wasabeef/richeditor-android",
+        "estrelas": 6232,
+        "releases": 0,
+        "idade": 9.47296372347707
+    },
+    {
+        "nome": "jsonschema2pojo",
+        "url": "https://github.com/joelittlejohn/jsonschema2pojo",
+        "estrelas": 6222,
+        "releases": 62,
+        "idade": 11.241615331964407
+    },
+    {
+        "nome": "byte-buddy",
+        "url": "https://github.com/raphw/byte-buddy",
+        "estrelas": 6219,
+        "releases": 284,
+        "idade": 10.8145106091718
+    },
+    {
+        "nome": "spring-cloud-examples",
+        "url": "https://github.com/ityouknow/spring-cloud-examples",
+        "estrelas": 6217,
+        "releases": 0,
+        "idade": 7.394934976043806
+    },
+    {
+        "nome": "from-java-to-kotlin",
+        "url": "https://github.com/amitshekhariitbhu/from-java-to-kotlin",
+        "estrelas": 6191,
+        "releases": 0,
+        "idade": 7.3319644079397674
+    },
+    {
+        "nome": "iceberg",
+        "url": "https://github.com/apache/iceberg",
+        "estrelas": 6173,
+        "releases": 22,
+        "idade": 5.831622176591376
+    },
+    {
+        "nome": "config",
+        "url": "https://github.com/lightbend/config",
+        "estrelas": 6149,
+        "releases": 1,
+        "idade": 12.788501026694044
+    },
+    {
+        "nome": "SwipeBackLayout",
+        "url": "https://github.com/ikew0ng/SwipeBackLayout",
+        "estrelas": 6126,
+        "releases": 0,
+        "idade": 11.069130732375086
+    },
+    {
+        "nome": "jOOQ",
+        "url": "https://github.com/jOOQ/jOOQ",
+        "estrelas": 6107,
+        "releases": 59,
+        "idade": 13.426420260095824
+    },
+    {
+        "nome": "MaterialEditText",
+        "url": "https://github.com/rengwuxian/MaterialEditText",
+        "estrelas": 6106,
+        "releases": 19,
+        "idade": 9.88911704312115
+    },
+    {
+        "nome": "graphql-java",
+        "url": "https://github.com/graphql-java/graphql-java",
+        "estrelas": 6101,
+        "releases": 82,
+        "idade": 9.207392197125257
+    },
+    {
+        "nome": "1brc",
+        "url": "https://github.com/gunnarmorling/1brc",
+        "estrelas": 6092,
+        "releases": 0,
+        "idade": 0.7282683093771389
+    },
+    {
+        "nome": "hazelcast",
+        "url": "https://github.com/hazelcast/hazelcast",
+        "estrelas": 6086,
+        "releases": 200,
+        "idade": 12.498288843258042
+    },
+    {
+        "nome": "NumberProgressBar",
+        "url": "https://github.com/daimajia/NumberProgressBar",
+        "estrelas": 6068,
+        "releases": 3,
+        "idade": 10.387405886379192
+    },
+    {
+        "nome": "grafika",
+        "url": "https://github.com/google/grafika",
+        "estrelas": 6063,
+        "releases": 1,
+        "idade": 10.74880219028063
+    },
+    {
+        "nome": "micronaut-core",
+        "url": "https://github.com/micronaut-projects/micronaut-core",
+        "estrelas": 6041,
+        "releases": 248,
+        "idade": 6.537987679671458
+    },
+    {
+        "nome": "EffectiveAndroidUI",
+        "url": "https://github.com/pedrovgs/EffectiveAndroidUI",
+        "estrelas": 6034,
+        "releases": 0,
+        "idade": 10.212183436002737
+    },
+    {
+        "nome": "dynamic-load-apk",
+        "url": "https://github.com/singwhatiwanna/dynamic-load-apk",
+        "estrelas": 6026,
+        "releases": 0,
+        "idade": 10.47501711156742
+    },
+    {
+        "nome": "smile",
+        "url": "https://github.com/haifengl/smile",
+        "estrelas": 6006,
+        "releases": 28,
+        "idade": 9.828884325804244
+    },
+    {
+        "nome": "material",
+        "url": "https://github.com/rey5137/material",
+        "estrelas": 6006,
+        "releases": 10,
+        "idade": 9.779603011635865
+    },
+    {
+        "nome": "physical-web",
+        "url": "https://github.com/google/physical-web",
+        "estrelas": 5993,
+        "releases": 17,
+        "idade": 9.96851471594798
+    },
+    {
+        "nome": "j2objc",
+        "url": "https://github.com/google/j2objc",
+        "estrelas": 5989,
+        "releases": 39,
+        "idade": 10.633812457221081
+    },
+    {
+        "nome": "xUtils3",
+        "url": "https://github.com/wyouflf/xUtils3",
+        "estrelas": 5988,
+        "releases": 9,
+        "idade": 8.895277207392198
+    },
+    {
+        "nome": "LeetCode-Book",
+        "url": "https://github.com/krahets/LeetCode-Book",
+        "estrelas": 5980,
+        "releases": 0,
+        "idade": 2.754277891854894
+    },
+    {
+        "nome": "Recaf",
+        "url": "https://github.com/Col-E/Recaf",
+        "estrelas": 5950,
+        "releases": 169,
+        "idade": 7.148528405201916
+    },
+    {
+        "nome": "androidmvp",
+        "url": "https://github.com/antoniolg/androidmvp",
+        "estrelas": 5936,
+        "releases": 0,
+        "idade": 10.466803559206022
+    },
+    {
+        "nome": "springfox",
+        "url": "https://github.com/springfox/springfox",
+        "estrelas": 5928,
+        "releases": 12,
+        "idade": 12.372347707049967
+    },
+    {
+        "nome": "material-calendarview",
+        "url": "https://github.com/prolificinteractive/material-calendarview",
+        "estrelas": 5914,
+        "releases": 22,
+        "idade": 9.607118412046544
+    },
+    {
+        "nome": "ssm",
+        "url": "https://github.com/liyifeng1994/ssm",
+        "estrelas": 5912,
+        "releases": 0,
+        "idade": 8.251882272416154
+    },
+    {
+        "nome": "hibernate-orm",
+        "url": "https://github.com/hibernate/hibernate-orm",
+        "estrelas": 5898,
+        "releases": 48,
+        "idade": 13.957563312799453
+    },
+    {
+        "nome": "motan",
+        "url": "https://github.com/weibocom/motan",
+        "estrelas": 5882,
+        "releases": 25,
+        "idade": 8.41615331964408
+    },
+    {
+        "nome": "robolectric",
+        "url": "https://github.com/robolectric/robolectric",
+        "estrelas": 5872,
+        "releases": 102,
+        "idade": 14.061601642710473
+    },
+    {
+        "nome": "gephi",
+        "url": "https://github.com/gephi/gephi",
+        "estrelas": 5865,
+        "releases": 19,
+        "idade": 12.91170431211499
+    },
+    {
+        "nome": "java-jwt",
+        "url": "https://github.com/auth0/java-jwt",
+        "estrelas": 5847,
+        "releases": 44,
+        "idade": 10.535249828884325
+    },
+    {
+        "nome": "pig",
+        "url": "https://github.com/pig-mesh/pig",
+        "estrelas": 5833,
+        "releases": 18,
+        "idade": 5.06776180698152
+    },
+    {
+        "nome": "blade",
+        "url": "https://github.com/lets-blade/blade",
+        "estrelas": 5833,
+        "releases": 9,
+        "idade": 9.27857631759069
+    },
+    {
+        "nome": "incubator-kie-drools",
+        "url": "https://github.com/apache/incubator-kie-drools",
+        "estrelas": 5832,
+        "releases": 4,
+        "idade": 13.585215605749486
+    },
+    {
+        "nome": "useful-java-links",
+        "url": "https://github.com/Vedenin/useful-java-links",
+        "estrelas": 5818,
+        "releases": 0,
+        "idade": 8.59958932238193
+    },
+    {
+        "nome": "java-eight-part",
+        "url": "https://github.com/CoderLeixiaoshuai/java-eight-part",
+        "estrelas": 5811,
+        "releases": 0,
+        "idade": 3.923340177960301
+    },
+    {
+        "nome": "BoomMenu",
+        "url": "https://github.com/Nightonke/BoomMenu",
+        "estrelas": 5807,
+        "releases": 0,
+        "idade": 8.503764544832306
+    },
+    {
+        "nome": "btrace",
+        "url": "https://github.com/btraceio/btrace",
+        "estrelas": 5797,
+        "releases": 32,
+        "idade": 10.05886379192334
+    },
+    {
+        "nome": "DiskLruCache",
+        "url": "https://github.com/JakeWharton/DiskLruCache",
+        "estrelas": 5789,
+        "releases": 0,
+        "idade": 12.706365503080082
+    },
+    {
+        "nome": "tcc-transaction",
+        "url": "https://github.com/changmingxie/tcc-transaction",
+        "estrelas": 5776,
+        "releases": 8,
+        "idade": 8.791238877481177
+    },
+    {
+        "nome": "DiscreteScrollView",
+        "url": "https://github.com/yarolegovich/DiscreteScrollView",
+        "estrelas": 5770,
+        "releases": 2,
+        "idade": 7.545516769336071
+    },
+    {
+        "nome": "SoloPi",
+        "url": "https://github.com/alipay/SoloPi",
+        "estrelas": 5755,
+        "releases": 8,
+        "idade": 5.516769336071184
+    },
+    {
+        "nome": "InfiniteCycleViewPager",
+        "url": "https://github.com/Devlight/InfiniteCycleViewPager",
+        "estrelas": 5749,
+        "releases": 2,
+        "idade": 8.0766598220397
+    },
+    {
+        "nome": "circular-progress-button",
+        "url": "https://github.com/dmytrodanylyk/circular-progress-button",
+        "estrelas": 5746,
+        "releases": 3,
+        "idade": 10.286105407255304
+    },
+    {
+        "nome": "SpringBootVulExploit",
+        "url": "https://github.com/LandGrey/SpringBootVulExploit",
+        "estrelas": 5737,
+        "releases": 0,
+        "idade": 4.334017796030117
+    },
+    {
+        "nome": "zxing-android-embedded",
+        "url": "https://github.com/journeyapps/zxing-android-embedded",
+        "estrelas": 5733,
+        "releases": 9,
+        "idade": 11.80561259411362
+    },
+    {
+        "nome": "springside4",
+        "url": "https://github.com/springside/springside4",
+        "estrelas": 5722,
+        "releases": 3,
+        "idade": 12.572210814510608
+    },
+    {
+        "nome": "FastHub",
+        "url": "https://github.com/k0shk0sh/FastHub",
+        "estrelas": 5708,
+        "releases": 63,
+        "idade": 7.581108829568788
+    },
+    {
+        "nome": "XXPermissions",
+        "url": "https://github.com/getActivity/XXPermissions",
+        "estrelas": 5707,
+        "releases": 63,
+        "idade": 6.261464750171116
+    },
+    {
+        "nome": "aurora-imui",
+        "url": "https://github.com/jpush/aurora-imui",
+        "estrelas": 5707,
+        "releases": 42,
+        "idade": 7.767282683093772
+    },
+    {
+        "nome": "u2020",
+        "url": "https://github.com/JakeWharton/u2020",
+        "estrelas": 5682,
+        "releases": 0,
+        "idade": 10.847364818617386
+    },
+    {
+        "nome": "Fast-Android-Networking",
+        "url": "https://github.com/amitshekhariitbhu/Fast-Android-Networking",
+        "estrelas": 5675,
+        "releases": 10,
+        "idade": 8.49555099247091
+    },
+    {
+        "nome": "vavr",
+        "url": "https://github.com/vavr-io/vavr",
+        "estrelas": 5668,
+        "releases": 16,
+        "idade": 10.633812457221081
+    },
+    {
+        "nome": "AndroidImageSlider",
+        "url": "https://github.com/daimajia/AndroidImageSlider",
+        "estrelas": 5632,
+        "releases": 5,
+        "idade": 10.299794661190965
+    },
+    {
+        "nome": "vespa",
+        "url": "https://github.com/vespa-engine/vespa",
+        "estrelas": 5628,
+        "releases": 162,
+        "idade": 8.292950034223136
+    },
+    {
+        "nome": "SwipeRecyclerView",
+        "url": "https://github.com/yanzhenjie/SwipeRecyclerView",
+        "estrelas": 5618,
+        "releases": 0,
+        "idade": 8.125941136208077
+    },
+    {
+        "nome": "flink-cdc",
+        "url": "https://github.com/apache/flink-cdc",
+        "estrelas": 5614,
+        "releases": 18,
+        "idade": 4.145106091718001
+    },
+    {
+        "nome": "HTextView",
+        "url": "https://github.com/hanks-zyh/HTextView",
+        "estrelas": 5611,
+        "releases": 0,
+        "idade": 8.750171115674195
+    },
+    {
+        "nome": "lanproxy",
+        "url": "https://github.com/ffay/lanproxy",
+        "estrelas": 5608,
+        "releases": 1,
+        "idade": 7.83025325119781
+    },
+    {
+        "nome": "Discovery",
+        "url": "https://github.com/Nepxion/Discovery",
+        "estrelas": 5607,
+        "releases": 130,
+        "idade": 6.245037645448323
+    },
+    {
+        "nome": "ShowcaseView",
+        "url": "https://github.com/amlcurran/ShowcaseView",
+        "estrelas": 5602,
+        "releases": 13,
+        "idade": 12.095824777549623
+    },
+    {
+        "nome": "FlowLayout",
+        "url": "https://github.com/hongyangAndroid/FlowLayout",
+        "estrelas": 5598,
+        "releases": 0,
+        "idade": 9.062286105407255
+    },
+    {
+        "nome": "jetlinks-community",
+        "url": "https://github.com/jetlinks/jetlinks-community",
+        "estrelas": 5595,
+        "releases": 18,
+        "idade": 4.714579055441479
+    },
+    {
+        "nome": "react-native-splash-screen",
+        "url": "https://github.com/crazycodeboy/react-native-splash-screen",
+        "estrelas": 5593,
+        "releases": 12,
+        "idade": 8.013689253935661
+    },
+    {
+        "nome": "Blurry",
+        "url": "https://github.com/wasabeef/Blurry",
+        "estrelas": 5584,
+        "releases": 0,
+        "idade": 9.158110882956878
+    },
+    {
+        "nome": "ListViewAnimations",
+        "url": "https://github.com/nhaarman/ListViewAnimations",
+        "estrelas": 5567,
+        "releases": 14,
+        "idade": 11.50444900752909
+    },
+    {
+        "nome": "disconf",
+        "url": "https://github.com/knightliao/disconf",
+        "estrelas": 5562,
+        "releases": 12,
+        "idade": 10.30800821355236
+    },
+    {
+        "nome": "google-java-format",
+        "url": "https://github.com/google/google-java-format",
+        "estrelas": 5562,
+        "releases": 28,
+        "idade": 9.357973990417522
+    },
+    {
+        "nome": "datax-web",
+        "url": "https://github.com/WeiYe-Jing/datax-web",
+        "estrelas": 5555,
+        "releases": 5,
+        "idade": 4.8350444900752905
+    },
+    {
+        "nome": "iotdb",
+        "url": "https://github.com/apache/iotdb",
+        "estrelas": 5520,
+        "releases": 37,
+        "idade": 5.817932922655715
+    },
+    {
+        "nome": "camel",
+        "url": "https://github.com/apache/camel",
+        "estrelas": 5512,
+        "releases": 0,
+        "idade": 15.331964407939767
+    },
+    {
+        "nome": "StickyListHeaders",
+        "url": "https://github.com/emilsjolander/StickyListHeaders",
+        "estrelas": 5509,
+        "releases": 16,
+        "idade": 12.522929500342231
+    },
+    {
+        "nome": "Android-ZBLibrary",
+        "url": "https://github.com/TommyLemon/Android-ZBLibrary",
+        "estrelas": 5507,
+        "releases": 25,
+        "idade": 9.08145106091718
+    },
+    {
+        "nome": "mini-spring",
+        "url": "https://github.com/DerekYRC/mini-spring",
+        "estrelas": 5502,
+        "releases": 0,
+        "idade": 3.838466803559206
+    },
+    {
+        "nome": "hive",
+        "url": "https://github.com/apache/hive",
+        "estrelas": 5498,
+        "releases": 0,
+        "idade": 15.331964407939767
+    },
+    {
+        "nome": "mosby",
+        "url": "https://github.com/sockeqwe/mosby",
+        "estrelas": 5490,
+        "releases": 15,
+        "idade": 9.489390828199863
+    },
+    {
+        "nome": "freeline",
+        "url": "https://github.com/alibaba/freeline",
+        "estrelas": 5481,
+        "releases": 22,
+        "idade": 8.125941136208077
+    },
+    {
+        "nome": "hippo4j",
+        "url": "https://github.com/opengoofy/hippo4j",
+        "estrelas": 5477,
+        "releases": 18,
+        "idade": 3.260780287474333
+    },
+    {
+        "nome": "lamp-cloud",
+        "url": "https://github.com/dromara/lamp-cloud",
+        "estrelas": 5470,
+        "releases": 0,
+        "idade": 6.672142368240931
+    },
+    {
+        "nome": "hertzbeat",
+        "url": "https://github.com/apache/hertzbeat",
+        "estrelas": 5466,
+        "releases": 22,
+        "idade": 2.620123203285421
+    },
+    {
+        "nome": "barcodescanner",
+        "url": "https://github.com/dm77/barcodescanner",
+        "estrelas": 5458,
+        "releases": 6,
+        "idade": 10.565366187542779
+    },
+    {
+        "nome": "kafdrop",
+        "url": "https://github.com/obsidiandynamics/kafdrop",
+        "estrelas": 5457,
+        "releases": 48,
+        "idade": 5.316906228610541
+    },
+    {
+        "nome": "uid-generator",
+        "url": "https://github.com/baidu/uid-generator",
+        "estrelas": 5436,
+        "releases": 0,
+        "idade": 7.482546201232033
+    },
+    {
+        "nome": "api-samples",
+        "url": "https://github.com/youtube/api-samples",
+        "estrelas": 5436,
+        "releases": 0,
+        "idade": 10.77618069815195
+    },
+    {
+        "nome": "rebound",
+        "url": "https://github.com/facebookarchive/rebound",
+        "estrelas": 5436,
+        "releases": 10,
+        "idade": 10.940451745379876
+    },
+    {
+        "nome": "scribejava",
+        "url": "https://github.com/scribejava/scribejava",
+        "estrelas": 5431,
+        "releases": 9,
+        "idade": 14.036960985626283
+    },
+    {
+        "nome": "MagicCamera",
+        "url": "https://github.com/wuhaoyu1990/MagicCamera",
+        "estrelas": 5429,
+        "releases": 0,
+        "idade": 8.698151950718685
+    },
+    {
+        "nome": "AndroidVideoCache",
+        "url": "https://github.com/danikula/AndroidVideoCache",
+        "estrelas": 5423,
+        "releases": 20,
+        "idade": 9.470225872689939
+    },
+    {
+        "nome": "IJPay",
+        "url": "https://github.com/Javen205/IJPay",
+        "estrelas": 5421,
+        "releases": 24,
+        "idade": 7.383983572895278
+    },
+    {
+        "nome": "EdXposed",
+        "url": "https://github.com/ElderDrivers/EdXposed",
+        "estrelas": 5407,
+        "releases": 27,
+        "idade": 5.66735112936345
+    },
+    {
+        "nome": "dubbo-spring-boot-project",
+        "url": "https://github.com/apache/dubbo-spring-boot-project",
+        "estrelas": 5405,
+        "releases": 13,
+        "idade": 6.669404517453799
+    },
+    {
+        "nome": "pinot",
+        "url": "https://github.com/apache/pinot",
+        "estrelas": 5401,
+        "releases": 19,
+        "idade": 10.335386721423683
+    },
+    {
+        "nome": "javaparser",
+        "url": "https://github.com/javaparser/javaparser",
+        "estrelas": 5378,
+        "releases": 52,
+        "idade": 12.8870636550308
+    },
+    {
+        "nome": "wechat",
+        "url": "https://github.com/motianhuo/wechat",
+        "estrelas": 5376,
+        "releases": 0,
+        "idade": 9.322381930184806
+    },
+    {
+        "nome": "android-job",
+        "url": "https://github.com/Evernote/android-job",
+        "estrelas": 5376,
+        "releases": 31,
+        "idade": 9.08145106091718
+    },
+    {
+        "nome": "TapTargetView",
+        "url": "https://github.com/KeepSafe/TapTargetView",
+        "estrelas": 5368,
+        "releases": 24,
+        "idade": 8.021902806297057
+    },
+    {
+        "nome": "SystemBarTint",
+        "url": "https://github.com/jgilfelt/SystemBarTint",
+        "estrelas": 5364,
+        "releases": 3,
+        "idade": 10.839151266255989
+    },
+    {
+        "nome": "lettuce",
+        "url": "https://github.com/redis/lettuce",
+        "estrelas": 5357,
+        "releases": 114,
+        "idade": 10.362765229295004
+    },
+    {
+        "nome": "spring-boot-projects",
+        "url": "https://github.com/ZHENFENG13/spring-boot-projects",
+        "estrelas": 5349,
+        "releases": 0,
+        "idade": 7.468856947296373
+    },
+    {
+        "nome": "cw-omnibus",
+        "url": "https://github.com/commonsguy/cw-omnibus",
+        "estrelas": 5348,
+        "releases": 36,
+        "idade": 12.5201916495551
+    },
+    {
+        "nome": "XRecyclerView",
+        "url": "https://github.com/XRecyclerView/XRecyclerView",
+        "estrelas": 5341,
+        "releases": 0,
+        "idade": 8.837782340862423
+    },
+    {
+        "nome": "hudi",
+        "url": "https://github.com/apache/hudi",
+        "estrelas": 5334,
+        "releases": 28,
+        "idade": 7.761806981519507
+    },
+    {
+        "nome": "austin",
+        "url": "https://github.com/ZhongFuCheng3y/austin",
+        "estrelas": 5327,
+        "releases": 0,
+        "idade": 2.869267624914442
+    },
+    {
+        "nome": "socket.io-client-java",
+        "url": "https://github.com/socketio/socket.io-client-java",
+        "estrelas": 5324,
+        "releases": 6,
+        "idade": 11.392197125256674
+    },
+    {
+        "nome": "android-advancedrecyclerview",
+        "url": "https://github.com/h6ah4i/android-advancedrecyclerview",
+        "estrelas": 5318,
+        "releases": 1,
+        "idade": 9.650924024640657
+    },
+    {
+        "nome": "JSqlParser",
+        "url": "https://github.com/JSQLParser/JSqlParser",
+        "estrelas": 5318,
+        "releases": 34,
+        "idade": 13.240246406570842
+    },
+    {
+        "nome": "shimmer-android",
+        "url": "https://github.com/facebookarchive/shimmer-android",
+        "estrelas": 5315,
+        "releases": 5,
+        "idade": 9.557837097878165
+    },
+    {
+        "nome": "gradle-retrolambda",
+        "url": "https://github.com/evant/gradle-retrolambda",
+        "estrelas": 5300,
+        "releases": 37,
+        "idade": 11.123887748117728
+    },
+    {
+        "nome": "FastBle",
+        "url": "https://github.com/Jasonchenlijian/FastBle",
+        "estrelas": 5287,
+        "releases": 9,
+        "idade": 8.073921971252567
+    },
+    {
+        "nome": "janusgraph",
+        "url": "https://github.com/JanusGraph/janusgraph",
+        "estrelas": 5276,
+        "releases": 26,
+        "idade": 7.731690622861054
+    },
+    {
+        "nome": "generator",
+        "url": "https://github.com/mybatis/generator",
+        "estrelas": 5275,
+        "releases": 11,
+        "idade": 11.605749486652977
+    },
+    {
+        "nome": "VitamioBundle",
+        "url": "https://github.com/yixia/VitamioBundle",
+        "estrelas": 5269,
+        "releases": 0,
+        "idade": 11.917864476386036
+    },
+    {
+        "nome": "android-lifecycle",
+        "url": "https://github.com/xxv/android-lifecycle",
+        "estrelas": 5264,
+        "releases": 0,
+        "idade": 10.420260095824778
+    },
+    {
+        "nome": "CompreFace",
+        "url": "https://github.com/exadel-inc/CompreFace",
+        "estrelas": 5258,
+        "releases": 11,
+        "idade": 4.205338809034908
+    },
+    {
+        "nome": "AmazeFileManager",
+        "url": "https://github.com/TeamAmaze/AmazeFileManager",
+        "estrelas": 5252,
+        "releases": 66,
+        "idade": 10.182067077344286
+    },
+    {
+        "nome": "titan",
+        "url": "https://github.com/thinkaurelius/titan",
+        "estrelas": 5247,
+        "releases": 0,
+        "idade": 12.563997262149213
+    },
+    {
+        "nome": "Side-Menu.Android",
+        "url": "https://github.com/Yalantis/Side-Menu.Android",
+        "estrelas": 5234,
+        "releases": 2,
+        "idade": 9.683778234086242
+    },
+    {
+        "nome": "Dexter",
+        "url": "https://github.com/Karumi/Dexter",
+        "estrelas": 5231,
+        "releases": 33,
+        "idade": 8.840520191649555
+    },
+    {
+        "nome": "twoway-view",
+        "url": "https://github.com/lucasr/twoway-view",
+        "estrelas": 5230,
+        "releases": 0,
+        "idade": 11.665982203969884
+    },
+    {
+        "nome": "FloatingActionButton",
+        "url": "https://github.com/Clans/FloatingActionButton",
+        "estrelas": 5228,
+        "releases": 14,
+        "idade": 9.500342231348391
+    },
+    {
+        "nome": "MusicBot",
+        "url": "https://github.com/jagrosh/MusicBot",
+        "estrelas": 5224,
+        "releases": 38,
+        "idade": 8.095824777549623
+    },
+    {
+        "nome": "hbase",
+        "url": "https://github.com/apache/hbase",
+        "estrelas": 5197,
+        "releases": 43,
+        "idade": 10.327173169062286
+    },
+    {
+        "nome": "QR-Code-generator",
+        "url": "https://github.com/nayuki/QR-Code-generator",
+        "estrelas": 5195,
+        "releases": 3,
+        "idade": 8.429842573579739
+    },
+    {
+        "nome": "google-authenticator",
+        "url": "https://github.com/google/google-authenticator",
+        "estrelas": 5192,
+        "releases": 0,
+        "idade": 9.946611909650924
+    },
+    {
+        "nome": "BasePopup",
+        "url": "https://github.com/razerdp/BasePopup",
+        "estrelas": 5190,
+        "releases": 15,
+        "idade": 8.678986995208762
+    },
+    {
+        "nome": "Android-Touch-Helper",
+        "url": "https://github.com/zfdang/Android-Touch-Helper",
+        "estrelas": 5189,
+        "releases": 112,
+        "idade": 3.9260780287474333
+    },
+    {
+        "nome": "linuxdeploy",
+        "url": "https://github.com/meefik/linuxdeploy",
+        "estrelas": 5187,
+        "releases": 37,
+        "idade": 12.07939767282683
+    },
+    {
+        "nome": "spring-data-examples",
+        "url": "https://github.com/spring-projects/spring-data-examples",
+        "estrelas": 5174,
+        "releases": 0,
+        "idade": 10.633812457221081
+    },
+    {
+        "nome": "groovy",
+        "url": "https://github.com/apache/groovy",
+        "estrelas": 5172,
+        "releases": 0,
+        "idade": 9.429158110882957
+    },
+    {
+        "nome": "otto",
+        "url": "https://github.com/square/otto",
+        "estrelas": 5165,
+        "releases": 0,
+        "idade": 12.227241615331964
+    },
+    {
+        "nome": "okdownload",
+        "url": "https://github.com/lingochamp/okdownload",
+        "estrelas": 5164,
+        "releases": 8,
+        "idade": 6.757015742642026
+    },
+    {
+        "nome": "springboot-guide",
+        "url": "https://github.com/CodingDocs/springboot-guide",
+        "estrelas": 5154,
+        "releases": 0,
+        "idade": 5.809719370294319
+    },
+    {
+        "nome": "smartTable",
+        "url": "https://github.com/huangyanbin/smartTable",
+        "estrelas": 5152,
+        "releases": 44,
+        "idade": 6.863791923340178
+    },
+    {
+        "nome": "traccar",
+        "url": "https://github.com/traccar/traccar",
+        "estrelas": 5149,
+        "releases": 54,
+        "idade": 12.427104722792608
+    },
+    {
+        "nome": "thumbnailator",
+        "url": "https://github.com/coobird/thumbnailator",
+        "estrelas": 5146,
+        "releases": 0,
+        "idade": 9.155373032169747
+    },
+    {
+        "nome": "JS-Sorting-Algorithm",
+        "url": "https://github.com/hustcc/JS-Sorting-Algorithm",
+        "estrelas": 5133,
+        "releases": 0,
+        "idade": 7.665982203969883
+    },
+    {
+        "nome": "ctci",
+        "url": "https://github.com/careercup/ctci",
+        "estrelas": 5131,
+        "releases": 0,
+        "idade": 11.496235455167694
+    },
+    {
+        "nome": "jeepay",
+        "url": "https://github.com/jeequan/jeepay",
+        "estrelas": 5077,
+        "releases": 0,
+        "idade": 7.104722792607803
+    },
+    {
+        "nome": "web3j",
+        "url": "https://github.com/hyperledger/web3j",
+        "estrelas": 5068,
+        "releases": 115,
+        "idade": 8.041067761806982
+    },
+    {
+        "nome": "jetcache",
+        "url": "https://github.com/alibaba/jetcache",
+        "estrelas": 5058,
+        "releases": 66,
+        "idade": 7.438740588637919
+    },
+    {
+        "nome": "graphhopper",
+        "url": "https://github.com/graphhopper/graphhopper",
+        "estrelas": 5051,
+        "releases": 43,
+        "idade": 12.583162217659138
+    },
+    {
+        "nome": "views-widgets-samples",
+        "url": "https://github.com/android/views-widgets-samples",
+        "estrelas": 5048,
+        "releases": 0,
+        "idade": 5.034907597535934
+    },
+    {
+        "nome": "Small",
+        "url": "https://github.com/wequick/Small",
+        "estrelas": 5042,
+        "releases": 25,
+        "idade": 8.813141683778234
+    },
+    {
+        "nome": "android-common",
+        "url": "https://github.com/Trinea/android-common",
+        "estrelas": 5016,
+        "releases": 1,
+        "idade": 12.251882272416154
+    },
+    {
+        "nome": "DKVideoPlayer",
+        "url": "https://github.com/Doikki/DKVideoPlayer",
+        "estrelas": 5013,
+        "releases": 32,
+        "idade": 7.441478439425051
+    },
+    {
+        "nome": "UltraViewPager",
+        "url": "https://github.com/alibaba/UltraViewPager",
+        "estrelas": 5002,
+        "releases": 10,
+        "idade": 7.477070499657769
+    },
+    {
+        "nome": "dialogplus",
+        "url": "https://github.com/orhanobut/dialogplus",
+        "estrelas": 5000,
+        "releases": 9,
+        "idade": 9.77138945927447
+    },
+    {
+        "nome": "android-zxingLibrary",
+        "url": "https://github.com/yipianfengye/android-zxingLibrary",
+        "estrelas": 4998,
+        "releases": 0,
+        "idade": 8.150581793292266
+    },
+    {
+        "nome": "GravitySnapHelper",
+        "url": "https://github.com/rubensousa/GravitySnapHelper",
+        "estrelas": 4998,
+        "releases": 14,
+        "idade": 8.05201916495551
+    },
+    {
+        "nome": "opentsdb",
+        "url": "https://github.com/OpenTSDB/opentsdb",
+        "estrelas": 4990,
+        "releases": 26,
+        "idade": 14.064339493497604
+    },
+    {
+        "nome": "InstaMaterial",
+        "url": "https://github.com/frogermcs/InstaMaterial",
+        "estrelas": 4990,
+        "releases": 1,
+        "idade": 9.856262833675565
+    },
+    {
+        "nome": "Luyten",
+        "url": "https://github.com/deathmarine/Luyten",
+        "estrelas": 4990,
+        "releases": 17,
+        "idade": 11.19233401779603
+    },
+    {
+        "nome": "spring-mvc-showcase",
+        "url": "https://github.com/spring-attic/spring-mvc-showcase",
+        "estrelas": 4985,
+        "releases": 0,
+        "idade": 13.295003422313483
+    },
+    {
+        "nome": "LayoutManagerGroup",
+        "url": "https://github.com/DingMouRen/LayoutManagerGroup",
+        "estrelas": 4980,
+        "releases": 0,
+        "idade": 6.395619438740589
+    },
+    {
+        "nome": "joda-time",
+        "url": "https://github.com/JodaOrg/joda-time",
+        "estrelas": 4972,
+        "releases": 48,
+        "idade": 13.344284736481862
+    },
+    {
+        "nome": "dddsample-core",
+        "url": "https://github.com/citerus/dddsample-core",
+        "estrelas": 4971,
+        "releases": 0,
+        "idade": 9.631759069130732
+    },
+    {
+        "nome": "bitcoinj",
+        "url": "https://github.com/bitcoinj/bitcoinj",
+        "estrelas": 4960,
+        "releases": 9,
+        "idade": 10.833675564681725
+    },
+    {
+        "nome": "RxJava2-Android-Samples",
+        "url": "https://github.com/amitshekhariitbhu/RxJava2-Android-Samples",
+        "estrelas": 4959,
+        "releases": 0,
+        "idade": 8.062970568104038
+    },
+    {
+        "nome": "sofa-boot",
+        "url": "https://github.com/sofastack/sofa-boot",
+        "estrelas": 4949,
+        "releases": 78,
+        "idade": 6.466803559206023
+    },
+    {
+        "nome": "NavigationTabBar",
+        "url": "https://github.com/Devlight/NavigationTabBar",
+        "estrelas": 4947,
+        "releases": 13,
+        "idade": 8.476386036960985
+    },
+    {
+        "nome": "CloudReader",
+        "url": "https://github.com/youlookwhat/CloudReader",
+        "estrelas": 4935,
+        "releases": 25,
+        "idade": 7.83025325119781
+    },
+    {
+        "nome": "novel",
+        "url": "https://github.com/201206030/novel",
+        "estrelas": 4934,
+        "releases": 11,
+        "idade": 4.856947296372348
+    },
+    {
+        "nome": "CameraView",
+        "url": "https://github.com/natario1/CameraView",
+        "estrelas": 4925,
+        "releases": 42,
+        "idade": 7.173169062286106
+    },
+    {
+        "nome": "reactor-core",
+        "url": "https://github.com/reactor/reactor-core",
+        "estrelas": 4924,
+        "releases": 185,
+        "idade": 8.85968514715948
+    },
+    {
+        "nome": "RippleEffect",
+        "url": "https://github.com/traex/RippleEffect",
+        "estrelas": 4923,
+        "releases": 0,
+        "idade": 9.932922655715263
+    },
+    {
+        "nome": "YCSB",
+        "url": "https://github.com/brianfrankcooper/YCSB",
+        "estrelas": 4913,
+        "releases": 55,
+        "idade": 14.417522245037645
+    },
+    {
+        "nome": "shopping-management-system",
+        "url": "https://github.com/zhanglei-workspace/shopping-management-system",
+        "estrelas": 4910,
+        "releases": 0,
+        "idade": 8.843258042436688
+    },
+    {
+        "nome": "folding-cell-android",
+        "url": "https://github.com/Ramotion/folding-cell-android",
+        "estrelas": 4900,
+        "releases": 0,
+        "idade": 8.46817248459959
+    },
+    {
+        "nome": "mapdb",
+        "url": "https://github.com/jankotek/mapdb",
+        "estrelas": 4885,
+        "releases": 0,
+        "idade": 12.087611225188228
+    },
+    {
+        "nome": "picocli",
+        "url": "https://github.com/remkop/picocli",
+        "estrelas": 4883,
+        "releases": 85,
+        "idade": 7.627652292950034
+    },
+    {
+        "nome": "easy-rules",
+        "url": "https://github.com/j-easy/easy-rules",
+        "estrelas": 4872,
+        "releases": 10,
+        "idade": 11.526351813826146
+    },
+    {
+        "nome": "gpmall",
+        "url": "https://github.com/2227324689/gpmall",
+        "estrelas": 4866,
+        "releases": 0,
+        "idade": 5.171800136892539
+    },
+    {
+        "nome": "spring-cloud-netflix",
+        "url": "https://github.com/spring-cloud/spring-cloud-netflix",
+        "estrelas": 4863,
+        "releases": 14,
+        "idade": 10.190280629705681
+    },
+    {
+        "nome": "react-native-linear-gradient",
+        "url": "https://github.com/react-native-linear-gradient/react-native-linear-gradient",
+        "estrelas": 4862,
+        "releases": 18,
+        "idade": 9.470225872689939
+    },
+    {
+        "nome": "XUI",
+        "url": "https://github.com/xuexiangjys/XUI",
+        "estrelas": 4857,
+        "releases": 23,
+        "idade": 5.700205338809035
+    },
+    {
+        "nome": "usb-serial-for-android",
+        "url": "https://github.com/mik3y/usb-serial-for-android",
+        "estrelas": 4830,
+        "releases": 31,
+        "idade": 11.219712525667351
+    },
+    {
+        "nome": "wvp-GB28181-pro",
+        "url": "https://github.com/648540858/wvp-GB28181-pro",
+        "estrelas": 4828,
+        "releases": 0,
+        "idade": 3.8439425051334704
+    },
+    {
+        "nome": "Transitions-Everywhere",
+        "url": "https://github.com/andkulikov/Transitions-Everywhere",
+        "estrelas": 4828,
+        "releases": 23,
+        "idade": 9.930184804928132
+    },
+    {
+        "nome": "roncoo-pay",
+        "url": "https://github.com/roncoo/roncoo-pay",
+        "estrelas": 4825,
+        "releases": 0,
+        "idade": 8.164271047227926
+    },
+    {
+        "nome": "packer-ng-plugin",
+        "url": "https://github.com/mcxiaoke/packer-ng-plugin",
+        "estrelas": 4824,
+        "releases": 1,
+        "idade": 8.821355236139631
+    },
+    {
+        "nome": "spring-authorization-server",
+        "url": "https://github.com/spring-projects/spring-authorization-server",
+        "estrelas": 4823,
+        "releases": 59,
+        "idade": 4.506502395619439
+    },
+    {
+        "nome": "xpay",
+        "url": "https://github.com/Exrick/xpay",
+        "estrelas": 4817,
+        "releases": 0,
+        "idade": 6.767967145790554
+    },
+    {
+        "nome": "pmd",
+        "url": "https://github.com/pmd/pmd",
+        "estrelas": 4808,
+        "releases": 95,
+        "idade": 12.188911704312115
+    },
+    {
+        "nome": "lucida",
+        "url": "https://github.com/claritylab/lucida",
+        "estrelas": 4808,
+        "releases": 0,
+        "idade": 10.351813826146476
+    },
+    {
+        "nome": "react-native-config",
+        "url": "https://github.com/lugg/react-native-config",
+        "estrelas": 4802,
+        "releases": 25,
+        "idade": 8.572210814510608
+    },
+    {
+        "nome": "QLExpress",
+        "url": "https://github.com/alibaba/QLExpress",
+        "estrelas": 4796,
+        "releases": 5,
+        "idade": 7.515400410677618
+    },
+    {
+        "nome": "reactive-streams-jvm",
+        "url": "https://github.com/reactive-streams/reactive-streams-jvm",
+        "estrelas": 4794,
+        "releases": 0,
+        "idade": 10.557152635181383
+    },
+    {
+        "nome": "armeria",
+        "url": "https://github.com/line/armeria",
+        "estrelas": 4787,
+        "releases": 243,
+        "idade": 8.843258042436688
+    },
+    {
+        "nome": "cglib",
+        "url": "https://github.com/cglib/cglib",
+        "estrelas": 4784,
+        "releases": 15,
+        "idade": 10.47501711156742
+    },
+    {
+        "nome": "JustTrustMe",
+        "url": "https://github.com/Fuzion24/JustTrustMe",
+        "estrelas": 4781,
+        "releases": 1,
+        "idade": 10.154688569472963
+    },
+    {
+        "nome": "Android-ConvenientBanner",
+        "url": "https://github.com/saiwu-bigkoo/Android-ConvenientBanner",
+        "estrelas": 4771,
+        "releases": 0,
+        "idade": 9.741273100616016
+    },
+    {
+        "nome": "ignite",
+        "url": "https://github.com/apache/ignite",
+        "estrelas": 4766,
+        "releases": 0,
+        "idade": 9.582477754962355
+    },
+    {
+        "nome": "strimzi-kafka-operator",
+        "url": "https://github.com/strimzi/strimzi-kafka-operator",
+        "estrelas": 4765,
+        "releases": 141,
+        "idade": 8.372347707049967
+    },
+    {
+        "nome": "runelite",
+        "url": "https://github.com/runelite/runelite",
+        "estrelas": 4764,
+        "releases": 0,
+        "idade": 8.386036960985626
+    },
+    {
+        "nome": "nifi",
+        "url": "https://github.com/apache/nifi",
+        "estrelas": 4763,
+        "releases": 0,
+        "idade": 9.77138945927447
+    },
+    {
+        "nome": "AndroidStaggeredGrid",
+        "url": "https://github.com/etsy/AndroidStaggeredGrid",
+        "estrelas": 4759,
+        "releases": 7,
+        "idade": 10.77618069815195
+    },
+    {
+        "nome": "AppManager",
+        "url": "https://github.com/MuntashirAkon/AppManager",
+        "estrelas": 4759,
+        "releases": 69,
+        "idade": 4.306639288158795
+    },
+    {
+        "nome": "lwjgl3",
+        "url": "https://github.com/LWJGL/lwjgl3",
+        "estrelas": 4742,
+        "releases": 19,
+        "idade": 11.737166324435318
+    },
+    {
+        "nome": "openai-java",
+        "url": "https://github.com/TheoKanning/openai-java",
+        "estrelas": 4737,
+        "releases": 22,
+        "idade": 4.010951403148528
+    },
+    {
+        "nome": "logisim-evolution",
+        "url": "https://github.com/logisim-evolution/logisim-evolution",
+        "estrelas": 4736,
+        "releases": 30,
+        "idade": 10.001368925393566
+    },
+    {
+        "nome": "cameraview",
+        "url": "https://github.com/google/cameraview",
+        "estrelas": 4735,
+        "releases": 0,
+        "idade": 8.125941136208077
+    },
+    {
+        "nome": "orientdb",
+        "url": "https://github.com/orientechnologies/orientdb",
+        "estrelas": 4730,
+        "releases": 214,
+        "idade": 11.775496235455167
+    },
+    {
+        "nome": "DesignPattern",
+        "url": "https://github.com/youlookwhat/DesignPattern",
+        "estrelas": 4726,
+        "releases": 0,
+        "idade": 7.912388774811773
+    },
+    {
+        "nome": "baseAdapter",
+        "url": "https://github.com/hongyangAndroid/baseAdapter",
+        "estrelas": 4725,
+        "releases": 0,
+        "idade": 9.130732375085557
+    },
+    {
+        "nome": "sodium-fabric",
+        "url": "https://github.com/CaffeineMC/sodium-fabric",
+        "estrelas": 4724,
+        "releases": 40,
+        "idade": 4.632443531827516
+    },
+    {
+        "nome": "android-tips-tricks",
+        "url": "https://github.com/nisrulz/android-tips-tricks",
+        "estrelas": 4719,
+        "releases": 0,
+        "idade": 8.06570841889117
+    },
+    {
+        "nome": "reflections",
+        "url": "https://github.com/ronmamo/reflections",
+        "estrelas": 4713,
+        "releases": 3,
+        "idade": 11.425051334702259
+    },
+    {
+        "nome": "java-faker",
+        "url": "https://github.com/DiUS/java-faker",
+        "estrelas": 4708,
+        "releases": 0,
+        "idade": 13.289527720739219
+    },
+    {
+        "nome": "SwitchButton",
+        "url": "https://github.com/kyleduo/SwitchButton",
+        "estrelas": 4707,
+        "releases": 0,
+        "idade": 10.028747433264886
+    },
+    {
+        "nome": "ActiveAndroid",
+        "url": "https://github.com/pardom-zz/ActiveAndroid",
+        "estrelas": 4705,
+        "releases": 0,
+        "idade": 11.841204654346338
+    },
+    {
+        "nome": "querydsl",
+        "url": "https://github.com/querydsl/querydsl",
+        "estrelas": 4704,
+        "releases": 35,
+        "idade": 13.125256673511293
+    },
+    {
+        "nome": "keepass2android",
+        "url": "https://github.com/PhilippC/keepass2android",
+        "estrelas": 4702,
+        "releases": 27,
+        "idade": 6.995208761122519
+    },
+    {
+        "nome": "Geyser",
+        "url": "https://github.com/GeyserMC/Geyser",
+        "estrelas": 4700,
+        "releases": 0,
+        "idade": 5.19917864476386
+    },
+    {
+        "nome": "library",
+        "url": "https://github.com/ddd-by-examples/library",
+        "estrelas": 4696,
+        "releases": 0,
+        "idade": 5.689253935660506
+    },
+    {
+        "nome": "spring-security-oauth",
+        "url": "https://github.com/spring-attic/spring-security-oauth",
+        "estrelas": 4692,
+        "releases": 0,
+        "idade": 13.149897330595483
+    },
+    {
+        "nome": "chuck",
+        "url": "https://github.com/jgilfelt/chuck",
+        "estrelas": 4686,
+        "releases": 5,
+        "idade": 7.611225188227242
+    },
+    {
+        "nome": "Android-IMSI-Catcher-Detector",
+        "url": "https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector",
+        "estrelas": 4682,
+        "releases": 48,
+        "idade": 10.822724161533197
+    },
+    {
+        "nome": "Spring-Boot-In-Action",
+        "url": "https://github.com/hansonwang99/Spring-Boot-In-Action",
+        "estrelas": 4682,
+        "releases": 0,
+        "idade": 5.642710472279261
+    },
+    {
+        "nome": "bisq",
+        "url": "https://github.com/bisq-network/bisq",
+        "estrelas": 4681,
+        "releases": 138,
+        "idade": 10.524298425735797
+    },
+    {
+        "nome": "midjourney-proxy",
+        "url": "https://github.com/novicezk/midjourney-proxy",
+        "estrelas": 4680,
+        "releases": 0,
+        "idade": 1.404517453798768
+    },
+    {
+        "nome": "mall4j",
+        "url": "https://github.com/gz-yami/mall4j",
+        "estrelas": 4673,
+        "releases": 5,
+        "idade": 5.212867898699521
+    },
+    {
+        "nome": "oshi",
+        "url": "https://github.com/oshi/oshi",
+        "estrelas": 4673,
+        "releases": 157,
+        "idade": 12.607802874743326
+    },
+    {
+        "nome": "TelegramBots",
+        "url": "https://github.com/rubenlagus/TelegramBots",
+        "estrelas": 4672,
+        "releases": 101,
+        "idade": 8.681724845995893
+    },
+    {
+        "nome": "MaterialDateTimePicker",
+        "url": "https://github.com/wdullaer/MaterialDateTimePicker",
+        "estrelas": 4669,
+        "releases": 54,
+        "idade": 9.708418891170432
+    },
+    {
+        "nome": "dynamic-datasource",
+        "url": "https://github.com/baomidou/dynamic-datasource",
+        "estrelas": 4667,
+        "releases": 18,
+        "idade": 6.395619438740589
+    },
+    {
+        "nome": "mybatis",
+        "url": "https://github.com/tuguangquan/mybatis",
+        "estrelas": 4665,
+        "releases": 0,
+        "idade": 9.878165639972622
+    },
+    {
+        "nome": "cardslib",
+        "url": "https://github.com/gabrielemariotti/cardslib",
+        "estrelas": 4664,
+        "releases": 27,
+        "idade": 10.99520876112252
+    },
+    {
+        "nome": "shattered-pixel-dungeon",
+        "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
+        "estrelas": 4654,
+        "releases": 50,
+        "idade": 10.13552361396304
+    },
+    {
+        "nome": "rstudio",
+        "url": "https://github.com/rstudio/rstudio",
+        "estrelas": 4653,
+        "releases": 0,
+        "idade": 13.782340862422998
+    },
+    {
+        "nome": "small-spring",
+        "url": "https://github.com/fuzhengwei/small-spring",
+        "estrelas": 4649,
+        "releases": 0,
+        "idade": 3.34839151266256
+    },
+    {
+        "nome": "liquibase",
+        "url": "https://github.com/liquibase/liquibase",
+        "estrelas": 4636,
+        "releases": 98,
+        "idade": 13.19917864476386
+    },
+    {
+        "nome": "FirebaseUI-Android",
+        "url": "https://github.com/firebase/FirebaseUI-Android",
+        "estrelas": 4628,
+        "releases": 65,
+        "idade": 9.196440793976729
+    },
+    {
+        "nome": "PageIndicatorView",
+        "url": "https://github.com/romandanylyk/PageIndicatorView",
+        "estrelas": 4622,
+        "releases": 14,
+        "idade": 8.07939767282683
+    },
+    {
+        "nome": "wgcloud",
+        "url": "https://github.com/tianshiyeben/wgcloud",
+        "estrelas": 4604,
+        "releases": 24,
+        "idade": 5.678302532511978
+    },
+    {
+        "nome": "JAViewer",
+        "url": "https://github.com/SplashCodes/JAViewer",
+        "estrelas": 4602,
+        "releases": 10,
+        "idade": 8.331279945242985
+    },
+    {
+        "nome": "OsmAnd",
+        "url": "https://github.com/osmandapp/OsmAnd",
+        "estrelas": 4598,
+        "releases": 1,
+        "idade": 13.675564681724847
+    },
+    {
+        "nome": "react-native-webrtc",
+        "url": "https://github.com/react-native-webrtc/react-native-webrtc",
+        "estrelas": 4590,
+        "releases": 79,
+        "idade": 8.980150581793293
+    },
+    {
+        "nome": "MifareClassicTool",
+        "url": "https://github.com/ikarus23/MifareClassicTool",
+        "estrelas": 4580,
+        "releases": 8,
+        "idade": 11.597535934291582
+    },
+    {
+        "nome": "mockserver",
+        "url": "https://github.com/mock-server/mockserver",
+        "estrelas": 4579,
+        "releases": 0,
+        "idade": 11.561943874058864
+    },
+    {
+        "nome": "megabasterd",
+        "url": "https://github.com/tonikelope/megabasterd",
+        "estrelas": 4577,
+        "releases": 208,
+        "idade": 7.969883641341547
+    },
+    {
+        "nome": "SimplifyReader",
+        "url": "https://github.com/chentao0707/SimplifyReader",
+        "estrelas": 4575,
+        "releases": 0,
+        "idade": 9.092402464065708
+    },
+    {
+        "nome": "sqlbrite",
+        "url": "https://github.com/square/sqlbrite",
+        "estrelas": 4569,
+        "releases": 9,
+        "idade": 9.582477754962355
+    },
+    {
+        "nome": "rocketmq-externals",
+        "url": "https://github.com/apache/rocketmq-externals",
+        "estrelas": 4568,
+        "releases": 0,
+        "idade": 7.51813826146475
+    },
+    {
+        "nome": "go-lang-idea-plugin",
+        "url": "https://github.com/go-lang-plugin-org/go-lang-idea-plugin",
+        "estrelas": 4565,
+        "releases": 21,
+        "idade": 14.05886379192334
+    },
+    {
+        "nome": "killbill",
+        "url": "https://github.com/killbill/killbill",
+        "estrelas": 4560,
+        "releases": 147,
+        "idade": 11.90965092402464
+    },
+    {
+        "nome": "Depth-LIB-Android-",
+        "url": "https://github.com/danielzeller/Depth-LIB-Android-",
+        "estrelas": 4560,
+        "releases": 0,
+        "idade": 8.396988364134154
+    },
+    {
+        "nome": "quasar",
+        "url": "https://github.com/puniverse/quasar",
+        "estrelas": 4559,
+        "releases": 18,
+        "idade": 11.4798083504449
+    },
+    {
+        "nome": "ribbon",
+        "url": "https://github.com/Netflix/ribbon",
+        "estrelas": 4557,
+        "releases": 41,
+        "idade": 11.676933607118412
+    },
+    {
+        "nome": "JGrowing",
+        "url": "https://github.com/javagrowing/JGrowing",
+        "estrelas": 4553,
+        "releases": 0,
+        "idade": 5.563312799452429
+    },
+    {
+        "nome": "calcite",
+        "url": "https://github.com/apache/calcite",
+        "estrelas": 4549,
+        "releases": 0,
+        "idade": 10.236824093086927
+    },
+    {
+        "nome": "Douya",
+        "url": "https://github.com/zhanghai/Douya",
+        "estrelas": 4549,
+        "releases": 11,
+        "idade": 8.629705681040383
+    },
+    {
+        "nome": "microservices-platform",
+        "url": "https://github.com/zlt2000/microservices-platform",
+        "estrelas": 4546,
+        "releases": 30,
+        "idade": 5.538672142368241
+    },
+    {
+        "nome": "SpringBoot-Shiro-Vue",
+        "url": "https://github.com/Heeexy/SpringBoot-Shiro-Vue",
+        "estrelas": 4544,
+        "releases": 0,
+        "idade": 6.836413415468857
+    },
+    {
+        "nome": "libsvm",
+        "url": "https://github.com/cjlin1/libsvm",
+        "estrelas": 4540,
+        "releases": 0,
+        "idade": 11.02258726899384
+    },
+    {
+        "nome": "android-crop",
+        "url": "https://github.com/jdamcd/android-crop",
+        "estrelas": 4539,
+        "releases": 6,
+        "idade": 10.521560574948666
+    },
+    {
+        "nome": "crawler4j",
+        "url": "https://github.com/yasserg/crawler4j",
+        "estrelas": 4532,
+        "releases": 3,
+        "idade": 12.71731690622861
+    },
+    {
+        "nome": "esProc",
+        "url": "https://github.com/SPLWare/esProc",
+        "estrelas": 4524,
+        "releases": 0,
+        "idade": 2.858316221765914
+    },
+    {
+        "nome": "bottomsheet",
+        "url": "https://github.com/Flipboard/bottomsheet",
+        "estrelas": 4520,
+        "releases": 10,
+        "idade": 9.4072553045859
+    },
+    {
+        "nome": "JSON-java",
+        "url": "https://github.com/stleary/JSON-java",
+        "estrelas": 4511,
+        "releases": 21,
+        "idade": 13.744010951403148
+    },
+    {
+        "nome": "SmoothProgressBar",
+        "url": "https://github.com/castorflex/SmoothProgressBar",
+        "estrelas": 4508,
+        "releases": 9,
+        "idade": 10.809034907597535
+    },
+    {
+        "nome": "dexposed",
+        "url": "https://github.com/alibaba/dexposed",
+        "estrelas": 4507,
+        "releases": 0,
+        "idade": 9.22381930184805
+    },
+    {
+        "nome": "jpexs-decompiler",
+        "url": "https://github.com/jindrapetrik/jpexs-decompiler",
+        "estrelas": 4505,
+        "releases": 162,
+        "idade": 10.360027378507871
+    },
+    {
+        "nome": "spring-cloud-gateway",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway",
+        "estrelas": 4503,
+        "releases": 17,
+        "idade": 7.838466803559206
+    },
+    {
+        "nome": "blog_demos",
+        "url": "https://github.com/zq2599/blog_demos",
+        "estrelas": 4496,
+        "releases": 0,
+        "idade": 7.446954140999315
+    },
+    {
+        "nome": "NineOldAndroids",
+        "url": "https://github.com/JakeWharton/NineOldAndroids",
+        "estrelas": 4491,
+        "releases": 0,
+        "idade": 12.780287474332649
+    },
+    {
+        "nome": "bilibili-android-client",
+        "url": "https://github.com/HotBitmapGG/bilibili-android-client",
+        "estrelas": 4491,
+        "releases": 1,
+        "idade": 8.301163586584531
+    },
+    {
+        "nome": "langchain4j",
+        "url": "https://github.com/langchain4j/langchain4j",
+        "estrelas": 4485,
+        "releases": 36,
+        "idade": 1.2484599589322383
+    },
+    {
+        "nome": "Pixiv-Shaft",
+        "url": "https://github.com/CeuiLiSA/Pixiv-Shaft",
+        "estrelas": 4481,
+        "releases": 100,
+        "idade": 5.470225872689938
+    },
+    {
+        "nome": "ForestBlog",
+        "url": "https://github.com/saysky/ForestBlog",
+        "estrelas": 4478,
+        "releases": 0,
+        "idade": 6.945927446954141
+    },
+    {
+        "nome": "javacpp",
+        "url": "https://github.com/bytedeco/javacpp",
+        "estrelas": 4474,
+        "releases": 11,
+        "idade": 10.414784394250514
+    },
+    {
+        "nome": "spotless",
+        "url": "https://github.com/diffplug/spotless",
+        "estrelas": 4459,
+        "releases": 3,
+        "idade": 9.396303901437372
+    },
+    {
+        "nome": "aviatorscript",
+        "url": "https://github.com/killme2008/aviatorscript",
+        "estrelas": 4457,
+        "releases": 52,
+        "idade": 13.478439425051334
+    },
+    {
+        "nome": "azkaban",
+        "url": "https://github.com/azkaban/azkaban",
+        "estrelas": 4451,
+        "releases": 48,
+        "idade": 11.92060232717317
+    },
+    {
+        "nome": "GCViewer",
+        "url": "https://github.com/chewiebug/GCViewer",
+        "estrelas": 4449,
+        "releases": 5,
+        "idade": 12.908966461327857
+    },
+    {
+        "nome": "TV",
+        "url": "https://github.com/FongMi/TV",
+        "estrelas": 4449,
+        "releases": 0,
+        "idade": 2.245037645448323
+    },
+    {
+        "nome": "micrometer",
+        "url": "https://github.com/micrometer-metrics/micrometer",
+        "estrelas": 4447,
+        "releases": 234,
+        "idade": 7.441478439425051
+    },
+    {
+        "nome": "android-times-square",
+        "url": "https://github.com/square/android-times-square",
+        "estrelas": 4446,
+        "releases": 0,
+        "idade": 11.633127994524298
+    },
+    {
+        "nome": "java-algorithms-implementation",
+        "url": "https://github.com/phishman3579/java-algorithms-implementation",
+        "estrelas": 4440,
+        "releases": 0,
+        "idade": 10.830937713894592
+    },
+    {
+        "nome": "simplify",
+        "url": "https://github.com/CalebFenton/simplify",
+        "estrelas": 4439,
+        "releases": 9,
+        "idade": 10.674880219028063
+    },
+    {
+        "nome": "android-mvp-architecture",
+        "url": "https://github.com/janishar/android-mvp-architecture",
+        "estrelas": 4434,
+        "releases": 0,
+        "idade": 7.644079397672827
+    },
+    {
+        "nome": "AndroidHttpCapture",
+        "url": "https://github.com/JZ-Darkal/AndroidHttpCapture",
+        "estrelas": 4432,
+        "releases": 1,
+        "idade": 7.926078028747433
+    },
+    {
+        "nome": "Robust",
+        "url": "https://github.com/Meituan-Dianping/Robust",
+        "estrelas": 4414,
+        "releases": 13,
+        "idade": 7.51813826146475
+    },
+    {
+        "nome": "concurrent",
+        "url": "https://github.com/RedSpider1/concurrent",
+        "estrelas": 4412,
+        "releases": 0,
+        "idade": 5.87542778918549
+    },
+    {
+        "nome": "spring-boot-best-practice",
+        "url": "https://github.com/javastacks/spring-boot-best-practice",
+        "estrelas": 4403,
+        "releases": 0,
+        "idade": 5.861738535249829
+    },
+    {
+        "nome": "epic",
+        "url": "https://github.com/tiann/epic",
+        "estrelas": 4403,
+        "releases": 5,
+        "idade": 7.329226557152635
+    },
+    {
+        "nome": "db-tutorial",
+        "url": "https://github.com/dunwu/db-tutorial",
+        "estrelas": 4388,
+        "releases": 0,
+        "idade": 7.115674195756331
+    },
+    {
+        "nome": "GT",
+        "url": "https://github.com/Tencent/GT",
+        "estrelas": 4388,
+        "releases": 3,
+        "idade": 8.684462696783026
+    },
+    {
+        "nome": "--",
+        "url": "https://github.com/981011512/--",
+        "estrelas": 4385,
+        "releases": 0,
+        "idade": 4.251882272416153
+    },
+    {
+        "nome": "ticker",
+        "url": "https://github.com/robinhood/ticker",
+        "estrelas": 4382,
+        "releases": 9,
+        "idade": 8.177960301163587
+    },
+    {
+        "nome": "objectbox-java",
+        "url": "https://github.com/objectbox/objectbox-java",
+        "estrelas": 4382,
+        "releases": 43,
+        "idade": 7.652292950034223
+    },
+    {
+        "nome": "DeepLinkDispatch",
+        "url": "https://github.com/airbnb/DeepLinkDispatch",
+        "estrelas": 4375,
+        "releases": 24,
+        "idade": 9.273100616016427
+    },
+    {
+        "nome": "AndroidTutorialForBeginners",
+        "url": "https://github.com/hussien89aa/AndroidTutorialForBeginners",
+        "estrelas": 4374,
+        "releases": 0,
+        "idade": 7.9780971937029435
+    },
+    {
+        "nome": "FXGL",
+        "url": "https://github.com/AlmasB/FXGL",
+        "estrelas": 4359,
+        "releases": 58,
+        "idade": 9.492128678986996
+    },
+    {
+        "nome": "moco",
+        "url": "https://github.com/dreamhead/moco",
+        "estrelas": 4357,
+        "releases": 1,
+        "idade": 11.92060232717317
+    },
+    {
+        "nome": "leet-code",
+        "url": "https://github.com/awangdev/leet-code",
+        "estrelas": 4355,
+        "releases": 0,
+        "idade": 9.401779603011637
+    },
+    {
+        "nome": "BottomNavigation",
+        "url": "https://github.com/Ashok-Varma/BottomNavigation",
+        "estrelas": 4351,
+        "releases": 16,
+        "idade": 8.501026694045175
+    },
+    {
+        "nome": "opengrok",
+        "url": "https://github.com/oracle/opengrok",
+        "estrelas": 4342,
+        "releases": 280,
+        "idade": 11.698836413415469
+    },
+    {
+        "nome": "BGARefreshLayout-Android",
+        "url": "https://github.com/bingoogolapple/BGARefreshLayout-Android",
+        "estrelas": 4309,
+        "releases": 4,
+        "idade": 9.311430527036277
+    },
+    {
+        "nome": "shiro",
+        "url": "https://github.com/apache/shiro",
+        "estrelas": 4305,
+        "releases": 10,
+        "idade": 15.058179329226558
+    },
+    {
+        "nome": "android-volley",
+        "url": "https://github.com/mcxiaoke/android-volley",
+        "estrelas": 4295,
+        "releases": 0,
+        "idade": 11.331964407939767
+    },
+    {
+        "nome": "Digital",
+        "url": "https://github.com/hneemann/Digital",
+        "estrelas": 4289,
+        "releases": 35,
+        "idade": 8.224503764544833
+    },
+    {
+        "nome": "JDA",
+        "url": "https://github.com/discord-jda/JDA",
+        "estrelas": 4289,
+        "releases": 92,
+        "idade": 8.76933607118412
+    },
+    {
+        "nome": "maven",
+        "url": "https://github.com/apache/maven",
+        "estrelas": 4287,
+        "releases": 19,
+        "idade": 15.331964407939767
+    },
+    {
+        "nome": "ImagePicker",
+        "url": "https://github.com/jeasonlzy/ImagePicker",
+        "estrelas": 4287,
+        "releases": 5,
+        "idade": 8.643394934976044
+    },
+    {
+        "nome": "coursera-android",
+        "url": "https://github.com/aporter/coursera-android",
+        "estrelas": 4284,
+        "releases": 0,
+        "idade": 10.704996577686517
+    },
+    {
+        "nome": "android-autofittextview",
+        "url": "https://github.com/grantland/android-autofittextview",
+        "estrelas": 4271,
+        "releases": 1,
+        "idade": 13.596167008898014
+    },
+    {
+        "nome": "CircleIndicator",
+        "url": "https://github.com/ongakuer/CircleIndicator",
+        "estrelas": 4266,
+        "releases": 7,
+        "idade": 10.13826146475017
+    },
+    {
+        "nome": "flink-recommandSystem-demo",
+        "url": "https://github.com/water8394/flink-recommandSystem-demo",
+        "estrelas": 4259,
+        "releases": 0,
+        "idade": 5.349760438056126
+    },
+    {
+        "nome": "Gadgetbridge",
+        "url": "https://github.com/Freeyourgadget/Gadgetbridge",
+        "estrelas": 4242,
+        "releases": 0,
+        "idade": 9.702943189596168
+    },
+    {
+        "nome": "java-learning",
+        "url": "https://github.com/brianway/java-learning",
+        "estrelas": 4236,
+        "releases": 0,
+        "idade": 8.61054072553046
+    },
+    {
+        "nome": "Ant-Media-Server",
+        "url": "https://github.com/ant-media/Ant-Media-Server",
+        "estrelas": 4235,
+        "releases": 59,
+        "idade": 7.553730321697468
+    },
+    {
+        "nome": "OpenHub",
+        "url": "https://github.com/ThirtyDegreesRay/OpenHub",
+        "estrelas": 4235,
+        "releases": 31,
+        "idade": 7.19233401779603
+    },
+    {
+        "nome": "InternetArchitect",
+        "url": "https://github.com/bjmashibing/InternetArchitect",
+        "estrelas": 4234,
+        "releases": 0,
+        "idade": 4.917180013689254
+    },
+    {
+        "nome": "frontend-maven-plugin",
+        "url": "https://github.com/eirslett/frontend-maven-plugin",
+        "estrelas": 4231,
+        "releases": 0,
+        "idade": 11.052703627652292
+    },
+    {
+        "nome": "ShineButton",
+        "url": "https://github.com/ChadCSong/ShineButton",
+        "estrelas": 4218,
+        "releases": 2,
+        "idade": 8.208076659822039
+    },
+    {
+        "nome": "tx-lcn",
+        "url": "https://github.com/codingapi/tx-lcn",
+        "estrelas": 4211,
+        "releases": 14,
+        "idade": 6.855578370978781
+    },
+    {
+        "nome": "WePush",
+        "url": "https://github.com/rememberber/WePush",
+        "estrelas": 4202,
+        "releases": 57,
+        "idade": 7.241615331964408
+    },
+    {
+        "nome": "poi-tl",
+        "url": "https://github.com/Sayi/poi-tl",
+        "estrelas": 4195,
+        "releases": 14,
+        "idade": 9.503080082135524
+    },
+    {
+        "nome": "dragonwell8",
+        "url": "https://github.com/dragonwell-project/dragonwell8",
+        "estrelas": 4189,
+        "releases": 34,
+        "idade": 5.538672142368241
+    },
+    {
+        "nome": "CoordinatorTabLayout",
+        "url": "https://github.com/hugeterry/CoordinatorTabLayout",
+        "estrelas": 4186,
+        "releases": 0,
+        "idade": 7.644079397672827
+    },
+    {
+        "nome": "JKeyboardPanelSwitch",
+        "url": "https://github.com/Jacksgong/JKeyboardPanelSwitch",
+        "estrelas": 4184,
+        "releases": 14,
+        "idade": 9.218343600273785
+    },
+    {
+        "nome": "FloatWindow",
+        "url": "https://github.com/yhaolpz/FloatWindow",
+        "estrelas": 4176,
+        "releases": 9,
+        "idade": 6.844626967830253
+    },
+    {
+        "nome": "h2database",
+        "url": "https://github.com/h2database/h2database",
+        "estrelas": 4173,
+        "releases": 23,
+        "idade": 9.442847364818617
+    },
+    {
+        "nome": "android",
+        "url": "https://github.com/nextcloud/android",
+        "estrelas": 4172,
+        "releases": 230,
+        "idade": 8.284736481861739
+    },
+    {
+        "nome": "failsafe",
+        "url": "https://github.com/failsafe-lib/failsafe",
+        "estrelas": 4171,
+        "releases": 0,
+        "idade": 9.22381930184805
+    },
+    {
+        "nome": "BGABanner-Android",
+        "url": "https://github.com/bingoogolapple/BGABanner-Android",
+        "estrelas": 4166,
+        "releases": 0,
+        "idade": 9.900068446269678
+    },
+    {
+        "nome": "serve",
+        "url": "https://github.com/pytorch/serve",
+        "estrelas": 4160,
+        "releases": 23,
+        "idade": 4.963723477070499
+    },
+    {
+        "nome": "powermock",
+        "url": "https://github.com/powermock/powermock",
+        "estrelas": 4157,
+        "releases": 16,
+        "idade": 10.313483915126625
+    },
+    {
+        "nome": "Infinity-For-Reddit",
+        "url": "https://github.com/Docile-Alligator/Infinity-For-Reddit",
+        "estrelas": 4157,
+        "releases": 166,
+        "idade": 6.1492128678987
+    },
+    {
+        "nome": "jacoco",
+        "url": "https://github.com/jacoco/jacoco",
+        "estrelas": 4154,
+        "releases": 48,
+        "idade": 12.19712525667351
+    },
+    {
+        "nome": "lilishop",
+        "url": "https://github.com/lilishop/lilishop",
+        "estrelas": 4146,
+        "releases": 3,
+        "idade": 3.351129363449692
+    },
+    {
+        "nome": "AndroidWiFiADB",
+        "url": "https://github.com/pedrovgs/AndroidWiFiADB",
+        "estrelas": 4144,
+        "releases": 8,
+        "idade": 8.919917864476385
+    },
+    {
+        "nome": "typespec",
+        "url": "https://github.com/microsoft/typespec",
+        "estrelas": 4131,
+        "releases": 41,
+        "idade": 3.2197125256673513
+    },
+    {
+        "nome": "jitsi",
+        "url": "https://github.com/jitsi/jitsi",
+        "estrelas": 4129,
+        "releases": 7,
+        "idade": 11.403148528405202
+    },
+    {
+        "nome": "sensitive-word",
+        "url": "https://github.com/houbb/sensitive-word",
+        "estrelas": 4123,
+        "releases": 2,
+        "idade": 4.700889801505818
+    },
+    {
+        "nome": "GDA-android-reversing-Tool",
+        "url": "https://github.com/charles2gan/GDA-android-reversing-Tool",
+        "estrelas": 4123,
+        "releases": 40,
+        "idade": 6.885694729637235
+    },
+    {
+        "nome": "spring-boot-starter",
+        "url": "https://github.com/mybatis/spring-boot-starter",
+        "estrelas": 4121,
+        "releases": 30,
+        "idade": 8.985626283367557
+    },
+    {
+        "nome": "aws-sdk-java",
+        "url": "https://github.com/aws/aws-sdk-java",
+        "estrelas": 4113,
+        "releases": 0,
+        "idade": 14.494182067077345
+    },
+    {
+        "nome": "hmily",
+        "url": "https://github.com/dromara/hmily",
+        "estrelas": 4110,
+        "releases": 0,
+        "idade": 6.976043805612594
+    },
+    {
+        "nome": "Tangram-Android",
+        "url": "https://github.com/alibaba/Tangram-Android",
+        "estrelas": 4109,
+        "releases": 38,
+        "idade": 7.477070499657769
+    },
+    {
+        "nome": "LoadingDrawable",
+        "url": "https://github.com/dinuscxj/LoadingDrawable",
+        "estrelas": 4102,
+        "releases": 0,
+        "idade": 8.427104722792608
+    },
+    {
+        "nome": "javassist",
+        "url": "https://github.com/jboss-javassist/javassist",
+        "estrelas": 4095,
+        "releases": 24,
+        "idade": 11.323750855578371
+    },
+    {
+        "nome": "camunda-bpm-platform",
+        "url": "https://github.com/camunda/camunda-bpm-platform",
+        "estrelas": 4093,
+        "releases": 0,
+        "idade": 11.709787816563997
+    },
+    {
+        "nome": "IoT-Technical-Guide",
+        "url": "https://github.com/IoT-Technology/IoT-Technical-Guide",
+        "estrelas": 4088,
+        "releases": 0,
+        "idade": 5.467488021902806
+    },
+    {
+        "nome": "ipscan",
+        "url": "https://github.com/angryip/ipscan",
+        "estrelas": 4085,
+        "releases": 30,
+        "idade": 13.22655715263518
+    },
+    {
+        "nome": "ExpandableTextView",
+        "url": "https://github.com/Manabu-GT/ExpandableTextView",
+        "estrelas": 4084,
+        "releases": 4,
+        "idade": 10.340862422997947
+    },
+    {
+        "nome": "campus-imaotai",
+        "url": "https://github.com/oddfar/campus-imaotai",
+        "estrelas": 4084,
+        "releases": 11,
+        "idade": 1.2046543463381245
+    },
+    {
+        "nome": "allure2",
+        "url": "https://github.com/allure-framework/allure2",
+        "estrelas": 4080,
+        "releases": 71,
+        "idade": 8.31211498973306
+    },
+    {
+        "nome": "djl",
+        "url": "https://github.com/deepjavalibrary/djl",
+        "estrelas": 4072,
+        "releases": 31,
+        "idade": 4.889801505817933
+    },
+    {
+        "nome": "malmo",
+        "url": "https://github.com/microsoft/malmo",
+        "estrelas": 4067,
+        "releases": 21,
+        "idade": 8.33949349760438
+    },
+    {
+        "nome": "ViewPagerCards",
+        "url": "https://github.com/rubensousa/ViewPagerCards",
+        "estrelas": 4066,
+        "releases": 0,
+        "idade": 8.07939767282683
+    },
+    {
+        "nome": "jodd",
+        "url": "https://github.com/oblac/jodd",
+        "estrelas": 4062,
+        "releases": 37,
+        "idade": 12.030116358658454
+    },
+    {
+        "nome": "open-location-code",
+        "url": "https://github.com/google/open-location-code",
+        "estrelas": 4059,
+        "releases": 5,
+        "idade": 9.96851471594798
+    },
+    {
+        "nome": "tiny-spring",
+        "url": "https://github.com/code4craft/tiny-spring",
+        "estrelas": 4046,
+        "releases": 0,
+        "idade": 10.688569472963723
+    },
+    {
+        "nome": "crate",
+        "url": "https://github.com/crate/crate",
+        "estrelas": 4044,
+        "releases": 107,
+        "idade": 11.444216290212184
+    },
+    {
+        "nome": "CC",
+        "url": "https://github.com/luckybilly/CC",
+        "estrelas": 4042,
+        "releases": 0,
+        "idade": 6.8199863107460645
+    },
+    {
+        "nome": "greys-anatomy",
+        "url": "https://github.com/oldmanpushcart/greys-anatomy",
+        "estrelas": 4021,
+        "releases": 0,
+        "idade": 11.824777549623546
+    },
+    {
+        "nome": "Bolts-Android",
+        "url": "https://github.com/BoltsFramework/Bolts-Android",
+        "estrelas": 4017,
+        "releases": 11,
+        "idade": 10.636550308008214
+    },
+    {
+        "nome": "bistoury",
+        "url": "https://github.com/qunarcorp/bistoury",
+        "estrelas": 4015,
+        "releases": 8,
+        "idade": 5.136208076659822
+    },
+    {
+        "nome": "Phoenix",
+        "url": "https://github.com/Yalantis/Phoenix",
+        "estrelas": 4014,
+        "releases": 1,
+        "idade": 9.683778234086242
+    },
+    {
+        "nome": "QAuxiliary",
+        "url": "https://github.com/cinit/QAuxiliary",
+        "estrelas": 4010,
+        "releases": 42,
+        "idade": 2.639288158795346
+    },
+    {
+        "nome": "FloatingActionButton",
+        "url": "https://github.com/makovkastar/FloatingActionButton",
+        "estrelas": 4007,
+        "releases": 0,
+        "idade": 10.16290212183436
+    },
+    {
+        "nome": "maxwell",
+        "url": "https://github.com/zendesk/maxwell",
+        "estrelas": 4004,
+        "releases": 207,
+        "idade": 9.607118412046544
+    },
+    {
+        "nome": "SmartCropper",
+        "url": "https://github.com/pqpo/SmartCropper",
+        "estrelas": 4003,
+        "releases": 13,
+        "idade": 7.129363449691992
+    },
+    {
+        "nome": "TwinklingRefreshLayout",
+        "url": "https://github.com/lcodecorex/TwinklingRefreshLayout",
+        "estrelas": 3996,
+        "releases": 0,
+        "idade": 8.550308008213552
+    },
+    {
+        "nome": "XCL-Charts",
+        "url": "https://github.com/xcltapestry/XCL-Charts",
+        "estrelas": 3992,
+        "releases": 0,
+        "idade": 10.277891854893909
+    },
+    {
+        "nome": "BadgeView",
+        "url": "https://github.com/qstumn/BadgeView",
+        "estrelas": 3988,
+        "releases": 5,
+        "idade": 7.611225188227242
+    },
+    {
+        "nome": "dubbo-admin",
+        "url": "https://github.com/apache/dubbo-admin",
+        "estrelas": 3987,
+        "releases": 6,
+        "idade": 6.6885694729637235
+    },
+    {
+        "nome": "Wukong_HRM",
+        "url": "https://github.com/WuKongOpenSource/Wukong_HRM",
+        "estrelas": 3982,
+        "releases": 0,
+        "idade": 0.9253935660506503
+    },
+    {
+        "nome": "hawk",
+        "url": "https://github.com/orhanobut/hawk",
+        "estrelas": 3981,
+        "releases": 22,
+        "idade": 9.579739904175222
+    },
+    {
+        "nome": "BigImageViewer",
+        "url": "https://github.com/Piasy/BigImageViewer",
+        "estrelas": 3979,
+        "releases": 0,
+        "idade": 7.868583162217659
+    },
+    {
+        "nome": "chunjun",
+        "url": "https://github.com/DTStack/chunjun",
+        "estrelas": 3978,
+        "releases": 30,
+        "idade": 6.464065708418891
+    },
+    {
+        "nome": "Suwayomi-Server",
+        "url": "https://github.com/Suwayomi/Suwayomi-Server",
+        "estrelas": 3963,
+        "releases": 56,
+        "idade": 3.7371663244353184
+    },
+    {
+        "nome": "GuideView",
+        "url": "https://github.com/binIoter/GuideView",
+        "estrelas": 3956,
+        "releases": 0,
+        "idade": 8.251882272416154
+    },
+    {
+        "nome": "zotfile",
+        "url": "https://github.com/jlegewie/zotfile",
+        "estrelas": 3954,
+        "releases": 33,
+        "idade": 12.720054757015742
+    },
+    {
+        "nome": "tech-weekly",
+        "url": "https://github.com/mercyblitz/tech-weekly",
+        "estrelas": 3953,
+        "releases": 0,
+        "idade": 5.796030116358659
+    },
+    {
+        "nome": "RxJavaSamples",
+        "url": "https://github.com/rengwuxian/RxJavaSamples",
+        "estrelas": 3940,
+        "releases": 3,
+        "idade": 8.490075290896646
+    },
+    {
+        "nome": "android-iconify",
+        "url": "https://github.com/JoanZapata/android-iconify",
+        "estrelas": 3927,
+        "releases": 0,
+        "idade": 11.271731690622861
+    },
+    {
+        "nome": "interviewGuide",
+        "url": "https://github.com/NotFound9/interviewGuide",
+        "estrelas": 3926,
+        "releases": 0,
+        "idade": 8.41615331964408
+    },
+    {
+        "nome": "jstorm",
+        "url": "https://github.com/alibaba/jstorm",
+        "estrelas": 3915,
+        "releases": 22,
+        "idade": 11.044490075290897
+    },
+    {
+        "nome": "RichText",
+        "url": "https://github.com/zzhoujay/RichText",
+        "estrelas": 3913,
+        "releases": 0,
+        "idade": 9.166324435318275
+    },
+    {
+        "nome": "aurora",
+        "url": "https://github.com/linhaojun857/aurora",
+        "estrelas": 3906,
+        "releases": 0,
+        "idade": 2.086242299794661
+    },
+    {
+        "nome": "java-developer-roadmap",
+        "url": "https://github.com/s4kibs4mi/java-developer-roadmap",
+        "estrelas": 3905,
+        "releases": 0,
+        "idade": 5.409993155373032
+    },
+    {
+        "nome": "guide-rpc-framework",
+        "url": "https://github.com/Snailclimb/guide-rpc-framework",
+        "estrelas": 3900,
+        "releases": 0,
+        "idade": 4.361396303901437
+    },
+    {
+        "nome": "Conductor",
+        "url": "https://github.com/bluelinelabs/Conductor",
+        "estrelas": 3896,
+        "releases": 36,
+        "idade": 8.509240246406572
+    },
+    {
+        "nome": "effective-java-3e-source-code",
+        "url": "https://github.com/jbloch/effective-java-3e-source-code",
+        "estrelas": 3886,
+        "releases": 0,
+        "idade": 6.1273100616016425
+    },
+    {
+        "nome": "learning-spark",
+        "url": "https://github.com/databricks/learning-spark",
+        "estrelas": 3882,
+        "releases": 0,
+        "idade": 10.261464750171116
+    },
+    {
+        "nome": "XposedInstaller",
+        "url": "https://github.com/rovo89/XposedInstaller",
+        "estrelas": 3873,
+        "releases": 0,
+        "idade": 12.462696783025326
+    },
+    {
+        "nome": "LiveEventBus",
+        "url": "https://github.com/JeremyLiao/LiveEventBus",
+        "estrelas": 3867,
+        "releases": 0,
+        "idade": 6.193018480492813
+    },
+    {
+        "nome": "dolby_beta",
+        "url": "https://github.com/nining377/dolby_beta",
+        "estrelas": 3863,
+        "releases": 37,
+        "idade": 4.336755646817249
+    },
+    {
+        "nome": "DataMiningAlgorithm",
+        "url": "https://github.com/linyiqun/DataMiningAlgorithm",
+        "estrelas": 3854,
+        "releases": 0,
+        "idade": 9.689253935660506
+    },
+    {
+        "nome": "incubator-streampark",
+        "url": "https://github.com/apache/incubator-streampark",
+        "estrelas": 3853,
+        "releases": 27,
+        "idade": 5.316906228610541
+    },
+    {
+        "nome": "XChange",
+        "url": "https://github.com/knowm/XChange",
+        "estrelas": 3849,
+        "releases": 0,
+        "idade": 12.629705681040383
+    },
+    {
+        "nome": "BackgroundLibrary",
+        "url": "https://github.com/JavaNoober/BackgroundLibrary",
+        "estrelas": 3840,
+        "releases": 13,
+        "idade": 6.028747433264887
+    },
+    {
+        "nome": "ahbottomnavigation",
+        "url": "https://github.com/aurelhubert/ahbottomnavigation",
+        "estrelas": 3835,
+        "releases": 14,
+        "idade": 8.509240246406572
+    },
+    {
+        "nome": "jetty.project",
+        "url": "https://github.com/jetty/jetty.project",
+        "estrelas": 3832,
+        "releases": 104,
+        "idade": 13.1854893908282
+    },
+    {
+        "nome": "MaterialSearchView",
+        "url": "https://github.com/MiguelCatalan/MaterialSearchView",
+        "estrelas": 3829,
+        "releases": 6,
+        "idade": 9.013004791238878
+    },
+    {
+        "nome": "xboot",
+        "url": "https://github.com/Exrick/xboot",
+        "estrelas": 3827,
+        "releases": 6,
+        "idade": 6.406570841889117
+    },
+    {
+        "nome": "Launcher3",
+        "url": "https://github.com/amirzaidi/Launcher3",
+        "estrelas": 3825,
+        "releases": 22,
+        "idade": 7.307323750855578
+    },
+    {
+        "nome": "sofa-rpc",
+        "url": "https://github.com/sofastack/sofa-rpc",
+        "estrelas": 3813,
+        "releases": 59,
+        "idade": 6.447638603696099
+    },
+    {
+        "nome": "CircleProgress",
+        "url": "https://github.com/uknownothingsnow/CircleProgress",
+        "estrelas": 3811,
+        "releases": 0,
+        "idade": 9.886379192334017
+    },
+    {
+        "nome": "awaitility",
+        "url": "https://github.com/awaitility/awaitility",
+        "estrelas": 3804,
+        "releases": 0,
+        "idade": 14.655715263518138
+    },
+    {
+        "nome": "geoserver",
+        "url": "https://github.com/geoserver/geoserver",
+        "estrelas": 3799,
+        "releases": 49,
+        "idade": 12.856947296372347
+    },
+    {
+        "nome": "jmonkeyengine",
+        "url": "https://github.com/jMonkeyEngine/jmonkeyengine",
+        "estrelas": 3784,
+        "releases": 64,
+        "idade": 10.499657768651609
+    },
+    {
+        "nome": "TinyPinyin",
+        "url": "https://github.com/promeG/TinyPinyin",
+        "estrelas": 3778,
+        "releases": 2,
+        "idade": 8.971937029431896
+    },
+    {
+        "nome": "Leetcode",
+        "url": "https://github.com/fishercoder1534/Leetcode",
+        "estrelas": 3776,
+        "releases": 0,
+        "idade": 8.136892539356605
+    },
+    {
+        "nome": "MarqueeView",
+        "url": "https://github.com/sunfusheng/MarqueeView",
+        "estrelas": 3775,
+        "releases": 0,
+        "idade": 8.301163586584531
+    },
+    {
+        "nome": "SuperTextView",
+        "url": "https://github.com/lygttpod/SuperTextView",
+        "estrelas": 3773,
+        "releases": 39,
+        "idade": 7.917864476386037
+    },
+    {
+        "nome": "roboguice",
+        "url": "https://github.com/roboguice/roboguice",
+        "estrelas": 3771,
+        "releases": 0,
+        "idade": 12.101300479123887
+    },
+    {
+        "nome": "DSBridge-Android",
+        "url": "https://github.com/wendux/DSBridge-Android",
+        "estrelas": 3764,
+        "releases": 2,
+        "idade": 7.712525667351129
+    },
+    {
+        "nome": "unidbg",
+        "url": "https://github.com/zhkl0228/unidbg",
+        "estrelas": 3763,
+        "releases": 15,
+        "idade": 5.563312799452429
+    },
+    {
+        "nome": "screw",
+        "url": "https://github.com/pingfangushi/screw",
+        "estrelas": 3762,
+        "releases": 0,
+        "idade": 4.246406570841889
+    },
+    {
+        "nome": "IDDD_Samples",
+        "url": "https://github.com/VaughnVernon/IDDD_Samples",
+        "estrelas": 3762,
+        "releases": 0,
+        "idade": 11.446954140999315
+    },
+    {
+        "nome": "andOTP",
+        "url": "https://github.com/andOTP/andOTP",
+        "estrelas": 3755,
+        "releases": 38,
+        "idade": 7.208761122518823
+    },
+    {
+        "nome": "mpush",
+        "url": "https://github.com/mpusher/mpush",
+        "estrelas": 3753,
+        "releases": 9,
+        "idade": 8.394250513347023
+    },
+    {
+        "nome": "sticky-headers-recyclerview",
+        "url": "https://github.com/timehop/sticky-headers-recyclerview",
+        "estrelas": 3742,
+        "releases": 0,
+        "idade": 9.963039014373717
+    },
+    {
+        "nome": "oblivion",
+        "url": "https://github.com/bepass-org/oblivion",
+        "estrelas": 3738,
+        "releases": 11,
+        "idade": 0.6132785763175906
+    },
+    {
+        "nome": "dynamic-tp",
+        "url": "https://github.com/dromara/dynamic-tp",
+        "estrelas": 3738,
+        "releases": 14,
+        "idade": 2.6967830253251197
+    },
+    {
+        "nome": "CustomActivityOnCrash",
+        "url": "https://github.com/Ereza/CustomActivityOnCrash",
+        "estrelas": 3736,
+        "releases": 12,
+        "idade": 10.209445585215606
+    },
+    {
+        "nome": "MallChat",
+        "url": "https://github.com/zongzibinbin/MallChat",
+        "estrelas": 3735,
+        "releases": 0,
+        "idade": 1.51129363449692
+    },
+    {
+        "nome": "blurkit-android",
+        "url": "https://github.com/CameraKit/blurkit-android",
+        "estrelas": 3721,
+        "releases": 3,
+        "idade": 7.868583162217659
+    },
+    {
+        "nome": "spruce-android",
+        "url": "https://github.com/willowtreeapps/spruce-android",
+        "estrelas": 3718,
+        "releases": 3,
+        "idade": 7.567419575633128
+    },
+    {
+        "nome": "SwipeDelMenuLayout",
+        "url": "https://github.com/mcxtzhang/SwipeDelMenuLayout",
+        "estrelas": 3713,
+        "releases": 2,
+        "idade": 8.068446269678303
+    },
+    {
+        "nome": "java-tron",
+        "url": "https://github.com/tronprotocol/java-tron",
+        "estrelas": 3713,
+        "releases": 77,
+        "idade": 6.7323750855578375
+    },
+    {
+        "nome": "AndServer",
+        "url": "https://github.com/yanzhenjie/AndServer",
+        "estrelas": 3708,
+        "releases": 1,
+        "idade": 8.265571526351813
+    },
+    {
+        "nome": "leetcode-editor",
+        "url": "https://github.com/shuzijun/leetcode-editor",
+        "estrelas": 3708,
+        "releases": 55,
+        "idade": 5.503080082135524
+    },
+    {
+        "nome": "NoHttp",
+        "url": "https://github.com/yanzhenjie/NoHttp",
+        "estrelas": 3707,
+        "releases": 0,
+        "idade": 9.144421629021219
+    },
+    {
+        "nome": "novel-plus",
+        "url": "https://github.com/201206030/novel-plus",
+        "estrelas": 3704,
+        "releases": 23,
+        "idade": 4.383299110198494
+    },
+    {
+        "nome": "StylishMusicPlayer",
+        "url": "https://github.com/ryanhoo/StylishMusicPlayer",
+        "estrelas": 3701,
+        "releases": 0,
+        "idade": 8.013689253935661
+    },
+    {
+        "nome": "ripme",
+        "url": "https://github.com/RipMeApp/ripme",
+        "estrelas": 3700,
+        "releases": 126,
+        "idade": 7.698836413415469
+    },
+    {
+        "nome": "markor",
+        "url": "https://github.com/gsantner/markor",
+        "estrelas": 3699,
+        "releases": 72,
+        "idade": 7.066392881587953
+    },
+    {
+        "nome": "fastjson2",
+        "url": "https://github.com/alibaba/fastjson2",
+        "estrelas": 3687,
+        "releases": 54,
+        "idade": 2.425735797399042
+    },
+    {
+        "nome": "atmosphere",
+        "url": "https://github.com/Atmosphere/atmosphere",
+        "estrelas": 3685,
+        "releases": 0,
+        "idade": 14.220396988364135
+    },
+    {
+        "nome": "ASimpleCache",
+        "url": "https://github.com/yangfuhai/ASimpleCache",
+        "estrelas": 3683,
+        "releases": 0,
+        "idade": 11.143052703627653
+    },
+    {
+        "nome": "ChatKit",
+        "url": "https://github.com/stfalcon-studio/ChatKit",
+        "estrelas": 3680,
+        "releases": 1,
+        "idade": 7.627652292950034
+    },
+    {
+        "nome": "bitcoin-wallet",
+        "url": "https://github.com/bitcoin-wallet/bitcoin-wallet",
+        "estrelas": 3678,
+        "releases": 18,
+        "idade": 12.46817248459959
+    },
+    {
+        "nome": "automq",
+        "url": "https://github.com/AutoMQ/automq",
+        "estrelas": 3673,
+        "releases": 39,
+        "idade": 1.0924024640657084
+    },
+    {
+        "nome": "rejoiner",
+        "url": "https://github.com/google/rejoiner",
+        "estrelas": 3671,
+        "releases": 3,
+        "idade": 6.784394250513347
+    },
+    {
+        "nome": "Skeleton",
+        "url": "https://github.com/ethanhua/Skeleton",
+        "estrelas": 3669,
+        "releases": 0,
+        "idade": 7.14031485284052
+    },
+    {
+        "nome": "Terasology",
+        "url": "https://github.com/MovingBlocks/Terasology",
+        "estrelas": 3664,
+        "releases": 70,
+        "idade": 13.546885694729637
+    },
+    {
+        "nome": "groupie",
+        "url": "https://github.com/lisawray/groupie",
+        "estrelas": 3663,
+        "releases": 28,
+        "idade": 8.046543463381246
+    },
+    {
+        "nome": "Play-with-Algorithms",
+        "url": "https://github.com/liuyubobobo/Play-with-Algorithms",
+        "estrelas": 3659,
+        "releases": 0,
+        "idade": 8.205338809034908
+    },
+    {
+        "nome": "ByteLegend",
+        "url": "https://github.com/ByteLegend/ByteLegend",
+        "estrelas": 3652,
+        "releases": 0,
+        "idade": 3.6303901437371664
+    },
+    {
+        "nome": "android-common",
+        "url": "https://github.com/litesuits/android-common",
+        "estrelas": 3650,
+        "releases": 0,
+        "idade": 10.310746064339494
+    },
+    {
+        "nome": "incubator-heron",
+        "url": "https://github.com/apache/incubator-heron",
+        "estrelas": 3647,
+        "releases": 56,
+        "idade": 8.982888432580424
+    },
+    {
+        "nome": "Linkage-RecyclerView",
+        "url": "https://github.com/KunMinX/Linkage-RecyclerView",
+        "estrelas": 3639,
+        "releases": 0,
+        "idade": 5.412731006160164
+    },
+    {
+        "nome": "kylin",
+        "url": "https://github.com/apache/kylin",
+        "estrelas": 3634,
+        "releases": 0,
+        "idade": 9.711156741957563
+    },
+    {
+        "nome": "My-Blog",
+        "url": "https://github.com/ZHENFENG13/My-Blog",
+        "estrelas": 3633,
+        "releases": 0,
+        "idade": 5.546885694729637
+    },
+    {
+        "nome": "databus",
+        "url": "https://github.com/linkedin/databus",
+        "estrelas": 3633,
+        "releases": 0,
+        "idade": 11.75359342915811
+    },
+    {
+        "nome": "NullAway",
+        "url": "https://github.com/uber/NullAway",
+        "estrelas": 3620,
+        "releases": 20,
+        "idade": 7.047227926078029
+    },
+    {
+        "nome": "Aliucord",
+        "url": "https://github.com/Aliucord/Aliucord",
+        "estrelas": 3615,
+        "releases": 14,
+        "idade": 3.5564681724845997
+    },
+    {
+        "nome": "react-native-share",
+        "url": "https://github.com/react-native-share/react-native-share",
+        "estrelas": 3614,
+        "releases": 121,
+        "idade": 8.971937029431896
+    },
+    {
+        "nome": "emojicon",
+        "url": "https://github.com/rockerhieu/emojicon",
+        "estrelas": 3612,
+        "releases": 2,
+        "idade": 10.669404517453799
+    },
+    {
+        "nome": "light-4j",
+        "url": "https://github.com/networknt/light-4j",
+        "estrelas": 3609,
+        "releases": 186,
+        "idade": 8.02464065708419
+    },
+    {
+        "nome": "ExplosionField",
+        "url": "https://github.com/tyrantgit/ExplosionField",
+        "estrelas": 3600,
+        "releases": 0,
+        "idade": 8.991101984941821
+    },
+    {
+        "nome": "ShedLock",
+        "url": "https://github.com/lukas-krecan/ShedLock",
+        "estrelas": 3596,
+        "releases": 0,
+        "idade": 7.770020533880904
+    },
+    {
+        "nome": "DropDownMenu",
+        "url": "https://github.com/dongjunkun/DropDownMenu",
+        "estrelas": 3589,
+        "releases": 2,
+        "idade": 9.242984257357975
+    },
+    {
+        "nome": "BannerViewPager",
+        "url": "https://github.com/zhpanvip/BannerViewPager",
+        "estrelas": 3585,
+        "releases": 56,
+        "idade": 7.479808350444901
+    },
+    {
+        "nome": "android-stackblur",
+        "url": "https://github.com/kikoso/android-stackblur",
+        "estrelas": 3585,
+        "releases": 0,
+        "idade": 11.093771389459274
+    },
+    {
+        "nome": "undertow",
+        "url": "https://github.com/undertow-io/undertow",
+        "estrelas": 3581,
+        "releases": 5,
+        "idade": 12.16974674880219
+    },
+    {
+        "nome": "sofa-jraft",
+        "url": "https://github.com/sofastack/sofa-jraft",
+        "estrelas": 3569,
+        "releases": 31,
+        "idade": 5.546885694729637
+    },
+    {
+        "nome": "data-transfer-project",
+        "url": "https://github.com/dtinit/data-transfer-project",
+        "estrelas": 3566,
+        "releases": 61,
+        "idade": 6.704996577686516
+    },
+    {
+        "nome": "Alink",
+        "url": "https://github.com/alibaba/Alink",
+        "estrelas": 3565,
+        "releases": 22,
+        "idade": 5.971252566735113
+    },
+    {
+        "nome": "parceler",
+        "url": "https://github.com/johncarl81/parceler",
+        "estrelas": 3562,
+        "releases": 0,
+        "idade": 11.214236824093087
+    },
+    {
+        "nome": "pixel-dungeon",
+        "url": "https://github.com/watabou/pixel-dungeon",
+        "estrelas": 3556,
+        "releases": 0,
+        "idade": 10.149212867898699
+    },
+    {
+        "nome": "chatgpt-java",
+        "url": "https://github.com/PlexPt/chatgpt-java",
+        "estrelas": 3554,
+        "releases": 24,
+        "idade": 1.78507871321013
+    },
+    {
+        "nome": "FlexibleAdapter",
+        "url": "https://github.com/davideas/FlexibleAdapter",
+        "estrelas": 3552,
+        "releases": 30,
+        "idade": 9.382614647501711
+    },
+    {
+        "nome": "JCTools",
+        "url": "https://github.com/JCTools/JCTools",
+        "estrelas": 3551,
+        "releases": 18,
+        "idade": 10.855578370978781
+    },
+    {
+        "nome": "netty-learning",
+        "url": "https://github.com/code4craft/netty-learning",
+        "estrelas": 3551,
+        "releases": 0,
+        "idade": 11.000684462696784
+    },
+    {
+        "nome": "NewbieGuide",
+        "url": "https://github.com/huburt-Hu/NewbieGuide",
+        "estrelas": 3551,
+        "releases": 20,
+        "idade": 7.145790554414784
+    },
+    {
+        "nome": "MagicaSakura",
+        "url": "https://github.com/bilibili/MagicaSakura",
+        "estrelas": 3550,
+        "releases": 3,
+        "idade": 8.240930869267626
+    },
+    {
+        "nome": "Android-BluetoothKit",
+        "url": "https://github.com/dingjikerbo/Android-BluetoothKit",
+        "estrelas": 3549,
+        "releases": 0,
+        "idade": 8.950034223134839
+    },
+    {
+        "nome": "ThreeTenABP",
+        "url": "https://github.com/JakeWharton/ThreeTenABP",
+        "estrelas": 3544,
+        "releases": 0,
+        "idade": 9.212867898699521
+    },
+    {
+        "nome": "android-maps-utils",
+        "url": "https://github.com/googlemaps/android-maps-utils",
+        "estrelas": 3544,
+        "releases": 42,
+        "idade": 11.342915811088295
+    },
+    {
+        "nome": "retrolambda",
+        "url": "https://github.com/luontola/retrolambda",
+        "estrelas": 3544,
+        "releases": 0,
+        "idade": 11.16769336071184
+    },
+    {
+        "nome": "jabref",
+        "url": "https://github.com/JabRef/jabref",
+        "estrelas": 3544,
+        "releases": 43,
+        "idade": 10.524298425735797
+    },
+    {
+        "nome": "floatingsearchview",
+        "url": "https://github.com/arimorty/floatingsearchview",
+        "estrelas": 3543,
+        "releases": 0,
+        "idade": 8.826830937713895
+    },
+    {
+        "nome": "AppUpdate",
+        "url": "https://github.com/WVector/AppUpdate",
+        "estrelas": 3542,
+        "releases": 3,
+        "idade": 7.252566735112937
+    },
+    {
+        "nome": "hackpad",
+        "url": "https://github.com/dropbox/hackpad",
+        "estrelas": 3538,
+        "releases": 0,
+        "idade": 9.100616016427105
+    },
+    {
+        "nome": "spock",
+        "url": "https://github.com/spockframework/spock",
+        "estrelas": 3538,
+        "releases": 24,
+        "idade": 13.768651608487337
+    },
+    {
+        "nome": "vertx-examples",
+        "url": "https://github.com/vert-x3/vertx-examples",
+        "estrelas": 3537,
+        "releases": 0,
+        "idade": 9.566050650239562
+    },
+    {
+        "nome": "java",
+        "url": "https://github.com/kubernetes-client/java",
+        "estrelas": 3537,
+        "releases": 46,
+        "idade": 7.364818617385352
+    },
+    {
+        "nome": "RecyclerViewPager",
+        "url": "https://github.com/lsjwzh/RecyclerViewPager",
+        "estrelas": 3533,
+        "releases": 10,
+        "idade": 9.670088980150581
+    },
+    {
+        "nome": "Store",
+        "url": "https://github.com/nytimes/Store",
+        "estrelas": 3528,
+        "releases": 0,
+        "idade": 7.8028747433264884
+    },
+    {
+        "nome": "shopizer",
+        "url": "https://github.com/shopizer-ecommerce/shopizer",
+        "estrelas": 3524,
+        "releases": 18,
+        "idade": 11.827515400410677
+    },
+    {
+        "nome": "Music-Player",
+        "url": "https://github.com/andremion/Music-Player",
+        "estrelas": 3520,
+        "releases": 2,
+        "idade": 8.369609856262834
+    },
+    {
+        "nome": "tablesaw",
+        "url": "https://github.com/jtablesaw/tablesaw",
+        "estrelas": 3518,
+        "releases": 79,
+        "idade": 8.714579055441478
+    },
+    {
+        "nome": "Android",
+        "url": "https://github.com/hmkcode/Android",
+        "estrelas": 3517,
+        "releases": 0,
+        "idade": 11.044490075290897
+    },
+    {
+        "nome": "jackson-databind",
+        "url": "https://github.com/FasterXML/jackson-databind",
+        "estrelas": 3514,
+        "releases": 0,
+        "idade": 12.7419575633128
+    },
+    {
+        "nome": "mlkit",
+        "url": "https://github.com/googlesamples/mlkit",
+        "estrelas": 3511,
+        "releases": 1,
+        "idade": 4.309377138945927
+    },
+    {
+        "nome": "SwipeMenuListView",
+        "url": "https://github.com/baoyongzhang/SwipeMenuListView",
+        "estrelas": 3509,
+        "releases": 2,
+        "idade": 10.069815195071868
+    },
+    {
+        "nome": "OpenPDF",
+        "url": "https://github.com/LibrePDF/OpenPDF",
+        "estrelas": 3508,
+        "releases": 73,
+        "idade": 8.188911704312115
+    },
+    {
+        "nome": "RoaringBitmap",
+        "url": "https://github.com/RoaringBitmap/RoaringBitmap",
+        "estrelas": 3500,
+        "releases": 24,
+        "idade": 11.255304585900069
+    },
+    {
+        "nome": "bundletool",
+        "url": "https://github.com/google/bundletool",
+        "estrelas": 3499,
+        "releases": 60,
+        "idade": 6.379192334017796
+    },
+    {
+        "nome": "GeekNews",
+        "url": "https://github.com/codeestX/GeekNews",
+        "estrelas": 3495,
+        "releases": 0,
+        "idade": 8.114989733059549
+    },
+    {
+        "nome": "helidon",
+        "url": "https://github.com/helidon-io/helidon",
+        "estrelas": 3488,
+        "releases": 106,
+        "idade": 6.064339493497604
+    },
+    {
+        "nome": "BlurView",
+        "url": "https://github.com/Dimezis/BlurView",
+        "estrelas": 3488,
+        "releases": 28,
+        "idade": 8.410677618069816
+    },
+    {
+        "nome": "grpc-spring",
+        "url": "https://github.com/grpc-ecosystem/grpc-spring",
+        "estrelas": 3479,
+        "releases": 34,
+        "idade": 7.7207392197125255
+    },
+    {
+        "nome": "LoadSir",
+        "url": "https://github.com/KingJA/LoadSir",
+        "estrelas": 3471,
+        "releases": 6,
+        "idade": 7.047227926078029
+    },
+    {
+        "nome": "libstreaming",
+        "url": "https://github.com/fyhertz/libstreaming",
+        "estrelas": 3471,
+        "releases": 0,
+        "idade": 11.633127994524298
+    },
+    {
+        "nome": "JavaSourceCodeLearning",
+        "url": "https://github.com/coderbruis/JavaSourceCodeLearning",
+        "estrelas": 3470,
+        "releases": 0,
+        "idade": 4.298425735797399
+    },
+    {
+        "nome": "spotbugs",
+        "url": "https://github.com/spotbugs/spotbugs",
+        "estrelas": 3458,
+        "releases": 64,
+        "idade": 7.871321013004791
+    },
+    {
+        "nome": "PreviewSeekBar",
+        "url": "https://github.com/rubensousa/PreviewSeekBar",
+        "estrelas": 3456,
+        "releases": 10,
+        "idade": 7.649555099247091
+    },
+    {
+        "nome": "BottomNavigationViewEx",
+        "url": "https://github.com/ittianyu/BottomNavigationViewEx",
+        "estrelas": 3453,
+        "releases": 19,
+        "idade": 7.852156057494867
+    },
+    {
+        "nome": "spring-cloud-kubernetes",
+        "url": "https://github.com/spring-cloud/spring-cloud-kubernetes",
+        "estrelas": 3451,
+        "releases": 17,
+        "idade": 7.7645448323066395
+    },
+    {
+        "nome": "SeeWeather",
+        "url": "https://github.com/xcc3641/SeeWeather",
+        "estrelas": 3448,
+        "releases": 2,
+        "idade": 8.580424366872005
+    },
+    {
+        "nome": "JavaEETest",
+        "url": "https://github.com/lenve/JavaEETest",
+        "estrelas": 3446,
+        "releases": 0,
+        "idade": 7.767282683093772
+    },
+    {
+        "nome": "SSM",
+        "url": "https://github.com/crossoverJie/SSM",
+        "estrelas": 3444,
+        "releases": 10,
+        "idade": 8.24640657084189
+    },
+    {
+        "nome": "Telegram-X",
+        "url": "https://github.com/TGX-Android/Telegram-X",
+        "estrelas": 3441,
+        "releases": 4,
+        "idade": 3.0882956878850103
+    },
+    {
+        "nome": "ShadowLayout",
+        "url": "https://github.com/lihangleo2/ShadowLayout",
+        "estrelas": 3437,
+        "releases": 27,
+        "idade": 5.19917864476386
+    },
+    {
+        "nome": "android-hidden-api",
+        "url": "https://github.com/anggrayudi/android-hidden-api",
+        "estrelas": 3436,
+        "releases": 1,
+        "idade": 9.010266940451745
+    },
+    {
+        "nome": "grobid",
+        "url": "https://github.com/kermitt2/grobid",
+        "estrelas": 3435,
+        "releases": 21,
+        "idade": 12.013689253935661
+    },
+    {
+        "nome": "AlgoDS",
+        "url": "https://github.com/sherxon/AlgoDS",
+        "estrelas": 3434,
+        "releases": 0,
+        "idade": 7.756331279945243
+    },
+    {
+        "nome": "giffun",
+        "url": "https://github.com/guolindev/giffun",
+        "estrelas": 3434,
+        "releases": 0,
+        "idade": 5.642710472279261
+    },
+    {
+        "nome": "initializr",
+        "url": "https://github.com/spring-io/initializr",
+        "estrelas": 3430,
+        "releases": 16,
+        "idade": 11.28268309377139
+    },
+    {
+        "nome": "openhab1-addons",
+        "url": "https://github.com/openhab/openhab1-addons",
+        "estrelas": 3427,
+        "releases": 14,
+        "idade": 10.99520876112252
+    },
+    {
+        "nome": "immutables",
+        "url": "https://github.com/immutables/immutables",
+        "estrelas": 3421,
+        "releases": 11,
+        "idade": 11.200547570157427
+    },
+    {
+        "nome": "Android-Week-View",
+        "url": "https://github.com/alamkanak/Android-Week-View",
+        "estrelas": 3418,
+        "releases": 4,
+        "idade": 10.00684462696783
+    },
+    {
+        "nome": "RxAndroidBle",
+        "url": "https://github.com/dariuszseweryn/RxAndroidBle",
+        "estrelas": 3418,
+        "releases": 58,
+        "idade": 8.621492128678987
+    },
+    {
+        "nome": "brigadier",
+        "url": "https://github.com/Mojang/brigadier",
+        "estrelas": 3414,
+        "releases": 3,
+        "idade": 10.012320328542094
+    },
+    {
+        "nome": "fernflower",
+        "url": "https://github.com/fesh0r/fernflower",
+        "estrelas": 3411,
+        "releases": 0,
+        "idade": 9.963039014373717
+    },
+    {
+        "nome": "android-priority-jobqueue",
+        "url": "https://github.com/yigit/android-priority-jobqueue",
+        "estrelas": 3402,
+        "releases": 0,
+        "idade": 10.250513347022586
+    },
+    {
+        "nome": "ftgo-application",
+        "url": "https://github.com/microservices-patterns/ftgo-application",
+        "estrelas": 3399,
+        "releases": 0,
+        "idade": 6.907597535934292
+    },
+    {
+        "nome": "migration",
+        "url": "https://github.com/phodal/migration",
+        "estrelas": 3395,
+        "releases": 0,
+        "idade": 4.698151950718686
+    },
+    {
+        "nome": "LQRWeChat",
+        "url": "https://github.com/GitLqr/LQRWeChat",
+        "estrelas": 3395,
+        "releases": 0,
+        "idade": 7.613963039014374
+    },
+    {
+        "nome": "QNotified",
+        "url": "https://github.com/ferredoxin/QNotified",
+        "estrelas": 3394,
+        "releases": 28,
+        "idade": 5.492128678986996
+    },
+    {
+        "nome": "kubernetes-client",
+        "url": "https://github.com/fabric8io/kubernetes-client",
+        "estrelas": 3389,
+        "releases": 114,
+        "idade": 9.196440793976729
+    },
+    {
+        "nome": "yacy_search_server",
+        "url": "https://github.com/yacy/yacy_search_server",
+        "estrelas": 3383,
+        "releases": 0,
+        "idade": 9.49760438056126
+    },
+    {
+        "nome": "android-butterknife-zelezny",
+        "url": "https://github.com/avast/android-butterknife-zelezny",
+        "estrelas": 3380,
+        "releases": 8,
+        "idade": 10.737850787132102
+    },
+    {
+        "nome": "volley",
+        "url": "https://github.com/google/volley",
+        "estrelas": 3376,
+        "releases": 9,
+        "idade": 7.649555099247091
+    },
+    {
+        "nome": "AutoDispose",
+        "url": "https://github.com/uber/AutoDispose",
+        "estrelas": 3368,
+        "releases": 4,
+        "idade": 7.73990417522245
+    },
+    {
+        "nome": "MyBatis-Spring-Boot",
+        "url": "https://github.com/abel533/MyBatis-Spring-Boot",
+        "estrelas": 3366,
+        "releases": 0,
+        "idade": 8.752908966461328
+    },
+    {
+        "nome": "akhq",
+        "url": "https://github.com/tchiotludo/akhq",
+        "estrelas": 3359,
+        "releases": 41,
+        "idade": 6.026009582477755
+    },
+    {
+        "nome": "BubbleSeekBar",
+        "url": "https://github.com/woxingxiao/BubbleSeekBar",
+        "estrelas": 3357,
+        "releases": 12,
+        "idade": 7.874058863791923
+    },
+    {
+        "nome": "marshalsec",
+        "url": "https://github.com/mbechler/marshalsec",
+        "estrelas": 3355,
+        "releases": 0,
+        "idade": 7.329226557152635
+    },
+    {
+        "nome": "http-request",
+        "url": "https://github.com/kevinsawicki/http-request",
+        "estrelas": 3353,
+        "releases": 0,
+        "idade": 12.91170431211499
+    },
+    {
+        "nome": "logging-log4j2",
+        "url": "https://github.com/apache/logging-log4j2",
+        "estrelas": 3346,
+        "releases": 9,
+        "idade": 11.271731690622861
+    },
+    {
+        "nome": "syncthing-android",
+        "url": "https://github.com/syncthing/syncthing-android",
+        "estrelas": 3344,
+        "releases": 329,
+        "idade": 10.570841889117043
+    },
+    {
+        "nome": "MyPerf4J",
+        "url": "https://github.com/LinShunKang/MyPerf4J",
+        "estrelas": 3343,
+        "releases": 23,
+        "idade": 6.52703627652293
+    },
+    {
+        "nome": "DDComponentForAndroid",
+        "url": "https://github.com/luojilab/DDComponentForAndroid",
+        "estrelas": 3335,
+        "releases": 4,
+        "idade": 7.0335386721423685
+    },
+    {
+        "nome": "ScalingLayout",
+        "url": "https://github.com/iammert/ScalingLayout",
+        "estrelas": 3333,
+        "releases": 4,
+        "idade": 6.967830253251198
+    },
+    {
+        "nome": "pdfsam",
+        "url": "https://github.com/torakiki/pdfsam",
+        "estrelas": 3331,
+        "releases": 61,
+        "idade": 10.986995208761122
+    },
+    {
+        "nome": "archi",
+        "url": "https://github.com/ivacf/archi",
+        "estrelas": 3328,
+        "releases": 0,
+        "idade": 9.021218343600275
+    },
+    {
+        "nome": "red5-server",
+        "url": "https://github.com/Red5/red5-server",
+        "estrelas": 3328,
+        "releases": 91,
+        "idade": 10.833675564681725
+    },
+    {
+        "nome": "ffmpeg-android-java",
+        "url": "https://github.com/cropsly/ffmpeg-android-java",
+        "estrelas": 3321,
+        "releases": 8,
+        "idade": 10.023271731690622
+    },
+    {
+        "nome": "Iris",
+        "url": "https://github.com/IrisShaders/Iris",
+        "estrelas": 3318,
+        "releases": 139,
+        "idade": 3.9069130732375084
+    },
+    {
+        "nome": "incubator-kie-optaplanner",
+        "url": "https://github.com/apache/incubator-kie-optaplanner",
+        "estrelas": 3315,
+        "releases": 4,
+        "idade": 13.59069130732375
+    },
+    {
+        "nome": "learning-note",
+        "url": "https://github.com/rbmonster/learning-note",
+        "estrelas": 3313,
+        "releases": 0,
+        "idade": 4.26009582477755
+    },
+    {
+        "nome": "FlatLaf",
+        "url": "https://github.com/JFormDesigner/FlatLaf",
+        "estrelas": 3309,
+        "releases": 82,
+        "idade": 5.086926762491444
+    },
+    {
+        "nome": "AxonFramework",
+        "url": "https://github.com/AxonFramework/AxonFramework",
+        "estrelas": 3308,
+        "releases": 123,
+        "idade": 12.796714579055442
+    },
+    {
+        "nome": "igniter",
+        "url": "https://github.com/trojan-gfw/igniter",
+        "estrelas": 3308,
+        "releases": 33,
+        "idade": 5.861738535249829
+    },
+    {
+        "nome": "jvm-tools",
+        "url": "https://github.com/aragozin/jvm-tools",
+        "estrelas": 3307,
+        "releases": 0,
+        "idade": 12.394250513347023
+    },
+    {
+        "nome": "chatgpt-java",
+        "url": "https://github.com/Grt1228/chatgpt-java",
+        "estrelas": 3307,
+        "releases": 10,
+        "idade": 1.6043805612594113
+    },
+    {
+        "nome": "99-problems",
+        "url": "https://github.com/shekhargulati/99-problems",
+        "estrelas": 3306,
+        "releases": 0,
+        "idade": 8.826830937713895
+    },
+    {
+        "nome": "SuperTextView",
+        "url": "https://github.com/chenBingX/SuperTextView",
+        "estrelas": 3304,
+        "releases": 33,
+        "idade": 7.425051334702259
+    },
+    {
+        "nome": "android",
+        "url": "https://github.com/cSploit/android",
+        "estrelas": 3293,
+        "releases": 33,
+        "idade": 9.960301163586584
+    },
+    {
+        "nome": "linkis",
+        "url": "https://github.com/apache/linkis",
+        "estrelas": 3292,
+        "releases": 31,
+        "idade": 5.160848733744011
+    },
+    {
+        "nome": "actor-platform",
+        "url": "https://github.com/actorapp/actor-platform",
+        "estrelas": 3286,
+        "releases": 97,
+        "idade": 9.248459958932239
+    },
+    {
+        "nome": "jvm-serializers",
+        "url": "https://github.com/eishay/jvm-serializers",
+        "estrelas": 3286,
+        "releases": 0,
+        "idade": 14.403832991101986
+    },
+    {
+        "nome": "leetcode",
+        "url": "https://github.com/gouthampradhan/leetcode",
+        "estrelas": 3277,
+        "releases": 0,
+        "idade": 7.531827515400411
+    },
+    {
+        "nome": "openj9",
+        "url": "https://github.com/eclipse-openj9/openj9",
+        "estrelas": 3271,
+        "releases": 48,
+        "idade": 7.066392881587953
+    },
+    {
+        "nome": "LeafPic",
+        "url": "https://github.com/UnevenSoftware/LeafPic",
+        "estrelas": 3265,
+        "releases": 7,
+        "idade": 8.698151950718685
+    },
+    {
+        "nome": "Chronicle-Queue",
+        "url": "https://github.com/OpenHFT/Chronicle-Queue",
+        "estrelas": 3258,
+        "releases": 511,
+        "idade": 11.29637234770705
+    },
+    {
+        "nome": "UETool",
+        "url": "https://github.com/eleme/UETool",
+        "estrelas": 3257,
+        "releases": 10,
+        "idade": 6.346338124572211
+    },
+    {
+        "nome": "hope-boot",
+        "url": "https://github.com/java-aodeng/hope-boot",
+        "estrelas": 3256,
+        "releases": 2,
+        "idade": 5.924709103353867
+    },
+    {
+        "nome": "PRDownloader",
+        "url": "https://github.com/amitshekhariitbhu/PRDownloader",
+        "estrelas": 3254,
+        "releases": 7,
+        "idade": 6.852840520191649
+    },
+    {
+        "nome": "SurveyKing",
+        "url": "https://github.com/javahuang/SurveyKing",
+        "estrelas": 3253,
+        "releases": 3,
+        "idade": 3.0362765229295
+    },
+    {
+        "nome": "sndcpy",
+        "url": "https://github.com/rom1v/sndcpy",
+        "estrelas": 3249,
+        "releases": 2,
+        "idade": 4.276522929500342
+    },
+    {
+        "nome": "springdoc-openapi",
+        "url": "https://github.com/springdoc/springdoc-openapi",
+        "estrelas": 3248,
+        "releases": 79,
+        "idade": 5.190965092402464
+    },
+    {
+        "nome": "maestro",
+        "url": "https://github.com/Netflix/maestro",
+        "estrelas": 3247,
+        "releases": 0,
+        "idade": 0.4243668720054757
+    },
+    {
+        "nome": "ChipsLayoutManager",
+        "url": "https://github.com/BelooS/ChipsLayoutManager",
+        "estrelas": 3247,
+        "releases": 11,
+        "idade": 8.125941136208077
+    },
+    {
+        "nome": "Cockroach",
+        "url": "https://github.com/android-notes/Cockroach",
+        "estrelas": 3245,
+        "releases": 1,
+        "idade": 7.594798083504449
+    },
+    {
+        "nome": "Android-Tips",
+        "url": "https://github.com/tangqi92/Android-Tips",
+        "estrelas": 3237,
+        "releases": 0,
+        "idade": 9.026694045174539
+    },
+    {
+        "nome": "librec",
+        "url": "https://github.com/guoguibing/librec",
+        "estrelas": 3236,
+        "releases": 3,
+        "idade": 10.691307323750856
+    },
+    {
+        "nome": "jfinal",
+        "url": "https://github.com/jfinal/jfinal",
+        "estrelas": 3235,
+        "releases": 0,
+        "idade": 12.402464065708418
+    },
+    {
+        "nome": "javacore",
+        "url": "https://github.com/dunwu/javacore",
+        "estrelas": 3230,
+        "releases": 0,
+        "idade": 7.08829568788501
+    },
+    {
+        "nome": "my-site",
+        "url": "https://github.com/WinterChenS/my-site",
+        "estrelas": 3229,
+        "releases": 0,
+        "idade": 6.381930184804928
+    },
+    {
+        "nome": "GalleryFinal",
+        "url": "https://github.com/pengjianbo/GalleryFinal",
+        "estrelas": 3228,
+        "releases": 4,
+        "idade": 8.996577686516085
+    },
+    {
+        "nome": "react-native-notifications",
+        "url": "https://github.com/wix/react-native-notifications",
+        "estrelas": 3227,
+        "releases": 28,
+        "idade": 8.454483230663929
+    },
+    {
+        "nome": "cyberduck",
+        "url": "https://github.com/iterate-ch/cyberduck",
+        "estrelas": 3226,
+        "releases": 0,
+        "idade": 7.660506502395619
+    },
+    {
+        "nome": "concurrency-limits",
+        "url": "https://github.com/Netflix/concurrency-limits",
+        "estrelas": 3226,
+        "releases": 100,
+        "idade": 6.770704996577686
+    },
+    {
+        "nome": "android-saripaar",
+        "url": "https://github.com/ragunathjawahar/android-saripaar",
+        "estrelas": 3223,
+        "releases": 3,
+        "idade": 12.030116358658454
+    },
+    {
+        "nome": "camunda",
+        "url": "https://github.com/camunda/camunda",
+        "estrelas": 3221,
+        "releases": 300,
+        "idade": 8.501026694045175
+    },
+    {
+        "nome": "LoganSquare",
+        "url": "https://github.com/bluelinelabs/LoganSquare",
+        "estrelas": 3211,
+        "releases": 0,
+        "idade": 9.587953456536619
+    }
+]
