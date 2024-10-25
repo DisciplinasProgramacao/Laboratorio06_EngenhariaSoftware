@@ -1,0 +1,9 @@
+repo,pr_number,num_files,additions,deletions,duration_hours,description_length,num_comments,num_reviews,num_participants
+puppeteer/puppeteer,13233,15,226,281,2.5383333333333336,317,0,1,2
+puppeteer/puppeteer,13223,30,35,35,19.49861111111111,25,0,4,2
+puppeteer/puppeteer,13222,4,25,0,19.566111111111113,304,0,1,2
+puppeteer/puppeteer,13221,13,279,264,1.6616666666666666,219,0,1,2
+puppeteer/puppeteer,13218,5,142,102,3.5980555555555553,21232,0,1,2
+puppeteer/puppeteer,13216,3,11,43,2.0044444444444443,231,0,3,2
+puppeteer/puppeteer,13213,1,1,1,54.556666666666665,2473,0,0,1
+puppeteer/puppeteer,13212,1,1,1,56.7225,9423,0,1,2

@@ -1,0 +1,10 @@
+repo,pr_number,num_files,additions,deletions,duration_hours,description_length,num_comments,num_reviews,num_participants
+ohmyzsh/ohmyzsh,12779,1,1,0,2.450833333333333,751,0,0,1
+ohmyzsh/ohmyzsh,12778,1,1,0,1.0697222222222222,751,0,0,1
+ohmyzsh/ohmyzsh,12776,1,17,9,1.2433333333333334,1368,0,1,2
+ohmyzsh/ohmyzsh,12773,2,24,22,4.3475,1007,0,0,1
+ohmyzsh/ohmyzsh,12758,1,3,4,20.555,1858,0,1,2
+ohmyzsh/ohmyzsh,12756,1,1,1,2.5588888888888888,902,0,1,2
+ohmyzsh/ohmyzsh,12755,3,20,337,59.9625,765,0,1,2
+ohmyzsh/ohmyzsh,12754,2,23,0,216.61888888888888,765,0,2,2
+ohmyzsh/ohmyzsh,12752,2,25,0,85.08916666666667,798,0,1,2
